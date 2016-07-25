@@ -1,6 +1,8 @@
 # pokemon-ascii
 
-![img/avatar.png](img/avatar.png)
+Watch the pokemon ascii being born!
+
+![img/generation.gif](img/generation.gif)
 
 This is a module for generating ascii art for any of the 721 pokemon, across 7 generations, in the Pokedex. The package includes functions for generating "gravatars" (pokemon associated with an identifier like an email address), and functions for searching and exploring the database. The library includes a [version of the database](pokemon/database/db.json) generated with [scripts/make_db.py](scripts/make_db.py) that can be updated by re-running the script. The choice of ascii art is to produce pokemon images or avatars that are suited for command line tools.
 
@@ -16,12 +18,6 @@ This is a module for generating ascii art for any of the 721 pokemon, across 7 g
         --catch            catch a random pokemon!
 
       usage: pokemon [-h] [--avatar AVATAR] [--pokemon POKEMON] [--message MESSAGE] [--catch]
-
-## Generation
-
-Watch the pokemon ascii being born!
-
-![img/generation.gif](img/generation.gif)
 
 
 ## Installation
@@ -41,7 +37,12 @@ or for the development version, clone the repo and install manually:
 
 ## Produce an avatar
 
-An "avatar" is an image that is consistently associated with some unique ID. To do this, I take the hash of a string, and then use modulus to get the remainder of that hash divided by the number of pokemon in the database. This means that, given that the database doesn't change, and given that the pokemon have unique IDs in the range of 1 to 721, you should always get the same image for some unique id (like an email).
+An "avatar" is an image that is consistently associated with some unique ID. In our case, this is an ascii avatar. For example,
+
+![img/avatar.png](img/avatar.png)
+
+To do this, I take the hash of a string, and then use modulus to get the remainder of that hash divided by the number of pokemon in the database. This means that, given that the database doesn't change, and given that the pokemon have unique IDs in the range of 1 to 721, you should always get the same image for some unique id (like an email).
+
 
       pokemon --avatar vsoch
 
@@ -92,7 +93,7 @@ You can also use the functions on command line:
 
 ## Randomly select a Pokemon
 
-You might want to just randomly get a pokemon! Do this with the --catch command line argument!
+You might want to just randomly get a pokemon! Do this with the `--catch` command line argument!
 
       pokemon --catch
 
