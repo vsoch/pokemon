@@ -1,6 +1,6 @@
 # pokemon-ascii
 
-![img/avatar.png](avatar.png)
+![img/avatar.png](img/avatar.png)
 
 This is a module for generating ascii art for any of the 7K+ pokemon, across 7 generations, in the Pokedex. The package includes functions for generating "gravatars" (pokemon associated with an identifier like an email address), and functions for searching and exploring the database. The library includes a [version of the database](pokemon/database/db.json) generated with [scripts/make_db.py](scripts/make_db.py) that can be updated by re-running the script. The choice of ascii art is to produce pokemon images or avatars that are suited for command line tools.
 
