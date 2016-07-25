@@ -186,3 +186,9 @@ The file pokemons.json will be saved under [pokemon/databases](pokemon/databases
 ## Issues and updates
 
 Would you like different or updated functionality? Please ping me by adding an [issue](https://github.com/vsoch/pokemon-ascii)! I did this for fun, might sneak it into a few command line applications, and it's pretty simple so far! I hope you have fun with it! :D
+
+## Generation
+
+Watch the pokemon ascii being born!
+
+![img/generation.gif](img/generation.gif)
