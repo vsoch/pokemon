@@ -36,6 +36,6 @@ def get_avatar(string,pokemons=None,print_screen=True,include_name=True):
     if include_name == True:
         avatar = "%s\n\n%s" %(avatar,string.split("@")[0])
     if print_screen == True:
-        print avatar    
+        print(avatar)    
     else:
         return avatar
