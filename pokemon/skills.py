@@ -14,7 +14,7 @@ def get_ascii(pid=None,name=None,pokemons=None,return_pokemons=False,message=Non
         for pid,data in pokemon.iteritems():
             if message == None:
                 printme = data["name"].capitalize()
-            print "%s\n\n%s" %(data['ascii'],printme)
+            print("%s\n\n%s" %(data['ascii'],printme))
           
     if return_pokemons == True:
         return pokemon  
