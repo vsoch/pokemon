@@ -1,4 +1,4 @@
-# pokemon-ascii
+# pokemon
 
 Watch the pokemon ascii being born!
 
