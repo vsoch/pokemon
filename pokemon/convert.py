@@ -50,13 +50,12 @@ def handle_image_conversion(image_filepath,new_width=100):
     image = None
     try:
         image = Image.open(image_filepath)
-    except Exception, e:
-        print "Unable to open image file {image_filepath}.".format(image_filepath=image_filepath)
-        print e
+    except Exception:
+        print("Unable to open image file {image_filepath}.".format(image_filepath=image_filepath))
         return
 
     image_ascii = convert_image_to_ascii(image,new_width)
-    print image_ascii
+    print(image_ascii)
     return image_ascii
 
 if __name__=='__main__':

@@ -7,7 +7,7 @@ setup(
     name="pokemon",
 
     # Version number:
-    version="0.2",
+    version="0.21",
 
     # Application author details:
     author="Vanessa Sochat",
@@ -26,8 +26,6 @@ setup(
     license="LICENSE",
     description="ascii database of pokemon... in python!",
     keywords='pokemon, avatar, ascii, gravatar',
-
-    install_requires = ['numpy'],
 
     entry_points = {
         'console_scripts': [

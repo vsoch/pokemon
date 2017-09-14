@@ -1,5 +1,5 @@
 from pokemon.utils import get_installdir, load_json
-import numpy
+from random import choice
 
 base = get_installdir()
 
@@ -22,11 +22,14 @@ def get_pokemon(pid=None,name=None,pokemons=None):
 
     # Next see if they want a random pokemon
     if pid == None:
-        pid = numpy.random.choice(pokemons.keys())
+        pid = str(choice(list(pokemons.keys())))
+
+    # Ensure pid is a string, not integer
+    pid = str(pid)
 
     # Retrieve the random, or user selected pokemon
-    if pid != None and str(pid) in pokemons.keys():
-        return {pid:pokemons[str(pid)]}
+    if pid != None and pid in pokemons.keys():
+        return {pid:pokemons[pid]}
 
     else:
        print("Cannot find pokemon with this criteria!")
@@ -42,6 +45,7 @@ def catch_em_all(data_file=None):
     pokemons = load_json(data_file)
     return pokemons
     
+
 def lookup_pokemon(field,value,pokemons=None):
     '''lookup_pokemon will search a particular field (name) for a value. If no pokemons
     data structure is provided, all will be used.
