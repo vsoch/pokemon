@@ -1,5 +1,4 @@
 from setuptools import setup, find_packages
-import codecs
 import os
 
 setup(
@@ -7,7 +6,7 @@ setup(
     name="pokemon",
 
     # Version number:
-    version="0.21",
+    version="0.22",
 
     # Application author details:
     author="Vanessa Sochat",
@@ -21,7 +20,7 @@ setup(
     zip_safe=False,
 
     # Details
-    url="http://www.github.com/vsoch/pokemon-ascii",
+    url="http://www.github.com/vsoch/pokemon",
 
     license="LICENSE",
     description="ascii database of pokemon... in python!",
