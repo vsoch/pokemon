@@ -36,7 +36,7 @@ import os
 def main():
     parser = argparse.ArgumentParser(
     description="generate pokemon ascii art and avatars")
-    parser.add_argument("--avatar", dest='avatar', help="generate a pokemon avatar for some unique id.", type=str, default=None)
+    parser.add_argument("--avatar", dest='avatar', help="generate a pokemon avatar.", type=str, default=None)
     parser.add_argument("--pokemon", dest='pokemon', help="generate ascii for a particular pokemon (by name)", type=str, default=None)
     parser.add_argument("--message", dest='message', help="add a custom message to your ascii!", type=str, default=None)
     parser.add_argument('--catch', help="catch a random pokemon!", dest='catch', default=False, action='store_true')
@@ -46,7 +46,6 @@ def main():
     except:
         parser.print_help()
         sys.exit(0)
-
 
     if args.list is True:
         names = catch_em_all(return_names=True)

@@ -1,5 +1,4 @@
 from setuptools import setup, find_packages
-import codecs
 import os
 
 setup(
@@ -7,7 +6,7 @@ setup(
     name="pokemon",
 
     # Version number:
-    version="0.32",
+    version="0.33",
 
     # Application author details:
     author="Vanessa Sochat",
@@ -21,13 +20,11 @@ setup(
     zip_safe=False,
 
     # Details
-    url="http://www.github.com/vsoch/pokemon-ascii",
+    url="http://www.github.com/vsoch/pokemon",
 
     license="LICENSE",
     description="ascii database of pokemon... in python!",
     keywords='pokemon, avatar, ascii, gravatar',
-
-    install_requires = [],
 
     entry_points = {
         'console_scripts': [
