@@ -3,3 +3,6 @@
 
 %apprun avatar
     pokemon --avatar "$@"
+
+%apprun list
+    pokemon --list

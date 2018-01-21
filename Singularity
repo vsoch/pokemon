@@ -8,7 +8,8 @@ From: continuumio/miniconda3
 %runscript
     if [ $# -eq 0 ]
         then
-        exec /opt/conda/bin/pokemon "$@"
+        echo "Try one of these commands:"
+        exec /opt/conda/bin/scif apps
     else
         exec /opt/conda/bin/scif "$@"
     fi
