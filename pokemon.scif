@@ -1,5 +1,14 @@
 %apprun catch
-    pokemon --catch
+    if [ $# -eq 0 ]
+        then
+
+        # Catch a random pokemon
+        exec pokemon --catch
+    else
+
+        # Catch a specific pokemon
+        exec pokemon --pokemon "$@"
+    fi
 
 %apprun avatar
     pokemon --avatar "$@"
