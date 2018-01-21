@@ -257,16 +257,13 @@ python setup.py install
 ```
 
 ## Docker
-You can also use the Docker image, which provides the various functions and [Scientific Filesystem](https://sci-f.github.io) apps.
-
-```
-docker run vanessa/pokemon
-```
+You can also use the [Docker image](https://hub.docker.com/r/vanessa/pokemon/), which provides the various functions and [Scientific Filesystem](https://sci-f.github.io) apps.
 
 What can I do?
 
 ```
 docker run vanessa/pokemon apps
+      list
      catch
     avatar
 ```
@@ -281,6 +278,18 @@ Catch a random Pokemon
 
 ```
 docker run vanessa/pokemon run catch
+```
+
+What Pokemon can I catch?
+
+```
+docker run vanessa/pokemon run list
+```
+
+Catch me Venusaur!
+
+```
+docker run vanessa/pokemon run catch Venusaur
 ```
 
 ## Singularity
@@ -294,22 +303,80 @@ sudo singularity build pokemons Singularity
 What can I do?
 
 ```
-docker run vanessa/pokemon apps
-     catch
+./pokemons apps
     avatar
+     catch
+      list
 ```
 
 Give me my avatar!
 
 ```
-docker run vanessa/pokemon run avatar vsoch
+./pokemons run avatar vsoch
 ```
 
 Catch a random Pokemon
 
 ```
-docker run vanessa/pokemon run catch
+./pokemons run catch
 ```
+
+What Pokemons can I catch?
+
+```
+./pokemons list
+...
+Phantump
+Trevenant
+Pumpkaboo
+Gourgeist
+Bergmite
+Avalugg
+Noibat
+Noivern
+Xerneas
+Yveltal
+Zygarde
+Diancie
+Hoopa
+Volcanion
+```
+
+Catch a specific Pokemon
+
+```
+./pokemons run catch Pikachu
+[catch] executing /bin/bash /scif/apps/catch/scif/runscript Pikachu
+@@@@@@@@@@@@@.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@,??@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@.###@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@,##:,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*?@@
+@@@@@@@@@#::::@@@@@@@@@@@@@@@@@@@@@@@@@,*.???%@@@@@@@@*,,,@@
+@@@@@@@@::,,::@@@@@@@@@@@@@@@@@@%:,,:#####??,@@@@@@*,,,,,,:@
+@@@@@@@@%:,,:.@@@@@@@@@@@@@@.:::::::.#####@@@@@@@.::,,,,,::@
+@@@@@@@@%::::.,,,,:,:%@@:,:::::::::S###@@@@@@@@%,:::::,::,:%
+@@@@@@@@.S,,,,,,,,::::::::::::::::?@@@@@@@@@@?::::::::::::::
+@@@@@@@:,,,,,,,:,#.#?::::::+.,@@@@@@@@@@@@@.::::::::::::::::
+@@@@@,#:S,,:,::::*#.,:::::::*@@@@@@@@@@@@,::::::::::::::::+@
+@@@@@:%S::::::*,,:::...+.::::S@@@@@@@@@@:::::::::::::::%@@@@
+@@@@*.::::,SSSS%::::+++++:::::%@@@@@@@@:::::::::::::%@@@@@@@
+@@@@@.+:,,::S%+S::::.+++:::::::,@@@@@@@@@:::*::::S@@@@@@@@@@
+@@@@@@.S:::::.*.::::::::::::::::@@@@@@@@@,****%@@@@@@@@@@@@@
+@@@@@@@@.:::::::::::::::*:,**::::,@@@@@@@@,***@@@@@@@@@@@@@@
+@@@@,%,::::::::::::::::*.****::,:S%@@@@@@......@@@@@@@@@@@@@
+,**::::,,,,,,:::::::::::+:**:::::,::@@?.....S@@@@@@@@@@@@@@@
+%:*:,:::,,,,,,,,,,,::::::%::::::,,,::,@S..+@@@@@@@@@@@@@@@@@
+@@@@@,S%+::*,:,,::,:,,,,::::::::::::::?@@%SS?@@@@@@@@@@@@@@@
+@@@@@@@@@@@@.:,,,,:,,,,,,,:::::::::::::+SSSSS.@@@@@@@@@@@@@@
+@@@@@@@@@@@@@:,,,:::::,::::,:::::::::::*?.@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@+,:,:,::::::::::,,::,::::**.SS@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@S,,:,,,,::::::::::::::::****@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@:::::::::****::::::*******S@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@**********.%..***********@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@,?+S%@@@@@@@@@@@@......@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@+..*@@@@@@@@@@@@@:+**@@@@@@@@@@@@@@@@@@@@
+```
+
 
 ## Issues and updates
 Would you like different or updated functionality? Please ping me by adding an [issue](https://github.com/vsoch/pokemon)! I did this for fun, might sneak it into a few command line applications, and it's pretty simple so far! I hope you have fun with it! :D
