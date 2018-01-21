@@ -1,5 +1,31 @@
+'''
+
+Copyright (c) 2016-2018 Vanessa Sochat
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+'''
+
 from pokemon.utils import get_installdir, load_json
-import numpy
+from random import choice
+import hashlib
+import sys
 
 base = get_installdir()
 
@@ -13,26 +39,35 @@ def get_pokemon(pid=None,name=None,pokemons=None):
         pokemons = catch_em_all()
 
     # First see if we want to find a pokemon by name
-    if name != None:
+    if name is not None:
         catches = lookup_pokemon(field="name",
                                  value=name,
                                  pokemons=pokemons)            
-        if len(catches) > 0:
+        if catches is not None:
             return catches
+        print("We don't have a pokemon called %s" %name)
+        sys.exit(1)
 
     # Next see if they want a random pokemon
-    if pid == None:
-        pid = numpy.random.choice(pokemons.keys())
+    if pid is None:
+        choices = list(pokemons.keys())
+        pid = int(choice(choices))
 
     # Retrieve the random, or user selected pokemon
-    if pid != None and str(pid) in pokemons.keys():
+    if pid is not None and str(pid) in pokemons.keys():
         return {pid:pokemons[str(pid)]}
 
     else:
        print("Cannot find pokemon with this criteria!")
 
 
-def catch_em_all(data_file=None):
+def get_trainer(name):
+    '''return the unique id for a trainer, determined by the md5 sum
+    '''
+    name = name.lower()
+    return int(hashlib.md5(name.encode('utf-8')).hexdigest(), 16) % 10**8
+
+def catch_em_all(data_file=None, return_names=False):
     '''catch_em_all returns the entire database of pokemon, a base function for starting
     :param data_file: location of pokemons.json data file (not required)
     '''
@@ -40,8 +75,15 @@ def catch_em_all(data_file=None):
         data_file = "%s/database/pokemons.json" %(base)
 
     pokemons = load_json(data_file)
+
+    if return_names is True:
+        names = []
+        for key,meta in pokemons.items():
+            names.append(meta['name'])
+        return names
     return pokemons
     
+
 def lookup_pokemon(field,value,pokemons=None):
     '''lookup_pokemon will search a particular field (name) for a value. If no pokemons
     data structure is provided, all will be used.
@@ -52,7 +94,7 @@ def lookup_pokemon(field,value,pokemons=None):
         pokemons = catch_em_all()
 
     catches = {}
-    for pid,data in pokemons.iteritems():
+    for pid,data in pokemons.items():
         if isinstance(data[field],list):
             for entry in data[field]:
                 found = search_entry(entry,value)        
