@@ -1,0 +1,5 @@
+%apprun catch
+    pokemon --catch
+
+%apprun avatar
+    pokemon --avatar "$@"

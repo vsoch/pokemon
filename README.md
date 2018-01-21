@@ -256,5 +256,60 @@ The file pokemons.json will be saved under [pokemon/databases](pokemon/databases
 python setup.py install
 ```
 
+## Docker
+You can also use the Docker image, which provides the various functions and [Scientific Filesystem](https://sci-f.github.io) apps.
+
+```
+docker run vanessa/pokemon
+```
+
+What can I do?
+
+```
+docker run vanessa/pokemon apps
+     catch
+    avatar
+```
+
+Give me my avatar!
+
+```
+docker run vanessa/pokemon run avatar vsoch
+```
+
+Catch a random Pokemon
+
+```
+docker run vanessa/pokemon run catch
+```
+
+## Singularity
+We can do the same with Singularity containers!
+
+
+```
+sudo singularity build pokemons Singularity
+```
+
+What can I do?
+
+```
+docker run vanessa/pokemon apps
+     catch
+    avatar
+```
+
+Give me my avatar!
+
+```
+docker run vanessa/pokemon run avatar vsoch
+```
+
+Catch a random Pokemon
+
+```
+docker run vanessa/pokemon run catch
+```
+
 ## Issues and updates
 Would you like different or updated functionality? Please ping me by adding an [issue](https://github.com/vsoch/pokemon)! I did this for fun, might sneak it into a few command line applications, and it's pretty simple so far! I hope you have fun with it! :D
