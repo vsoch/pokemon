@@ -1,7 +1,7 @@
 #from pokemon.convert import handle_image_conversion
 from bs4 import BeautifulSoup
-from clefairy.convert import handle_image_conversion
-from clefairy.utils import save_json
+from pokemon.convert import handle_image_conversion
+from pokemon.utils import save_json
 import requests
 import urllib
 import os
