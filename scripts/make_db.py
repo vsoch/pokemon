@@ -6,6 +6,7 @@ import requests
 import urllib
 import os
 import re
+import pickle
 
 '''
 Copyright (c) 2016-2018 Vanessa Sochat
@@ -95,7 +96,6 @@ for dirname in [database_dir,image_dir]:
 response = requests.get(pokemon_index)
 soup = BeautifulSoup(response.text)
 pokemon = soup.findAll("span",attrs={"class": "infocard-lg-data text-muted"})
-
 if len(pokemon) != 721:
     print("WARNING: There should be 721 pokemon, %s found!" %(len(pokemon)))
 
@@ -136,9 +136,16 @@ for poke in pokemon:
         if header in save_stats:
             stats[header] = content
         elif header == "Weight":
-            stats[header] = float(content.split('lbs')[0])
+            weight = float(content.partition('kg')[0])
+            #print(weight)
+            #stats[header] = float(content.split('lbs')[0])
+            stats[header] = float(content.partition('kg')[0])
         elif header == "Height":
-            stats[header] = float(re.sub("m|[)]","",content.split("(")[-1]))
+            #print((re.sub("m|[)]","",content.split("(")[-1])))
+            #stats[header] = float(re.sub("m|[)]","",content.split("(")[-1]))
+            whatis = float(content.partition('m')[0])
+            #print(whatis)
+            stats[header] = float(content.partition('m')[0])
         elif header in ["Abilities","Type"]:
             stats[header] = [x.getText().lower() for x in row.findAll('a')]
 
@@ -148,8 +155,15 @@ for poke in pokemon:
                      "link":url,
                      "ascii":ascii}
 
-    for stat_name,stat_value in stats.iteritems():
+    for stat_name,stat_value in stats.items():
         pokemons[pid][stat_name.lower()] = stat_value
 
+pokemons
+print(pokemons)
 output_file = "%s/pokemons.json" %(database_dir)
+print(output_file)
+new_path = "%s/pokemons2.json" %(database_dir)
+
+with open(new_path, 'w') as file:
+     file.write(pickle.dumps(pokemons))
 save_json(pokemons,output_file)
