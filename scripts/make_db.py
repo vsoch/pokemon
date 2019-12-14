@@ -159,4 +159,7 @@ for poke in pokemon:
         pokemons[pid][stat_name.lower()] = stat_value
 
 output_file = "%s/pokemons.json" %(database_dir)
+huh=type(pokemons)
+print("type for huh:")
+print(huh)
 save_json(pokemons,output_file)
