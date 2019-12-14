@@ -158,7 +158,5 @@ for poke in pokemon:
     for stat_name,stat_value in stats.items():
         pokemons[pid][stat_name.lower()] = stat_value
 
-pokemons
-print(pokemons)
 output_file = "%s/pokemons.json" %(database_dir)
 save_json(pokemons,output_file)

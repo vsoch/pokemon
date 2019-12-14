@@ -6,7 +6,7 @@ setup(
     name="clefairy",
 
     # Version number:
-    version="0.38",
+    version="0.39",
 
     # Application author details:
     author="Vanessa Sochat",
