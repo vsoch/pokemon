@@ -161,9 +161,4 @@ for poke in pokemon:
 pokemons
 print(pokemons)
 output_file = "%s/pokemons.json" %(database_dir)
-print(output_file)
-new_path = "%s/pokemons2.json" %(database_dir)
-
-with open(new_path, 'w') as file:
-     file.write(pickle.dumps(pokemons))
 save_json(pokemons,output_file)
