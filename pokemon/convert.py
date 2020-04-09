@@ -69,7 +69,6 @@ def handle_image_conversion(image_filepath,new_width):
         print(e)
         return
     image_ascii = convert_image_to_ascii(image,new_width)
-    print(image_ascii)
     return image_ascii
 
 
