@@ -34,9 +34,6 @@ def get_installdir():
   
 def save_json(json_obj,output_file):
     with open(output_file,'w') as filey:
-        whatis=type(json_obj)
-        print("type for whatis:")
-        print(whatis)
         filey.write(json.dumps(json_obj)) #, sort_keys=True,indent=4, separators=(',', ': ')
     return output_file
 
