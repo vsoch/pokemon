@@ -3,10 +3,10 @@ import os
 
 setup(
     # Application name:
-    name="clefairy",
+    name="pokemon",
 
     # Version number:
-    version="0.105",
+    version="0.35",
 
     # Application author details:
     author="Vanessa Sochat",
