@@ -1,7 +1,6 @@
-#from pokemon.convert import handle_image_conversion
 from bs4 import BeautifulSoup
-from convert import handle_image_conversion
-from utils import save_json
+from pokemon.convert import handle_image_conversion
+from pokemon.utils import save_json
 import requests
 import urllib
 import os
@@ -31,7 +30,7 @@ base = "http://pokemondb.net"
 pokemon_index = "%s/pokedex/national" %(base)
 
 # Make output folders for data, and raw images
-database_dir = os.path.abspath('./pokemon/database')
+database_dir = os.path.abspath('../pokemon/database')
 image_dir = "%s/images" %(database_dir)
 for dirname in [database_dir,image_dir]:
     if not os.path.exists(dirname):
@@ -81,8 +80,7 @@ for poke in pokemon:
         if header in save_stats:
             stats[header] = content
         elif header == "Weight":
-            weight = float(content.partition('kg')[0])
-            stats[header] = float(content.partition('kg')[0])
+            stats[header] = float(re.sub("lbs|[)]","",content.partition("(")[-1]))
         elif header == "Height":
             stats[header] = float(content.partition('m')[0])
         elif header in ["Abilities","Type"]:

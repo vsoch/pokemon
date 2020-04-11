@@ -13,7 +13,7 @@
             "grass",
             "poison"
         ],
-        "weight": 6.9
+        "weight": 15.2
     },
     "2": {
         "abilities": [
@@ -29,7 +29,7 @@
             "grass",
             "poison"
         ],
-        "weight": 13.0
+        "weight": 28.7
     },
     "3": {
         "abilities": [
@@ -45,7 +45,7 @@
             "grass",
             "poison"
         ],
-        "weight": 100.0
+        "weight": 220.5
     },
     "4": {
         "abilities": [
@@ -60,7 +60,7 @@
         "type": [
             "fire"
         ],
-        "weight": 8.5
+        "weight": 18.7
     },
     "5": {
         "abilities": [
@@ -75,7 +75,7 @@
         "type": [
             "fire"
         ],
-        "weight": 19.0
+        "weight": 41.9
     },
     "6": {
         "abilities": [
@@ -91,7 +91,7 @@
             "fire",
             "flying"
         ],
-        "weight": 90.5
+        "weight": 199.5
     },
     "7": {
         "abilities": [
@@ -106,7 +106,7 @@
         "type": [
             "water"
         ],
-        "weight": 9.0
+        "weight": 19.8
     },
     "8": {
         "abilities": [
@@ -121,7 +121,7 @@
         "type": [
             "water"
         ],
-        "weight": 22.5
+        "weight": 49.6
     },
     "9": {
         "abilities": [
@@ -136,7 +136,7 @@
         "type": [
             "water"
         ],
-        "weight": 85.5
+        "weight": 188.5
     },
     "10": {
         "abilities": [
@@ -151,7 +151,7 @@
         "type": [
             "bug"
         ],
-        "weight": 2.9
+        "weight": 6.4
     },
     "11": {
         "abilities": [
@@ -165,7 +165,7 @@
         "type": [
             "bug"
         ],
-        "weight": 9.9
+        "weight": 21.8
     },
     "12": {
         "abilities": [
@@ -181,7 +181,7 @@
             "bug",
             "flying"
         ],
-        "weight": 32.0
+        "weight": 70.5
     },
     "13": {
         "abilities": [
@@ -197,7 +197,7 @@
             "bug",
             "poison"
         ],
-        "weight": 3.2
+        "weight": 7.1
     },
     "14": {
         "abilities": [
@@ -212,7 +212,7 @@
             "bug",
             "poison"
         ],
-        "weight": 10.0
+        "weight": 22.0
     },
     "15": {
         "abilities": [
@@ -228,7 +228,7 @@
             "bug",
             "poison"
         ],
-        "weight": 29.5
+        "weight": 65.0
     },
     "16": {
         "abilities": [
@@ -245,7 +245,7 @@
             "normal",
             "flying"
         ],
-        "weight": 1.8
+        "weight": 4.0
     },
     "17": {
         "abilities": [
@@ -262,7 +262,7 @@
             "normal",
             "flying"
         ],
-        "weight": 30.0
+        "weight": 66.1
     },
     "18": {
         "abilities": [
@@ -279,7 +279,7 @@
             "normal",
             "flying"
         ],
-        "weight": 39.5
+        "weight": 87.1
     },
     "19": {
         "abilities": [
@@ -295,7 +295,7 @@
         "type": [
             "normal"
         ],
-        "weight": 3.5
+        "weight": 7.7
     },
     "20": {
         "abilities": [
@@ -311,7 +311,7 @@
         "type": [
             "normal"
         ],
-        "weight": 18.5
+        "weight": 40.8
     },
     "21": {
         "abilities": [
@@ -327,7 +327,7 @@
             "normal",
             "flying"
         ],
-        "weight": 2.0
+        "weight": 4.4
     },
     "22": {
         "abilities": [
@@ -343,7 +343,7 @@
             "normal",
             "flying"
         ],
-        "weight": 38.0
+        "weight": 83.8
     },
     "23": {
         "abilities": [
@@ -359,7 +359,7 @@
         "type": [
             "poison"
         ],
-        "weight": 6.9
+        "weight": 15.2
     },
     "24": {
         "abilities": [
@@ -375,7 +375,7 @@
         "type": [
             "poison"
         ],
-        "weight": 65.0
+        "weight": 143.3
     },
     "25": {
         "abilities": [
@@ -390,7 +390,7 @@
         "type": [
             "electric"
         ],
-        "weight": 6.0
+        "weight": 13.2
     },
     "26": {
         "abilities": [
@@ -405,7 +405,7 @@
         "type": [
             "electric"
         ],
-        "weight": 30.0
+        "weight": 66.1
     },
     "27": {
         "abilities": [
@@ -420,7 +420,7 @@
         "type": [
             "ground"
         ],
-        "weight": 12.0
+        "weight": 26.5
     },
     "28": {
         "abilities": [
@@ -435,7 +435,7 @@
         "type": [
             "ground"
         ],
-        "weight": 29.5
+        "weight": 65.0
     },
     "29": {
         "abilities": [
@@ -451,7 +451,7 @@
         "type": [
             "poison"
         ],
-        "weight": 7.0
+        "weight": 15.4
     },
     "30": {
         "abilities": [
@@ -467,7 +467,7 @@
         "type": [
             "poison"
         ],
-        "weight": 20.0
+        "weight": 44.1
     },
     "31": {
         "abilities": [
@@ -484,7 +484,7 @@
             "poison",
             "ground"
         ],
-        "weight": 60.0
+        "weight": 132.3
     },
     "32": {
         "abilities": [
@@ -500,7 +500,7 @@
         "type": [
             "poison"
         ],
-        "weight": 9.0
+        "weight": 19.8
     },
     "33": {
         "abilities": [
@@ -516,7 +516,7 @@
         "type": [
             "poison"
         ],
-        "weight": 19.5
+        "weight": 43.0
     },
     "34": {
         "abilities": [
@@ -533,7 +533,7 @@
             "poison",
             "ground"
         ],
-        "weight": 62.0
+        "weight": 136.7
     },
     "35": {
         "abilities": [
@@ -549,7 +549,7 @@
         "type": [
             "fairy"
         ],
-        "weight": 7.5
+        "weight": 16.5
     },
     "36": {
         "abilities": [
@@ -565,7 +565,7 @@
         "type": [
             "fairy"
         ],
-        "weight": 40.0
+        "weight": 88.2
     },
     "37": {
         "abilities": [
@@ -580,7 +580,7 @@
         "type": [
             "fire"
         ],
-        "weight": 9.9
+        "weight": 21.8
     },
     "38": {
         "abilities": [
@@ -595,7 +595,7 @@
         "type": [
             "fire"
         ],
-        "weight": 19.9
+        "weight": 43.9
     },
     "39": {
         "abilities": [
@@ -612,7 +612,7 @@
             "normal",
             "fairy"
         ],
-        "weight": 5.5
+        "weight": 12.1
     },
     "40": {
         "abilities": [
@@ -629,7 +629,7 @@
             "normal",
             "fairy"
         ],
-        "weight": 12.0
+        "weight": 26.5
     },
     "41": {
         "abilities": [
@@ -645,7 +645,7 @@
             "poison",
             "flying"
         ],
-        "weight": 7.5
+        "weight": 16.5
     },
     "42": {
         "abilities": [
@@ -661,7 +661,7 @@
             "poison",
             "flying"
         ],
-        "weight": 55.0
+        "weight": 121.3
     },
     "43": {
         "abilities": [
@@ -677,7 +677,7 @@
             "grass",
             "poison"
         ],
-        "weight": 5.4
+        "weight": 11.9
     },
     "44": {
         "abilities": [
@@ -693,7 +693,7 @@
             "grass",
             "poison"
         ],
-        "weight": 8.6
+        "weight": 19.0
     },
     "45": {
         "abilities": [
@@ -709,7 +709,7 @@
             "grass",
             "poison"
         ],
-        "weight": 18.6
+        "weight": 41.0
     },
     "46": {
         "abilities": [
@@ -726,7 +726,7 @@
             "bug",
             "grass"
         ],
-        "weight": 5.4
+        "weight": 11.9
     },
     "47": {
         "abilities": [
@@ -743,7 +743,7 @@
             "bug",
             "grass"
         ],
-        "weight": 29.5
+        "weight": 65.0
     },
     "48": {
         "abilities": [
@@ -760,7 +760,7 @@
             "bug",
             "poison"
         ],
-        "weight": 30.0
+        "weight": 66.1
     },
     "49": {
         "abilities": [
@@ -777,7 +777,7 @@
             "bug",
             "poison"
         ],
-        "weight": 12.5
+        "weight": 27.6
     },
     "50": {
         "abilities": [
@@ -793,7 +793,7 @@
         "type": [
             "ground"
         ],
-        "weight": 0.8
+        "weight": 1.8
     },
     "51": {
         "abilities": [
@@ -809,7 +809,7 @@
         "type": [
             "ground"
         ],
-        "weight": 33.3
+        "weight": 73.4
     },
     "52": {
         "abilities": [
@@ -825,7 +825,7 @@
         "type": [
             "normal"
         ],
-        "weight": 4.2
+        "weight": 9.3
     },
     "53": {
         "abilities": [
@@ -841,7 +841,7 @@
         "type": [
             "normal"
         ],
-        "weight": 32.0
+        "weight": 70.5
     },
     "54": {
         "abilities": [
@@ -857,7 +857,7 @@
         "type": [
             "water"
         ],
-        "weight": 19.6
+        "weight": 43.2
     },
     "55": {
         "abilities": [
@@ -873,7 +873,7 @@
         "type": [
             "water"
         ],
-        "weight": 76.6
+        "weight": 168.9
     },
     "56": {
         "abilities": [
@@ -889,7 +889,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 28.0
+        "weight": 61.7
     },
     "57": {
         "abilities": [
@@ -905,7 +905,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 32.0
+        "weight": 70.5
     },
     "58": {
         "abilities": [
@@ -921,7 +921,7 @@
         "type": [
             "fire"
         ],
-        "weight": 19.0
+        "weight": 41.9
     },
     "59": {
         "abilities": [
@@ -937,7 +937,7 @@
         "type": [
             "fire"
         ],
-        "weight": 155.0
+        "weight": 341.7
     },
     "60": {
         "abilities": [
@@ -953,7 +953,7 @@
         "type": [
             "water"
         ],
-        "weight": 12.4
+        "weight": 27.3
     },
     "61": {
         "abilities": [
@@ -969,7 +969,7 @@
         "type": [
             "water"
         ],
-        "weight": 20.0
+        "weight": 44.1
     },
     "62": {
         "abilities": [
@@ -986,7 +986,7 @@
             "water",
             "fighting"
         ],
-        "weight": 54.0
+        "weight": 119.0
     },
     "63": {
         "abilities": [
@@ -1002,7 +1002,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 19.5
+        "weight": 43.0
     },
     "64": {
         "abilities": [
@@ -1018,7 +1018,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 56.5
+        "weight": 124.6
     },
     "65": {
         "abilities": [
@@ -1034,7 +1034,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 48.0
+        "weight": 105.8
     },
     "66": {
         "abilities": [
@@ -1050,7 +1050,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 19.5
+        "weight": 43.0
     },
     "67": {
         "abilities": [
@@ -1066,7 +1066,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 70.5
+        "weight": 155.4
     },
     "68": {
         "abilities": [
@@ -1082,7 +1082,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 130.0
+        "weight": 286.6
     },
     "69": {
         "abilities": [
@@ -1098,7 +1098,7 @@
             "grass",
             "poison"
         ],
-        "weight": 4.0
+        "weight": 8.8
     },
     "70": {
         "abilities": [
@@ -1114,7 +1114,7 @@
             "grass",
             "poison"
         ],
-        "weight": 6.4
+        "weight": 14.1
     },
     "71": {
         "abilities": [
@@ -1130,7 +1130,7 @@
             "grass",
             "poison"
         ],
-        "weight": 15.5
+        "weight": 34.2
     },
     "72": {
         "abilities": [
@@ -1147,7 +1147,7 @@
             "water",
             "poison"
         ],
-        "weight": 45.5
+        "weight": 100.3
     },
     "73": {
         "abilities": [
@@ -1164,7 +1164,7 @@
             "water",
             "poison"
         ],
-        "weight": 55.0
+        "weight": 121.3
     },
     "74": {
         "abilities": [
@@ -1181,7 +1181,7 @@
             "rock",
             "ground"
         ],
-        "weight": 20.0
+        "weight": 44.1
     },
     "75": {
         "abilities": [
@@ -1198,7 +1198,7 @@
             "rock",
             "ground"
         ],
-        "weight": 105.0
+        "weight": 231.5
     },
     "76": {
         "abilities": [
@@ -1215,7 +1215,7 @@
             "rock",
             "ground"
         ],
-        "weight": 300.0
+        "weight": 661.4
     },
     "77": {
         "abilities": [
@@ -1231,7 +1231,7 @@
         "type": [
             "fire"
         ],
-        "weight": 30.0
+        "weight": 66.1
     },
     "78": {
         "abilities": [
@@ -1247,7 +1247,7 @@
         "type": [
             "fire"
         ],
-        "weight": 95.0
+        "weight": 209.4
     },
     "79": {
         "abilities": [
@@ -1264,7 +1264,7 @@
             "water",
             "psychic"
         ],
-        "weight": 36.0
+        "weight": 79.4
     },
     "80": {
         "abilities": [
@@ -1281,7 +1281,7 @@
             "water",
             "psychic"
         ],
-        "weight": 78.5
+        "weight": 173.1
     },
     "81": {
         "abilities": [
@@ -1298,7 +1298,7 @@
             "electric",
             "steel"
         ],
-        "weight": 6.0
+        "weight": 13.2
     },
     "82": {
         "abilities": [
@@ -1315,7 +1315,7 @@
             "electric",
             "steel"
         ],
-        "weight": 60.0
+        "weight": 132.3
     },
     "83": {
         "abilities": [
@@ -1332,7 +1332,7 @@
             "normal",
             "flying"
         ],
-        "weight": 15.0
+        "weight": 33.1
     },
     "84": {
         "abilities": [
@@ -1349,7 +1349,7 @@
             "normal",
             "flying"
         ],
-        "weight": 39.2
+        "weight": 86.4
     },
     "85": {
         "abilities": [
@@ -1366,7 +1366,7 @@
             "normal",
             "flying"
         ],
-        "weight": 85.2
+        "weight": 187.8
     },
     "86": {
         "abilities": [
@@ -1382,7 +1382,7 @@
         "type": [
             "water"
         ],
-        "weight": 90.0
+        "weight": 198.4
     },
     "87": {
         "abilities": [
@@ -1399,7 +1399,7 @@
             "water",
             "ice"
         ],
-        "weight": 120.0
+        "weight": 264.6
     },
     "88": {
         "abilities": [
@@ -1415,7 +1415,7 @@
         "type": [
             "poison"
         ],
-        "weight": 30.0
+        "weight": 66.1
     },
     "89": {
         "abilities": [
@@ -1431,7 +1431,7 @@
         "type": [
             "poison"
         ],
-        "weight": 30.0
+        "weight": 66.1
     },
     "90": {
         "abilities": [
@@ -1447,7 +1447,7 @@
         "type": [
             "water"
         ],
-        "weight": 4.0
+        "weight": 8.8
     },
     "91": {
         "abilities": [
@@ -1464,7 +1464,7 @@
             "water",
             "ice"
         ],
-        "weight": 132.5
+        "weight": 292.1
     },
     "92": {
         "abilities": [
@@ -1479,7 +1479,7 @@
             "ghost",
             "poison"
         ],
-        "weight": 0.1
+        "weight": 0.2
     },
     "93": {
         "abilities": [
@@ -1494,7 +1494,7 @@
             "ghost",
             "poison"
         ],
-        "weight": 0.1
+        "weight": 0.2
     },
     "94": {
         "abilities": [
@@ -1509,7 +1509,7 @@
             "ghost",
             "poison"
         ],
-        "weight": 40.5
+        "weight": 89.3
     },
     "95": {
         "abilities": [
@@ -1526,7 +1526,7 @@
             "rock",
             "ground"
         ],
-        "weight": 210.0
+        "weight": 463.0
     },
     "96": {
         "abilities": [
@@ -1542,7 +1542,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 32.4
+        "weight": 71.4
     },
     "97": {
         "abilities": [
@@ -1558,7 +1558,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 75.6
+        "weight": 166.7
     },
     "98": {
         "abilities": [
@@ -1574,7 +1574,7 @@
         "type": [
             "water"
         ],
-        "weight": 6.5
+        "weight": 14.3
     },
     "99": {
         "abilities": [
@@ -1590,7 +1590,7 @@
         "type": [
             "water"
         ],
-        "weight": 60.0
+        "weight": 132.3
     },
     "100": {
         "abilities": [
@@ -1606,7 +1606,7 @@
         "type": [
             "electric"
         ],
-        "weight": 10.4
+        "weight": 22.9
     },
     "101": {
         "abilities": [
@@ -1622,7 +1622,7 @@
         "type": [
             "electric"
         ],
-        "weight": 66.6
+        "weight": 146.8
     },
     "102": {
         "abilities": [
@@ -1638,7 +1638,7 @@
             "grass",
             "psychic"
         ],
-        "weight": 2.5
+        "weight": 5.5
     },
     "103": {
         "abilities": [
@@ -1654,7 +1654,7 @@
             "grass",
             "psychic"
         ],
-        "weight": 120.0
+        "weight": 264.6
     },
     "104": {
         "abilities": [
@@ -1670,7 +1670,7 @@
         "type": [
             "ground"
         ],
-        "weight": 6.5
+        "weight": 14.3
     },
     "105": {
         "abilities": [
@@ -1686,7 +1686,7 @@
         "type": [
             "ground"
         ],
-        "weight": 45.0
+        "weight": 99.2
     },
     "106": {
         "abilities": [
@@ -1702,7 +1702,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 49.8
+        "weight": 109.8
     },
     "107": {
         "abilities": [
@@ -1718,7 +1718,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 50.2
+        "weight": 110.7
     },
     "108": {
         "abilities": [
@@ -1734,7 +1734,7 @@
         "type": [
             "normal"
         ],
-        "weight": 65.5
+        "weight": 144.4
     },
     "109": {
         "abilities": [
@@ -1750,7 +1750,7 @@
         "type": [
             "poison"
         ],
-        "weight": 1.0
+        "weight": 2.2
     },
     "110": {
         "abilities": [
@@ -1766,7 +1766,7 @@
         "type": [
             "poison"
         ],
-        "weight": 9.5
+        "weight": 20.9
     },
     "111": {
         "abilities": [
@@ -1783,7 +1783,7 @@
             "ground",
             "rock"
         ],
-        "weight": 115.0
+        "weight": 253.5
     },
     "112": {
         "abilities": [
@@ -1800,7 +1800,7 @@
             "ground",
             "rock"
         ],
-        "weight": 120.0
+        "weight": 264.6
     },
     "113": {
         "abilities": [
@@ -1816,7 +1816,7 @@
         "type": [
             "normal"
         ],
-        "weight": 34.6
+        "weight": 76.3
     },
     "114": {
         "abilities": [
@@ -1832,7 +1832,7 @@
         "type": [
             "grass"
         ],
-        "weight": 35.0
+        "weight": 77.2
     },
     "115": {
         "abilities": [
@@ -1848,7 +1848,7 @@
         "type": [
             "normal"
         ],
-        "weight": 80.0
+        "weight": 176.4
     },
     "116": {
         "abilities": [
@@ -1864,7 +1864,7 @@
         "type": [
             "water"
         ],
-        "weight": 8.0
+        "weight": 17.6
     },
     "117": {
         "abilities": [
@@ -1880,7 +1880,7 @@
         "type": [
             "water"
         ],
-        "weight": 25.0
+        "weight": 55.1
     },
     "118": {
         "abilities": [
@@ -1896,7 +1896,7 @@
         "type": [
             "water"
         ],
-        "weight": 15.0
+        "weight": 33.1
     },
     "119": {
         "abilities": [
@@ -1912,7 +1912,7 @@
         "type": [
             "water"
         ],
-        "weight": 39.0
+        "weight": 86.0
     },
     "120": {
         "abilities": [
@@ -1928,7 +1928,7 @@
         "type": [
             "water"
         ],
-        "weight": 34.5
+        "weight": 76.1
     },
     "121": {
         "abilities": [
@@ -1945,7 +1945,7 @@
             "water",
             "psychic"
         ],
-        "weight": 80.0
+        "weight": 176.4
     },
     "122": {
         "abilities": [
@@ -1962,7 +1962,7 @@
             "psychic",
             "fairy"
         ],
-        "weight": 54.5
+        "weight": 120.2
     },
     "123": {
         "abilities": [
@@ -1979,7 +1979,7 @@
             "bug",
             "flying"
         ],
-        "weight": 56.0
+        "weight": 123.5
     },
     "124": {
         "abilities": [
@@ -1996,7 +1996,7 @@
             "ice",
             "psychic"
         ],
-        "weight": 40.6
+        "weight": 89.5
     },
     "125": {
         "abilities": [
@@ -2011,7 +2011,7 @@
         "type": [
             "electric"
         ],
-        "weight": 30.0
+        "weight": 66.1
     },
     "126": {
         "abilities": [
@@ -2026,7 +2026,7 @@
         "type": [
             "fire"
         ],
-        "weight": 44.5
+        "weight": 98.1
     },
     "127": {
         "abilities": [
@@ -2042,7 +2042,7 @@
         "type": [
             "bug"
         ],
-        "weight": 55.0
+        "weight": 121.3
     },
     "128": {
         "abilities": [
@@ -2058,7 +2058,7 @@
         "type": [
             "normal"
         ],
-        "weight": 88.4
+        "weight": 194.9
     },
     "129": {
         "abilities": [
@@ -2073,7 +2073,7 @@
         "type": [
             "water"
         ],
-        "weight": 10.0
+        "weight": 22.0
     },
     "130": {
         "abilities": [
@@ -2089,7 +2089,7 @@
             "water",
             "flying"
         ],
-        "weight": 235.0
+        "weight": 518.1
     },
     "131": {
         "abilities": [
@@ -2106,7 +2106,7 @@
             "water",
             "ice"
         ],
-        "weight": 220.0
+        "weight": 485.0
     },
     "132": {
         "abilities": [
@@ -2121,7 +2121,7 @@
         "type": [
             "normal"
         ],
-        "weight": 4.0
+        "weight": 8.8
     },
     "133": {
         "abilities": [
@@ -2137,7 +2137,7 @@
         "type": [
             "normal"
         ],
-        "weight": 6.5
+        "weight": 14.3
     },
     "134": {
         "abilities": [
@@ -2152,7 +2152,7 @@
         "type": [
             "water"
         ],
-        "weight": 29.0
+        "weight": 63.9
     },
     "135": {
         "abilities": [
@@ -2167,7 +2167,7 @@
         "type": [
             "electric"
         ],
-        "weight": 24.5
+        "weight": 54.0
     },
     "136": {
         "abilities": [
@@ -2182,7 +2182,7 @@
         "type": [
             "fire"
         ],
-        "weight": 25.0
+        "weight": 55.1
     },
     "137": {
         "abilities": [
@@ -2198,7 +2198,7 @@
         "type": [
             "normal"
         ],
-        "weight": 36.5
+        "weight": 80.5
     },
     "138": {
         "abilities": [
@@ -2215,7 +2215,7 @@
             "rock",
             "water"
         ],
-        "weight": 7.5
+        "weight": 16.5
     },
     "139": {
         "abilities": [
@@ -2232,7 +2232,7 @@
             "rock",
             "water"
         ],
-        "weight": 35.0
+        "weight": 77.2
     },
     "140": {
         "abilities": [
@@ -2249,7 +2249,7 @@
             "rock",
             "water"
         ],
-        "weight": 11.5
+        "weight": 25.4
     },
     "141": {
         "abilities": [
@@ -2266,7 +2266,7 @@
             "rock",
             "water"
         ],
-        "weight": 40.5
+        "weight": 89.3
     },
     "142": {
         "abilities": [
@@ -2283,7 +2283,7 @@
             "rock",
             "flying"
         ],
-        "weight": 59.0
+        "weight": 130.1
     },
     "143": {
         "abilities": [
@@ -2299,7 +2299,7 @@
         "type": [
             "normal"
         ],
-        "weight": 460.0
+        "weight": 1014.1
     },
     "144": {
         "abilities": [
@@ -2315,7 +2315,7 @@
             "ice",
             "flying"
         ],
-        "weight": 55.4
+        "weight": 122.1
     },
     "145": {
         "abilities": [
@@ -2331,7 +2331,7 @@
             "electric",
             "flying"
         ],
-        "weight": 52.6
+        "weight": 116.0
     },
     "146": {
         "abilities": [
@@ -2347,7 +2347,7 @@
             "fire",
             "flying"
         ],
-        "weight": 60.0
+        "weight": 132.3
     },
     "147": {
         "abilities": [
@@ -2362,7 +2362,7 @@
         "type": [
             "dragon"
         ],
-        "weight": 3.3
+        "weight": 7.3
     },
     "148": {
         "abilities": [
@@ -2377,7 +2377,7 @@
         "type": [
             "dragon"
         ],
-        "weight": 16.5
+        "weight": 36.4
     },
     "149": {
         "abilities": [
@@ -2393,7 +2393,7 @@
             "dragon",
             "flying"
         ],
-        "weight": 210.0
+        "weight": 463.0
     },
     "150": {
         "abilities": [
@@ -2408,7 +2408,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 122.0
+        "weight": 269.0
     },
     "151": {
         "abilities": [
@@ -2422,7 +2422,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 4.0
+        "weight": 8.8
     },
     "152": {
         "abilities": [
@@ -2437,7 +2437,7 @@
         "type": [
             "grass"
         ],
-        "weight": 6.4
+        "weight": 14.1
     },
     "153": {
         "abilities": [
@@ -2452,7 +2452,7 @@
         "type": [
             "grass"
         ],
-        "weight": 15.8
+        "weight": 34.8
     },
     "154": {
         "abilities": [
@@ -2467,7 +2467,7 @@
         "type": [
             "grass"
         ],
-        "weight": 100.5
+        "weight": 221.6
     },
     "155": {
         "abilities": [
@@ -2482,7 +2482,7 @@
         "type": [
             "fire"
         ],
-        "weight": 7.9
+        "weight": 17.4
     },
     "156": {
         "abilities": [
@@ -2497,7 +2497,7 @@
         "type": [
             "fire"
         ],
-        "weight": 19.0
+        "weight": 41.9
     },
     "157": {
         "abilities": [
@@ -2512,7 +2512,7 @@
         "type": [
             "fire"
         ],
-        "weight": 79.5
+        "weight": 175.3
     },
     "158": {
         "abilities": [
@@ -2527,7 +2527,7 @@
         "type": [
             "water"
         ],
-        "weight": 9.5
+        "weight": 20.9
     },
     "159": {
         "abilities": [
@@ -2542,7 +2542,7 @@
         "type": [
             "water"
         ],
-        "weight": 25.0
+        "weight": 55.1
     },
     "160": {
         "abilities": [
@@ -2557,7 +2557,7 @@
         "type": [
             "water"
         ],
-        "weight": 88.8
+        "weight": 195.8
     },
     "161": {
         "abilities": [
@@ -2573,7 +2573,7 @@
         "type": [
             "normal"
         ],
-        "weight": 6.0
+        "weight": 13.2
     },
     "162": {
         "abilities": [
@@ -2589,7 +2589,7 @@
         "type": [
             "normal"
         ],
-        "weight": 32.5
+        "weight": 71.7
     },
     "163": {
         "abilities": [
@@ -2606,7 +2606,7 @@
             "normal",
             "flying"
         ],
-        "weight": 21.2
+        "weight": 46.7
     },
     "164": {
         "abilities": [
@@ -2623,7 +2623,7 @@
             "normal",
             "flying"
         ],
-        "weight": 40.8
+        "weight": 89.9
     },
     "165": {
         "abilities": [
@@ -2640,7 +2640,7 @@
             "bug",
             "flying"
         ],
-        "weight": 10.8
+        "weight": 23.8
     },
     "166": {
         "abilities": [
@@ -2657,7 +2657,7 @@
             "bug",
             "flying"
         ],
-        "weight": 35.6
+        "weight": 78.5
     },
     "167": {
         "abilities": [
@@ -2674,7 +2674,7 @@
             "bug",
             "poison"
         ],
-        "weight": 8.5
+        "weight": 18.7
     },
     "168": {
         "abilities": [
@@ -2691,7 +2691,7 @@
             "bug",
             "poison"
         ],
-        "weight": 33.5
+        "weight": 73.9
     },
     "169": {
         "abilities": [
@@ -2707,7 +2707,7 @@
             "poison",
             "flying"
         ],
-        "weight": 75.0
+        "weight": 165.3
     },
     "170": {
         "abilities": [
@@ -2724,7 +2724,7 @@
             "water",
             "electric"
         ],
-        "weight": 12.0
+        "weight": 26.5
     },
     "171": {
         "abilities": [
@@ -2741,7 +2741,7 @@
             "water",
             "electric"
         ],
-        "weight": 22.5
+        "weight": 49.6
     },
     "172": {
         "abilities": [
@@ -2756,7 +2756,7 @@
         "type": [
             "electric"
         ],
-        "weight": 2.0
+        "weight": 4.4
     },
     "173": {
         "abilities": [
@@ -2772,7 +2772,7 @@
         "type": [
             "fairy"
         ],
-        "weight": 3.0
+        "weight": 6.6
     },
     "174": {
         "abilities": [
@@ -2789,7 +2789,7 @@
             "normal",
             "fairy"
         ],
-        "weight": 1.0
+        "weight": 2.2
     },
     "175": {
         "abilities": [
@@ -2805,7 +2805,7 @@
         "type": [
             "fairy"
         ],
-        "weight": 1.5
+        "weight": 3.3
     },
     "176": {
         "abilities": [
@@ -2822,7 +2822,7 @@
             "fairy",
             "flying"
         ],
-        "weight": 3.2
+        "weight": 7.1
     },
     "177": {
         "abilities": [
@@ -2839,7 +2839,7 @@
             "psychic",
             "flying"
         ],
-        "weight": 2.0
+        "weight": 4.4
     },
     "178": {
         "abilities": [
@@ -2856,7 +2856,7 @@
             "psychic",
             "flying"
         ],
-        "weight": 15.0
+        "weight": 33.1
     },
     "179": {
         "abilities": [
@@ -2871,7 +2871,7 @@
         "type": [
             "electric"
         ],
-        "weight": 7.8
+        "weight": 17.2
     },
     "180": {
         "abilities": [
@@ -2886,7 +2886,7 @@
         "type": [
             "electric"
         ],
-        "weight": 13.3
+        "weight": 29.3
     },
     "181": {
         "abilities": [
@@ -2901,7 +2901,7 @@
         "type": [
             "electric"
         ],
-        "weight": 61.5
+        "weight": 135.6
     },
     "182": {
         "abilities": [
@@ -2916,7 +2916,7 @@
         "type": [
             "grass"
         ],
-        "weight": 5.8
+        "weight": 12.8
     },
     "183": {
         "abilities": [
@@ -2933,7 +2933,7 @@
             "water",
             "fairy"
         ],
-        "weight": 8.5
+        "weight": 18.7
     },
     "184": {
         "abilities": [
@@ -2950,7 +2950,7 @@
             "water",
             "fairy"
         ],
-        "weight": 28.5
+        "weight": 62.8
     },
     "185": {
         "abilities": [
@@ -2966,7 +2966,7 @@
         "type": [
             "rock"
         ],
-        "weight": 38.0
+        "weight": 83.8
     },
     "186": {
         "abilities": [
@@ -2982,7 +2982,7 @@
         "type": [
             "water"
         ],
-        "weight": 33.9
+        "weight": 74.7
     },
     "187": {
         "abilities": [
@@ -2999,7 +2999,7 @@
             "grass",
             "flying"
         ],
-        "weight": 0.5
+        "weight": 1.1
     },
     "188": {
         "abilities": [
@@ -3016,7 +3016,7 @@
             "grass",
             "flying"
         ],
-        "weight": 1.0
+        "weight": 2.2
     },
     "189": {
         "abilities": [
@@ -3033,7 +3033,7 @@
             "grass",
             "flying"
         ],
-        "weight": 3.0
+        "weight": 6.6
     },
     "190": {
         "abilities": [
@@ -3049,7 +3049,7 @@
         "type": [
             "normal"
         ],
-        "weight": 11.5
+        "weight": 25.4
     },
     "191": {
         "abilities": [
@@ -3065,7 +3065,7 @@
         "type": [
             "grass"
         ],
-        "weight": 1.8
+        "weight": 4.0
     },
     "192": {
         "abilities": [
@@ -3081,7 +3081,7 @@
         "type": [
             "grass"
         ],
-        "weight": 8.5
+        "weight": 18.7
     },
     "193": {
         "abilities": [
@@ -3098,7 +3098,7 @@
             "bug",
             "flying"
         ],
-        "weight": 38.0
+        "weight": 83.8
     },
     "194": {
         "abilities": [
@@ -3115,7 +3115,7 @@
             "water",
             "ground"
         ],
-        "weight": 8.5
+        "weight": 18.7
     },
     "195": {
         "abilities": [
@@ -3132,7 +3132,7 @@
             "water",
             "ground"
         ],
-        "weight": 75.0
+        "weight": 165.3
     },
     "196": {
         "abilities": [
@@ -3147,7 +3147,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 26.5
+        "weight": 58.4
     },
     "197": {
         "abilities": [
@@ -3162,7 +3162,7 @@
         "type": [
             "dark"
         ],
-        "weight": 27.0
+        "weight": 59.5
     },
     "198": {
         "abilities": [
@@ -3179,7 +3179,7 @@
             "dark",
             "flying"
         ],
-        "weight": 2.1
+        "weight": 4.6
     },
     "199": {
         "abilities": [
@@ -3196,7 +3196,7 @@
             "water",
             "psychic"
         ],
-        "weight": 79.5
+        "weight": 175.3
     },
     "200": {
         "abilities": [
@@ -3210,7 +3210,7 @@
         "type": [
             "ghost"
         ],
-        "weight": 1.0
+        "weight": 2.2
     },
     "201": {
         "abilities": [
@@ -3224,7 +3224,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 5.0
+        "weight": 11.0
     },
     "202": {
         "abilities": [
@@ -3239,7 +3239,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 28.5
+        "weight": 62.8
     },
     "203": {
         "abilities": [
@@ -3256,7 +3256,7 @@
             "normal",
             "psychic"
         ],
-        "weight": 41.5
+        "weight": 91.5
     },
     "204": {
         "abilities": [
@@ -3271,7 +3271,7 @@
         "type": [
             "bug"
         ],
-        "weight": 7.2
+        "weight": 15.9
     },
     "205": {
         "abilities": [
@@ -3287,7 +3287,7 @@
             "bug",
             "steel"
         ],
-        "weight": 125.8
+        "weight": 277.3
     },
     "206": {
         "abilities": [
@@ -3303,7 +3303,7 @@
         "type": [
             "normal"
         ],
-        "weight": 14.0
+        "weight": 30.9
     },
     "207": {
         "abilities": [
@@ -3320,7 +3320,7 @@
             "ground",
             "flying"
         ],
-        "weight": 64.8
+        "weight": 142.9
     },
     "208": {
         "abilities": [
@@ -3337,7 +3337,7 @@
             "steel",
             "ground"
         ],
-        "weight": 400.0
+        "weight": 881.8
     },
     "209": {
         "abilities": [
@@ -3353,7 +3353,7 @@
         "type": [
             "fairy"
         ],
-        "weight": 7.8
+        "weight": 17.2
     },
     "210": {
         "abilities": [
@@ -3369,7 +3369,7 @@
         "type": [
             "fairy"
         ],
-        "weight": 48.7
+        "weight": 107.4
     },
     "211": {
         "abilities": [
@@ -3386,7 +3386,7 @@
             "water",
             "poison"
         ],
-        "weight": 3.9
+        "weight": 8.6
     },
     "212": {
         "abilities": [
@@ -3403,7 +3403,7 @@
             "bug",
             "steel"
         ],
-        "weight": 118.0
+        "weight": 260.1
     },
     "213": {
         "abilities": [
@@ -3420,7 +3420,7 @@
             "bug",
             "rock"
         ],
-        "weight": 20.5
+        "weight": 45.2
     },
     "214": {
         "abilities": [
@@ -3437,7 +3437,7 @@
             "bug",
             "fighting"
         ],
-        "weight": 54.0
+        "weight": 119.0
     },
     "215": {
         "abilities": [
@@ -3454,7 +3454,7 @@
             "dark",
             "ice"
         ],
-        "weight": 28.0
+        "weight": 61.7
     },
     "216": {
         "abilities": [
@@ -3470,7 +3470,7 @@
         "type": [
             "normal"
         ],
-        "weight": 8.8
+        "weight": 19.4
     },
     "217": {
         "abilities": [
@@ -3486,7 +3486,7 @@
         "type": [
             "normal"
         ],
-        "weight": 125.8
+        "weight": 277.3
     },
     "218": {
         "abilities": [
@@ -3502,7 +3502,7 @@
         "type": [
             "fire"
         ],
-        "weight": 35.0
+        "weight": 77.2
     },
     "219": {
         "abilities": [
@@ -3519,7 +3519,7 @@
             "fire",
             "rock"
         ],
-        "weight": 55.0
+        "weight": 121.3
     },
     "220": {
         "abilities": [
@@ -3536,7 +3536,7 @@
             "ice",
             "ground"
         ],
-        "weight": 6.5
+        "weight": 14.3
     },
     "221": {
         "abilities": [
@@ -3553,7 +3553,7 @@
             "ice",
             "ground"
         ],
-        "weight": 55.8
+        "weight": 123.0
     },
     "222": {
         "abilities": [
@@ -3570,7 +3570,7 @@
             "water",
             "rock"
         ],
-        "weight": 5.0
+        "weight": 11.0
     },
     "223": {
         "abilities": [
@@ -3586,7 +3586,7 @@
         "type": [
             "water"
         ],
-        "weight": 12.0
+        "weight": 26.5
     },
     "224": {
         "abilities": [
@@ -3602,7 +3602,7 @@
         "type": [
             "water"
         ],
-        "weight": 28.5
+        "weight": 62.8
     },
     "225": {
         "abilities": [
@@ -3619,7 +3619,7 @@
             "ice",
             "flying"
         ],
-        "weight": 16.0
+        "weight": 35.3
     },
     "226": {
         "abilities": [
@@ -3636,7 +3636,7 @@
             "water",
             "flying"
         ],
-        "weight": 220.0
+        "weight": 485.0
     },
     "227": {
         "abilities": [
@@ -3653,7 +3653,7 @@
             "steel",
             "flying"
         ],
-        "weight": 50.5
+        "weight": 111.3
     },
     "228": {
         "abilities": [
@@ -3670,7 +3670,7 @@
             "dark",
             "fire"
         ],
-        "weight": 10.8
+        "weight": 23.8
     },
     "229": {
         "abilities": [
@@ -3687,7 +3687,7 @@
             "dark",
             "fire"
         ],
-        "weight": 35.0
+        "weight": 77.2
     },
     "230": {
         "abilities": [
@@ -3704,7 +3704,7 @@
             "water",
             "dragon"
         ],
-        "weight": 152.0
+        "weight": 335.1
     },
     "231": {
         "abilities": [
@@ -3719,7 +3719,7 @@
         "type": [
             "ground"
         ],
-        "weight": 33.5
+        "weight": 73.9
     },
     "232": {
         "abilities": [
@@ -3734,7 +3734,7 @@
         "type": [
             "ground"
         ],
-        "weight": 120.0
+        "weight": 264.6
     },
     "233": {
         "abilities": [
@@ -3750,7 +3750,7 @@
         "type": [
             "normal"
         ],
-        "weight": 32.5
+        "weight": 71.7
     },
     "234": {
         "abilities": [
@@ -3766,7 +3766,7 @@
         "type": [
             "normal"
         ],
-        "weight": 71.2
+        "weight": 157.0
     },
     "235": {
         "abilities": [
@@ -3782,7 +3782,7 @@
         "type": [
             "normal"
         ],
-        "weight": 58.0
+        "weight": 127.9
     },
     "236": {
         "abilities": [
@@ -3798,7 +3798,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 21.0
+        "weight": 46.3
     },
     "237": {
         "abilities": [
@@ -3814,7 +3814,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 48.0
+        "weight": 105.8
     },
     "238": {
         "abilities": [
@@ -3831,7 +3831,7 @@
             "ice",
             "psychic"
         ],
-        "weight": 6.0
+        "weight": 13.2
     },
     "239": {
         "abilities": [
@@ -3846,7 +3846,7 @@
         "type": [
             "electric"
         ],
-        "weight": 23.5
+        "weight": 51.8
     },
     "240": {
         "abilities": [
@@ -3861,7 +3861,7 @@
         "type": [
             "fire"
         ],
-        "weight": 21.4
+        "weight": 47.2
     },
     "241": {
         "abilities": [
@@ -3877,7 +3877,7 @@
         "type": [
             "normal"
         ],
-        "weight": 75.5
+        "weight": 166.4
     },
     "242": {
         "abilities": [
@@ -3893,7 +3893,7 @@
         "type": [
             "normal"
         ],
-        "weight": 46.8
+        "weight": 103.2
     },
     "243": {
         "abilities": [
@@ -3908,7 +3908,7 @@
         "type": [
             "electric"
         ],
-        "weight": 178.0
+        "weight": 392.4
     },
     "244": {
         "abilities": [
@@ -3923,7 +3923,7 @@
         "type": [
             "fire"
         ],
-        "weight": 198.0
+        "weight": 436.5
     },
     "245": {
         "abilities": [
@@ -3938,7 +3938,7 @@
         "type": [
             "water"
         ],
-        "weight": 187.0
+        "weight": 412.3
     },
     "246": {
         "abilities": [
@@ -3954,7 +3954,7 @@
             "rock",
             "ground"
         ],
-        "weight": 72.0
+        "weight": 158.7
     },
     "247": {
         "abilities": [
@@ -3969,7 +3969,7 @@
             "rock",
             "ground"
         ],
-        "weight": 152.0
+        "weight": 335.1
     },
     "248": {
         "abilities": [
@@ -3985,7 +3985,7 @@
             "rock",
             "dark"
         ],
-        "weight": 202.0
+        "weight": 445.3
     },
     "249": {
         "abilities": [
@@ -4001,7 +4001,7 @@
             "psychic",
             "flying"
         ],
-        "weight": 216.0
+        "weight": 476.2
     },
     "250": {
         "abilities": [
@@ -4017,7 +4017,7 @@
             "fire",
             "flying"
         ],
-        "weight": 199.0
+        "weight": 438.7
     },
     "251": {
         "abilities": [
@@ -4032,7 +4032,7 @@
             "psychic",
             "grass"
         ],
-        "weight": 5.0
+        "weight": 11.0
     },
     "252": {
         "abilities": [
@@ -4047,7 +4047,7 @@
         "type": [
             "grass"
         ],
-        "weight": 5.0
+        "weight": 11.0
     },
     "253": {
         "abilities": [
@@ -4062,7 +4062,7 @@
         "type": [
             "grass"
         ],
-        "weight": 21.6
+        "weight": 47.6
     },
     "254": {
         "abilities": [
@@ -4077,7 +4077,7 @@
         "type": [
             "grass"
         ],
-        "weight": 52.2
+        "weight": 115.1
     },
     "255": {
         "abilities": [
@@ -4092,7 +4092,7 @@
         "type": [
             "fire"
         ],
-        "weight": 2.5
+        "weight": 5.5
     },
     "256": {
         "abilities": [
@@ -4108,7 +4108,7 @@
             "fire",
             "fighting"
         ],
-        "weight": 19.5
+        "weight": 43.0
     },
     "257": {
         "abilities": [
@@ -4124,7 +4124,7 @@
             "fire",
             "fighting"
         ],
-        "weight": 52.0
+        "weight": 114.6
     },
     "258": {
         "abilities": [
@@ -4139,7 +4139,7 @@
         "type": [
             "water"
         ],
-        "weight": 7.6
+        "weight": 16.8
     },
     "259": {
         "abilities": [
@@ -4155,7 +4155,7 @@
             "water",
             "ground"
         ],
-        "weight": 28.0
+        "weight": 61.7
     },
     "260": {
         "abilities": [
@@ -4171,7 +4171,7 @@
             "water",
             "ground"
         ],
-        "weight": 81.9
+        "weight": 180.6
     },
     "261": {
         "abilities": [
@@ -4187,7 +4187,7 @@
         "type": [
             "dark"
         ],
-        "weight": 13.6
+        "weight": 30.0
     },
     "262": {
         "abilities": [
@@ -4203,7 +4203,7 @@
         "type": [
             "dark"
         ],
-        "weight": 37.0
+        "weight": 81.6
     },
     "263": {
         "abilities": [
@@ -4219,7 +4219,7 @@
         "type": [
             "normal"
         ],
-        "weight": 17.5
+        "weight": 38.6
     },
     "264": {
         "abilities": [
@@ -4235,7 +4235,7 @@
         "type": [
             "normal"
         ],
-        "weight": 32.5
+        "weight": 71.7
     },
     "265": {
         "abilities": [
@@ -4250,7 +4250,7 @@
         "type": [
             "bug"
         ],
-        "weight": 3.6
+        "weight": 7.9
     },
     "266": {
         "abilities": [
@@ -4264,7 +4264,7 @@
         "type": [
             "bug"
         ],
-        "weight": 10.0
+        "weight": 22.0
     },
     "267": {
         "abilities": [
@@ -4280,7 +4280,7 @@
             "bug",
             "flying"
         ],
-        "weight": 28.4
+        "weight": 62.6
     },
     "268": {
         "abilities": [
@@ -4294,7 +4294,7 @@
         "type": [
             "bug"
         ],
-        "weight": 11.5
+        "weight": 25.4
     },
     "269": {
         "abilities": [
@@ -4310,7 +4310,7 @@
             "bug",
             "poison"
         ],
-        "weight": 31.6
+        "weight": 69.7
     },
     "270": {
         "abilities": [
@@ -4327,7 +4327,7 @@
             "water",
             "grass"
         ],
-        "weight": 2.6
+        "weight": 5.7
     },
     "271": {
         "abilities": [
@@ -4344,7 +4344,7 @@
             "water",
             "grass"
         ],
-        "weight": 32.5
+        "weight": 71.7
     },
     "272": {
         "abilities": [
@@ -4361,7 +4361,7 @@
             "water",
             "grass"
         ],
-        "weight": 55.0
+        "weight": 121.3
     },
     "273": {
         "abilities": [
@@ -4377,7 +4377,7 @@
         "type": [
             "grass"
         ],
-        "weight": 4.0
+        "weight": 8.8
     },
     "274": {
         "abilities": [
@@ -4394,7 +4394,7 @@
             "grass",
             "dark"
         ],
-        "weight": 28.0
+        "weight": 61.7
     },
     "275": {
         "abilities": [
@@ -4411,7 +4411,7 @@
             "grass",
             "dark"
         ],
-        "weight": 59.6
+        "weight": 131.4
     },
     "276": {
         "abilities": [
@@ -4427,7 +4427,7 @@
             "normal",
             "flying"
         ],
-        "weight": 2.3
+        "weight": 5.1
     },
     "277": {
         "abilities": [
@@ -4443,7 +4443,7 @@
             "normal",
             "flying"
         ],
-        "weight": 19.8
+        "weight": 43.7
     },
     "278": {
         "abilities": [
@@ -4460,7 +4460,7 @@
             "water",
             "flying"
         ],
-        "weight": 9.5
+        "weight": 20.9
     },
     "279": {
         "abilities": [
@@ -4477,7 +4477,7 @@
             "water",
             "flying"
         ],
-        "weight": 28.0
+        "weight": 61.7
     },
     "280": {
         "abilities": [
@@ -4494,7 +4494,7 @@
             "psychic",
             "fairy"
         ],
-        "weight": 6.6
+        "weight": 14.6
     },
     "281": {
         "abilities": [
@@ -4511,7 +4511,7 @@
             "psychic",
             "fairy"
         ],
-        "weight": 20.2
+        "weight": 44.5
     },
     "282": {
         "abilities": [
@@ -4528,7 +4528,7 @@
             "psychic",
             "fairy"
         ],
-        "weight": 48.4
+        "weight": 106.7
     },
     "283": {
         "abilities": [
@@ -4544,7 +4544,7 @@
             "bug",
             "water"
         ],
-        "weight": 1.7
+        "weight": 3.7
     },
     "284": {
         "abilities": [
@@ -4560,7 +4560,7 @@
             "bug",
             "flying"
         ],
-        "weight": 3.6
+        "weight": 7.9
     },
     "285": {
         "abilities": [
@@ -4576,7 +4576,7 @@
         "type": [
             "grass"
         ],
-        "weight": 4.5
+        "weight": 9.9
     },
     "286": {
         "abilities": [
@@ -4593,7 +4593,7 @@
             "grass",
             "fighting"
         ],
-        "weight": 39.2
+        "weight": 86.4
     },
     "287": {
         "abilities": [
@@ -4607,7 +4607,7 @@
         "type": [
             "normal"
         ],
-        "weight": 24.0
+        "weight": 52.9
     },
     "288": {
         "abilities": [
@@ -4621,7 +4621,7 @@
         "type": [
             "normal"
         ],
-        "weight": 46.5
+        "weight": 102.5
     },
     "289": {
         "abilities": [
@@ -4635,7 +4635,7 @@
         "type": [
             "normal"
         ],
-        "weight": 130.5
+        "weight": 287.7
     },
     "290": {
         "abilities": [
@@ -4651,7 +4651,7 @@
             "bug",
             "ground"
         ],
-        "weight": 5.5
+        "weight": 12.1
     },
     "291": {
         "abilities": [
@@ -4667,7 +4667,7 @@
             "bug",
             "flying"
         ],
-        "weight": 12.0
+        "weight": 26.5
     },
     "292": {
         "abilities": [
@@ -4682,7 +4682,7 @@
             "bug",
             "ghost"
         ],
-        "weight": 1.2
+        "weight": 2.6
     },
     "293": {
         "abilities": [
@@ -4697,7 +4697,7 @@
         "type": [
             "normal"
         ],
-        "weight": 16.3
+        "weight": 35.9
     },
     "294": {
         "abilities": [
@@ -4712,7 +4712,7 @@
         "type": [
             "normal"
         ],
-        "weight": 40.5
+        "weight": 89.3
     },
     "295": {
         "abilities": [
@@ -4727,7 +4727,7 @@
         "type": [
             "normal"
         ],
-        "weight": 84.0
+        "weight": 185.2
     },
     "296": {
         "abilities": [
@@ -4743,7 +4743,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 86.4
+        "weight": 190.5
     },
     "297": {
         "abilities": [
@@ -4759,7 +4759,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 253.8
+        "weight": 559.5
     },
     "298": {
         "abilities": [
@@ -4776,7 +4776,7 @@
             "normal",
             "fairy"
         ],
-        "weight": 2.0
+        "weight": 4.4
     },
     "299": {
         "abilities": [
@@ -4792,7 +4792,7 @@
         "type": [
             "rock"
         ],
-        "weight": 97.0
+        "weight": 213.8
     },
     "300": {
         "abilities": [
@@ -4808,7 +4808,7 @@
         "type": [
             "normal"
         ],
-        "weight": 11.0
+        "weight": 24.3
     },
     "301": {
         "abilities": [
@@ -4824,7 +4824,7 @@
         "type": [
             "normal"
         ],
-        "weight": 32.6
+        "weight": 71.9
     },
     "302": {
         "abilities": [
@@ -4841,7 +4841,7 @@
             "dark",
             "ghost"
         ],
-        "weight": 11.0
+        "weight": 24.3
     },
     "303": {
         "abilities": [
@@ -4858,7 +4858,7 @@
             "steel",
             "fairy"
         ],
-        "weight": 11.5
+        "weight": 25.4
     },
     "304": {
         "abilities": [
@@ -4875,7 +4875,7 @@
             "steel",
             "rock"
         ],
-        "weight": 60.0
+        "weight": 132.3
     },
     "305": {
         "abilities": [
@@ -4892,7 +4892,7 @@
             "steel",
             "rock"
         ],
-        "weight": 120.0
+        "weight": 264.6
     },
     "306": {
         "abilities": [
@@ -4909,7 +4909,7 @@
             "steel",
             "rock"
         ],
-        "weight": 360.0
+        "weight": 793.7
     },
     "307": {
         "abilities": [
@@ -4925,7 +4925,7 @@
             "fighting",
             "psychic"
         ],
-        "weight": 11.2
+        "weight": 24.7
     },
     "308": {
         "abilities": [
@@ -4941,7 +4941,7 @@
             "fighting",
             "psychic"
         ],
-        "weight": 31.5
+        "weight": 69.4
     },
     "309": {
         "abilities": [
@@ -4957,7 +4957,7 @@
         "type": [
             "electric"
         ],
-        "weight": 15.2
+        "weight": 33.5
     },
     "310": {
         "abilities": [
@@ -4973,7 +4973,7 @@
         "type": [
             "electric"
         ],
-        "weight": 40.2
+        "weight": 88.6
     },
     "311": {
         "abilities": [
@@ -4988,7 +4988,7 @@
         "type": [
             "electric"
         ],
-        "weight": 4.2
+        "weight": 9.3
     },
     "312": {
         "abilities": [
@@ -5003,7 +5003,7 @@
         "type": [
             "electric"
         ],
-        "weight": 4.2
+        "weight": 9.3
     },
     "313": {
         "abilities": [
@@ -5019,7 +5019,7 @@
         "type": [
             "bug"
         ],
-        "weight": 17.7
+        "weight": 39.0
     },
     "314": {
         "abilities": [
@@ -5035,7 +5035,7 @@
         "type": [
             "bug"
         ],
-        "weight": 17.7
+        "weight": 39.0
     },
     "315": {
         "abilities": [
@@ -5052,7 +5052,7 @@
             "grass",
             "poison"
         ],
-        "weight": 2.0
+        "weight": 4.4
     },
     "316": {
         "abilities": [
@@ -5068,7 +5068,7 @@
         "type": [
             "poison"
         ],
-        "weight": 10.3
+        "weight": 22.7
     },
     "317": {
         "abilities": [
@@ -5084,7 +5084,7 @@
         "type": [
             "poison"
         ],
-        "weight": 80.0
+        "weight": 176.4
     },
     "318": {
         "abilities": [
@@ -5100,7 +5100,7 @@
             "water",
             "dark"
         ],
-        "weight": 20.8
+        "weight": 45.9
     },
     "319": {
         "abilities": [
@@ -5116,7 +5116,7 @@
             "water",
             "dark"
         ],
-        "weight": 88.8
+        "weight": 195.8
     },
     "320": {
         "abilities": [
@@ -5132,7 +5132,7 @@
         "type": [
             "water"
         ],
-        "weight": 130.0
+        "weight": 286.6
     },
     "321": {
         "abilities": [
@@ -5148,7 +5148,7 @@
         "type": [
             "water"
         ],
-        "weight": 398.0
+        "weight": 877.4
     },
     "322": {
         "abilities": [
@@ -5165,7 +5165,7 @@
             "fire",
             "ground"
         ],
-        "weight": 24.0
+        "weight": 52.9
     },
     "323": {
         "abilities": [
@@ -5182,7 +5182,7 @@
             "fire",
             "ground"
         ],
-        "weight": 220.0
+        "weight": 485.0
     },
     "324": {
         "abilities": [
@@ -5198,7 +5198,7 @@
         "type": [
             "fire"
         ],
-        "weight": 80.4
+        "weight": 177.3
     },
     "325": {
         "abilities": [
@@ -5214,7 +5214,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 30.6
+        "weight": 67.5
     },
     "326": {
         "abilities": [
@@ -5230,7 +5230,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 71.5
+        "weight": 157.6
     },
     "327": {
         "abilities": [
@@ -5246,7 +5246,7 @@
         "type": [
             "normal"
         ],
-        "weight": 5.0
+        "weight": 11.0
     },
     "328": {
         "abilities": [
@@ -5262,7 +5262,7 @@
         "type": [
             "ground"
         ],
-        "weight": 15.0
+        "weight": 33.1
     },
     "329": {
         "abilities": [
@@ -5277,7 +5277,7 @@
             "ground",
             "dragon"
         ],
-        "weight": 15.3
+        "weight": 33.7
     },
     "330": {
         "abilities": [
@@ -5292,7 +5292,7 @@
             "ground",
             "dragon"
         ],
-        "weight": 82.0
+        "weight": 180.8
     },
     "331": {
         "abilities": [
@@ -5307,7 +5307,7 @@
         "type": [
             "grass"
         ],
-        "weight": 51.3
+        "weight": 113.1
     },
     "332": {
         "abilities": [
@@ -5323,7 +5323,7 @@
             "grass",
             "dark"
         ],
-        "weight": 77.4
+        "weight": 170.6
     },
     "333": {
         "abilities": [
@@ -5339,7 +5339,7 @@
             "normal",
             "flying"
         ],
-        "weight": 1.2
+        "weight": 2.6
     },
     "334": {
         "abilities": [
@@ -5355,7 +5355,7 @@
             "dragon",
             "flying"
         ],
-        "weight": 20.6
+        "weight": 45.4
     },
     "335": {
         "abilities": [
@@ -5370,7 +5370,7 @@
         "type": [
             "normal"
         ],
-        "weight": 40.3
+        "weight": 88.8
     },
     "336": {
         "abilities": [
@@ -5385,7 +5385,7 @@
         "type": [
             "poison"
         ],
-        "weight": 52.5
+        "weight": 115.7
     },
     "337": {
         "abilities": [
@@ -5400,7 +5400,7 @@
             "rock",
             "psychic"
         ],
-        "weight": 168.0
+        "weight": 370.4
     },
     "338": {
         "abilities": [
@@ -5415,7 +5415,7 @@
             "rock",
             "psychic"
         ],
-        "weight": 154.0
+        "weight": 339.5
     },
     "339": {
         "abilities": [
@@ -5432,7 +5432,7 @@
             "water",
             "ground"
         ],
-        "weight": 1.9
+        "weight": 4.2
     },
     "340": {
         "abilities": [
@@ -5449,7 +5449,7 @@
             "water",
             "ground"
         ],
-        "weight": 23.6
+        "weight": 52.0
     },
     "341": {
         "abilities": [
@@ -5465,7 +5465,7 @@
         "type": [
             "water"
         ],
-        "weight": 11.5
+        "weight": 25.4
     },
     "342": {
         "abilities": [
@@ -5482,7 +5482,7 @@
             "water",
             "dark"
         ],
-        "weight": 32.8
+        "weight": 72.3
     },
     "343": {
         "abilities": [
@@ -5497,7 +5497,7 @@
             "ground",
             "psychic"
         ],
-        "weight": 21.5
+        "weight": 47.4
     },
     "344": {
         "abilities": [
@@ -5512,7 +5512,7 @@
             "ground",
             "psychic"
         ],
-        "weight": 108.0
+        "weight": 238.1
     },
     "345": {
         "abilities": [
@@ -5528,7 +5528,7 @@
             "rock",
             "grass"
         ],
-        "weight": 23.8
+        "weight": 52.5
     },
     "346": {
         "abilities": [
@@ -5544,7 +5544,7 @@
             "rock",
             "grass"
         ],
-        "weight": 60.4
+        "weight": 133.2
     },
     "347": {
         "abilities": [
@@ -5560,7 +5560,7 @@
             "rock",
             "bug"
         ],
-        "weight": 12.5
+        "weight": 27.6
     },
     "348": {
         "abilities": [
@@ -5576,7 +5576,7 @@
             "rock",
             "bug"
         ],
-        "weight": 68.2
+        "weight": 150.4
     },
     "349": {
         "abilities": [
@@ -5592,7 +5592,7 @@
         "type": [
             "water"
         ],
-        "weight": 7.4
+        "weight": 16.3
     },
     "350": {
         "abilities": [
@@ -5608,7 +5608,7 @@
         "type": [
             "water"
         ],
-        "weight": 162.0
+        "weight": 357.1
     },
     "351": {
         "abilities": [
@@ -5622,7 +5622,7 @@
         "type": [
             "normal"
         ],
-        "weight": 0.8
+        "weight": 1.8
     },
     "352": {
         "abilities": [
@@ -5637,7 +5637,7 @@
         "type": [
             "normal"
         ],
-        "weight": 22.0
+        "weight": 48.5
     },
     "353": {
         "abilities": [
@@ -5653,7 +5653,7 @@
         "type": [
             "ghost"
         ],
-        "weight": 2.3
+        "weight": 5.1
     },
     "354": {
         "abilities": [
@@ -5669,7 +5669,7 @@
         "type": [
             "ghost"
         ],
-        "weight": 12.5
+        "weight": 27.6
     },
     "355": {
         "abilities": [
@@ -5684,7 +5684,7 @@
         "type": [
             "ghost"
         ],
-        "weight": 15.0
+        "weight": 33.1
     },
     "356": {
         "abilities": [
@@ -5699,7 +5699,7 @@
         "type": [
             "ghost"
         ],
-        "weight": 30.6
+        "weight": 67.5
     },
     "357": {
         "abilities": [
@@ -5716,7 +5716,7 @@
             "grass",
             "flying"
         ],
-        "weight": 100.0
+        "weight": 220.5
     },
     "358": {
         "abilities": [
@@ -5730,7 +5730,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 1.0
+        "weight": 2.2
     },
     "359": {
         "abilities": [
@@ -5746,7 +5746,7 @@
         "type": [
             "dark"
         ],
-        "weight": 47.0
+        "weight": 103.6
     },
     "360": {
         "abilities": [
@@ -5761,7 +5761,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 14.0
+        "weight": 30.9
     },
     "361": {
         "abilities": [
@@ -5777,7 +5777,7 @@
         "type": [
             "ice"
         ],
-        "weight": 16.8
+        "weight": 37.0
     },
     "362": {
         "abilities": [
@@ -5793,7 +5793,7 @@
         "type": [
             "ice"
         ],
-        "weight": 256.5
+        "weight": 565.5
     },
     "363": {
         "abilities": [
@@ -5810,7 +5810,7 @@
             "ice",
             "water"
         ],
-        "weight": 39.5
+        "weight": 87.1
     },
     "364": {
         "abilities": [
@@ -5827,7 +5827,7 @@
             "ice",
             "water"
         ],
-        "weight": 87.6
+        "weight": 193.1
     },
     "365": {
         "abilities": [
@@ -5844,7 +5844,7 @@
             "ice",
             "water"
         ],
-        "weight": 150.6
+        "weight": 332.0
     },
     "366": {
         "abilities": [
@@ -5859,7 +5859,7 @@
         "type": [
             "water"
         ],
-        "weight": 52.5
+        "weight": 115.7
     },
     "367": {
         "abilities": [
@@ -5874,7 +5874,7 @@
         "type": [
             "water"
         ],
-        "weight": 27.0
+        "weight": 59.5
     },
     "368": {
         "abilities": [
@@ -5889,7 +5889,7 @@
         "type": [
             "water"
         ],
-        "weight": 22.6
+        "weight": 49.8
     },
     "369": {
         "abilities": [
@@ -5906,7 +5906,7 @@
             "water",
             "rock"
         ],
-        "weight": 23.4
+        "weight": 51.6
     },
     "370": {
         "abilities": [
@@ -5921,7 +5921,7 @@
         "type": [
             "water"
         ],
-        "weight": 8.7
+        "weight": 19.2
     },
     "371": {
         "abilities": [
@@ -5936,7 +5936,7 @@
         "type": [
             "dragon"
         ],
-        "weight": 42.1
+        "weight": 92.8
     },
     "372": {
         "abilities": [
@@ -5951,7 +5951,7 @@
         "type": [
             "dragon"
         ],
-        "weight": 110.5
+        "weight": 243.6
     },
     "373": {
         "abilities": [
@@ -5967,7 +5967,7 @@
             "dragon",
             "flying"
         ],
-        "weight": 102.6
+        "weight": 226.2
     },
     "374": {
         "abilities": [
@@ -5983,7 +5983,7 @@
             "steel",
             "psychic"
         ],
-        "weight": 95.2
+        "weight": 209.9
     },
     "375": {
         "abilities": [
@@ -5999,7 +5999,7 @@
             "steel",
             "psychic"
         ],
-        "weight": 202.5
+        "weight": 446.4
     },
     "376": {
         "abilities": [
@@ -6015,7 +6015,7 @@
             "steel",
             "psychic"
         ],
-        "weight": 550.0
+        "weight": 1212.5
     },
     "377": {
         "abilities": [
@@ -6030,7 +6030,7 @@
         "type": [
             "rock"
         ],
-        "weight": 230.0
+        "weight": 507.1
     },
     "378": {
         "abilities": [
@@ -6045,7 +6045,7 @@
         "type": [
             "ice"
         ],
-        "weight": 175.0
+        "weight": 385.8
     },
     "379": {
         "abilities": [
@@ -6060,7 +6060,7 @@
         "type": [
             "steel"
         ],
-        "weight": 205.0
+        "weight": 451.9
     },
     "380": {
         "abilities": [
@@ -6075,7 +6075,7 @@
             "dragon",
             "psychic"
         ],
-        "weight": 40.0
+        "weight": 88.2
     },
     "381": {
         "abilities": [
@@ -6090,7 +6090,7 @@
             "dragon",
             "psychic"
         ],
-        "weight": 60.0
+        "weight": 132.3
     },
     "382": {
         "abilities": [
@@ -6104,7 +6104,7 @@
         "type": [
             "water"
         ],
-        "weight": 352.0
+        "weight": 776.0
     },
     "383": {
         "abilities": [
@@ -6118,7 +6118,7 @@
         "type": [
             "ground"
         ],
-        "weight": 950.0
+        "weight": 2094.4
     },
     "384": {
         "abilities": [
@@ -6133,7 +6133,7 @@
             "dragon",
             "flying"
         ],
-        "weight": 206.5
+        "weight": 455.3
     },
     "385": {
         "abilities": [
@@ -6148,7 +6148,7 @@
             "steel",
             "psychic"
         ],
-        "weight": 1.1
+        "weight": 2.4
     },
     "386": {
         "abilities": [
@@ -6162,7 +6162,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 60.8
+        "weight": 134.0
     },
     "387": {
         "abilities": [
@@ -6177,7 +6177,7 @@
         "type": [
             "grass"
         ],
-        "weight": 10.2
+        "weight": 22.5
     },
     "388": {
         "abilities": [
@@ -6192,7 +6192,7 @@
         "type": [
             "grass"
         ],
-        "weight": 97.0
+        "weight": 213.8
     },
     "389": {
         "abilities": [
@@ -6208,7 +6208,7 @@
             "grass",
             "ground"
         ],
-        "weight": 310.0
+        "weight": 683.4
     },
     "390": {
         "abilities": [
@@ -6223,7 +6223,7 @@
         "type": [
             "fire"
         ],
-        "weight": 6.2
+        "weight": 13.7
     },
     "391": {
         "abilities": [
@@ -6239,7 +6239,7 @@
             "fire",
             "fighting"
         ],
-        "weight": 22.0
+        "weight": 48.5
     },
     "392": {
         "abilities": [
@@ -6255,7 +6255,7 @@
             "fire",
             "fighting"
         ],
-        "weight": 55.0
+        "weight": 121.3
     },
     "393": {
         "abilities": [
@@ -6270,7 +6270,7 @@
         "type": [
             "water"
         ],
-        "weight": 5.2
+        "weight": 11.5
     },
     "394": {
         "abilities": [
@@ -6285,7 +6285,7 @@
         "type": [
             "water"
         ],
-        "weight": 23.0
+        "weight": 50.7
     },
     "395": {
         "abilities": [
@@ -6301,7 +6301,7 @@
             "water",
             "steel"
         ],
-        "weight": 84.5
+        "weight": 186.3
     },
     "396": {
         "abilities": [
@@ -6317,7 +6317,7 @@
             "normal",
             "flying"
         ],
-        "weight": 2.0
+        "weight": 4.4
     },
     "397": {
         "abilities": [
@@ -6333,7 +6333,7 @@
             "normal",
             "flying"
         ],
-        "weight": 15.5
+        "weight": 34.2
     },
     "398": {
         "abilities": [
@@ -6349,7 +6349,7 @@
             "normal",
             "flying"
         ],
-        "weight": 24.9
+        "weight": 54.9
     },
     "399": {
         "abilities": [
@@ -6365,7 +6365,7 @@
         "type": [
             "normal"
         ],
-        "weight": 20.0
+        "weight": 44.1
     },
     "400": {
         "abilities": [
@@ -6382,7 +6382,7 @@
             "normal",
             "water"
         ],
-        "weight": 31.5
+        "weight": 69.4
     },
     "401": {
         "abilities": [
@@ -6397,7 +6397,7 @@
         "type": [
             "bug"
         ],
-        "weight": 2.2
+        "weight": 4.9
     },
     "402": {
         "abilities": [
@@ -6412,7 +6412,7 @@
         "type": [
             "bug"
         ],
-        "weight": 25.5
+        "weight": 56.2
     },
     "403": {
         "abilities": [
@@ -6428,7 +6428,7 @@
         "type": [
             "electric"
         ],
-        "weight": 9.5
+        "weight": 20.9
     },
     "404": {
         "abilities": [
@@ -6444,7 +6444,7 @@
         "type": [
             "electric"
         ],
-        "weight": 30.5
+        "weight": 67.2
     },
     "405": {
         "abilities": [
@@ -6460,7 +6460,7 @@
         "type": [
             "electric"
         ],
-        "weight": 42.0
+        "weight": 92.6
     },
     "406": {
         "abilities": [
@@ -6477,7 +6477,7 @@
             "grass",
             "poison"
         ],
-        "weight": 1.2
+        "weight": 2.6
     },
     "407": {
         "abilities": [
@@ -6494,7 +6494,7 @@
             "grass",
             "poison"
         ],
-        "weight": 14.5
+        "weight": 32.0
     },
     "408": {
         "abilities": [
@@ -6509,7 +6509,7 @@
         "type": [
             "rock"
         ],
-        "weight": 31.5
+        "weight": 69.4
     },
     "409": {
         "abilities": [
@@ -6524,7 +6524,7 @@
         "type": [
             "rock"
         ],
-        "weight": 102.5
+        "weight": 226.0
     },
     "410": {
         "abilities": [
@@ -6540,7 +6540,7 @@
             "rock",
             "steel"
         ],
-        "weight": 57.0
+        "weight": 125.7
     },
     "411": {
         "abilities": [
@@ -6556,7 +6556,7 @@
             "rock",
             "steel"
         ],
-        "weight": 149.5
+        "weight": 329.6
     },
     "412": {
         "abilities": [
@@ -6571,7 +6571,7 @@
         "type": [
             "bug"
         ],
-        "weight": 3.4
+        "weight": 7.5
     },
     "413": {
         "abilities": [
@@ -6587,7 +6587,7 @@
             "bug",
             "grass"
         ],
-        "weight": 6.5
+        "weight": 14.3
     },
     "414": {
         "abilities": [
@@ -6603,7 +6603,7 @@
             "bug",
             "flying"
         ],
-        "weight": 23.3
+        "weight": 51.4
     },
     "415": {
         "abilities": [
@@ -6619,7 +6619,7 @@
             "bug",
             "flying"
         ],
-        "weight": 5.5
+        "weight": 12.1
     },
     "416": {
         "abilities": [
@@ -6635,7 +6635,7 @@
             "bug",
             "flying"
         ],
-        "weight": 38.5
+        "weight": 84.9
     },
     "417": {
         "abilities": [
@@ -6651,7 +6651,7 @@
         "type": [
             "electric"
         ],
-        "weight": 3.9
+        "weight": 8.6
     },
     "418": {
         "abilities": [
@@ -6666,7 +6666,7 @@
         "type": [
             "water"
         ],
-        "weight": 29.5
+        "weight": 65.0
     },
     "419": {
         "abilities": [
@@ -6681,7 +6681,7 @@
         "type": [
             "water"
         ],
-        "weight": 33.5
+        "weight": 73.9
     },
     "420": {
         "abilities": [
@@ -6695,7 +6695,7 @@
         "type": [
             "grass"
         ],
-        "weight": 3.3
+        "weight": 7.3
     },
     "421": {
         "abilities": [
@@ -6709,7 +6709,7 @@
         "type": [
             "grass"
         ],
-        "weight": 9.3
+        "weight": 20.5
     },
     "422": {
         "abilities": [
@@ -6725,7 +6725,7 @@
         "type": [
             "water"
         ],
-        "weight": 6.3
+        "weight": 13.9
     },
     "423": {
         "abilities": [
@@ -6742,7 +6742,7 @@
             "water",
             "ground"
         ],
-        "weight": 29.9
+        "weight": 65.9
     },
     "424": {
         "abilities": [
@@ -6758,7 +6758,7 @@
         "type": [
             "normal"
         ],
-        "weight": 20.3
+        "weight": 44.8
     },
     "425": {
         "abilities": [
@@ -6775,7 +6775,7 @@
             "ghost",
             "flying"
         ],
-        "weight": 1.2
+        "weight": 2.6
     },
     "426": {
         "abilities": [
@@ -6792,7 +6792,7 @@
             "ghost",
             "flying"
         ],
-        "weight": 15.0
+        "weight": 33.1
     },
     "427": {
         "abilities": [
@@ -6808,7 +6808,7 @@
         "type": [
             "normal"
         ],
-        "weight": 5.5
+        "weight": 12.1
     },
     "428": {
         "abilities": [
@@ -6824,7 +6824,7 @@
         "type": [
             "normal"
         ],
-        "weight": 33.3
+        "weight": 73.4
     },
     "429": {
         "abilities": [
@@ -6838,7 +6838,7 @@
         "type": [
             "ghost"
         ],
-        "weight": 4.4
+        "weight": 9.7
     },
     "430": {
         "abilities": [
@@ -6855,7 +6855,7 @@
             "dark",
             "flying"
         ],
-        "weight": 27.3
+        "weight": 60.2
     },
     "431": {
         "abilities": [
@@ -6871,7 +6871,7 @@
         "type": [
             "normal"
         ],
-        "weight": 3.9
+        "weight": 8.6
     },
     "432": {
         "abilities": [
@@ -6887,7 +6887,7 @@
         "type": [
             "normal"
         ],
-        "weight": 43.8
+        "weight": 96.6
     },
     "433": {
         "abilities": [
@@ -6901,7 +6901,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 0.6
+        "weight": 1.3
     },
     "434": {
         "abilities": [
@@ -6918,7 +6918,7 @@
             "poison",
             "dark"
         ],
-        "weight": 19.2
+        "weight": 42.3
     },
     "435": {
         "abilities": [
@@ -6935,7 +6935,7 @@
             "poison",
             "dark"
         ],
-        "weight": 38.0
+        "weight": 83.8
     },
     "436": {
         "abilities": [
@@ -6952,7 +6952,7 @@
             "steel",
             "psychic"
         ],
-        "weight": 60.5
+        "weight": 133.4
     },
     "437": {
         "abilities": [
@@ -6969,7 +6969,7 @@
             "steel",
             "psychic"
         ],
-        "weight": 187.0
+        "weight": 412.3
     },
     "438": {
         "abilities": [
@@ -6985,7 +6985,7 @@
         "type": [
             "rock"
         ],
-        "weight": 15.0
+        "weight": 33.1
     },
     "439": {
         "abilities": [
@@ -7002,7 +7002,7 @@
             "psychic",
             "fairy"
         ],
-        "weight": 13.0
+        "weight": 28.7
     },
     "440": {
         "abilities": [
@@ -7018,7 +7018,7 @@
         "type": [
             "normal"
         ],
-        "weight": 24.4
+        "weight": 53.8
     },
     "441": {
         "abilities": [
@@ -7035,7 +7035,7 @@
             "normal",
             "flying"
         ],
-        "weight": 1.9
+        "weight": 4.2
     },
     "442": {
         "abilities": [
@@ -7051,7 +7051,7 @@
             "ghost",
             "dark"
         ],
-        "weight": 108.0
+        "weight": 238.1
     },
     "443": {
         "abilities": [
@@ -7067,7 +7067,7 @@
             "dragon",
             "ground"
         ],
-        "weight": 20.5
+        "weight": 45.2
     },
     "444": {
         "abilities": [
@@ -7083,7 +7083,7 @@
             "dragon",
             "ground"
         ],
-        "weight": 56.0
+        "weight": 123.5
     },
     "445": {
         "abilities": [
@@ -7099,7 +7099,7 @@
             "dragon",
             "ground"
         ],
-        "weight": 95.0
+        "weight": 209.4
     },
     "446": {
         "abilities": [
@@ -7115,7 +7115,7 @@
         "type": [
             "normal"
         ],
-        "weight": 105.0
+        "weight": 231.5
     },
     "447": {
         "abilities": [
@@ -7131,7 +7131,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 20.2
+        "weight": 44.5
     },
     "448": {
         "abilities": [
@@ -7148,7 +7148,7 @@
             "fighting",
             "steel"
         ],
-        "weight": 54.0
+        "weight": 119.0
     },
     "449": {
         "abilities": [
@@ -7163,7 +7163,7 @@
         "type": [
             "ground"
         ],
-        "weight": 49.5
+        "weight": 109.1
     },
     "450": {
         "abilities": [
@@ -7178,7 +7178,7 @@
         "type": [
             "ground"
         ],
-        "weight": 300.0
+        "weight": 661.4
     },
     "451": {
         "abilities": [
@@ -7195,7 +7195,7 @@
             "poison",
             "bug"
         ],
-        "weight": 12.0
+        "weight": 26.5
     },
     "452": {
         "abilities": [
@@ -7212,7 +7212,7 @@
             "poison",
             "dark"
         ],
-        "weight": 61.5
+        "weight": 135.6
     },
     "453": {
         "abilities": [
@@ -7229,7 +7229,7 @@
             "poison",
             "fighting"
         ],
-        "weight": 23.0
+        "weight": 50.7
     },
     "454": {
         "abilities": [
@@ -7246,7 +7246,7 @@
             "poison",
             "fighting"
         ],
-        "weight": 44.4
+        "weight": 97.9
     },
     "455": {
         "abilities": [
@@ -7260,7 +7260,7 @@
         "type": [
             "grass"
         ],
-        "weight": 27.0
+        "weight": 59.5
     },
     "456": {
         "abilities": [
@@ -7276,7 +7276,7 @@
         "type": [
             "water"
         ],
-        "weight": 7.0
+        "weight": 15.4
     },
     "457": {
         "abilities": [
@@ -7292,7 +7292,7 @@
         "type": [
             "water"
         ],
-        "weight": 24.0
+        "weight": 52.9
     },
     "458": {
         "abilities": [
@@ -7309,7 +7309,7 @@
             "water",
             "flying"
         ],
-        "weight": 65.0
+        "weight": 143.3
     },
     "459": {
         "abilities": [
@@ -7325,7 +7325,7 @@
             "grass",
             "ice"
         ],
-        "weight": 50.5
+        "weight": 111.3
     },
     "460": {
         "abilities": [
@@ -7341,7 +7341,7 @@
             "grass",
             "ice"
         ],
-        "weight": 135.5
+        "weight": 298.7
     },
     "461": {
         "abilities": [
@@ -7357,7 +7357,7 @@
             "dark",
             "ice"
         ],
-        "weight": 34.0
+        "weight": 75.0
     },
     "462": {
         "abilities": [
@@ -7374,7 +7374,7 @@
             "electric",
             "steel"
         ],
-        "weight": 180.0
+        "weight": 396.8
     },
     "463": {
         "abilities": [
@@ -7390,7 +7390,7 @@
         "type": [
             "normal"
         ],
-        "weight": 140.0
+        "weight": 308.6
     },
     "464": {
         "abilities": [
@@ -7407,7 +7407,7 @@
             "ground",
             "rock"
         ],
-        "weight": 282.8
+        "weight": 623.5
     },
     "465": {
         "abilities": [
@@ -7423,7 +7423,7 @@
         "type": [
             "grass"
         ],
-        "weight": 128.6
+        "weight": 283.5
     },
     "466": {
         "abilities": [
@@ -7438,7 +7438,7 @@
         "type": [
             "electric"
         ],
-        "weight": 138.6
+        "weight": 305.6
     },
     "467": {
         "abilities": [
@@ -7453,7 +7453,7 @@
         "type": [
             "fire"
         ],
-        "weight": 68.0
+        "weight": 149.9
     },
     "468": {
         "abilities": [
@@ -7470,7 +7470,7 @@
             "fairy",
             "flying"
         ],
-        "weight": 38.0
+        "weight": 83.8
     },
     "469": {
         "abilities": [
@@ -7487,7 +7487,7 @@
             "bug",
             "flying"
         ],
-        "weight": 51.5
+        "weight": 113.5
     },
     "470": {
         "abilities": [
@@ -7502,7 +7502,7 @@
         "type": [
             "grass"
         ],
-        "weight": 25.5
+        "weight": 56.2
     },
     "471": {
         "abilities": [
@@ -7517,7 +7517,7 @@
         "type": [
             "ice"
         ],
-        "weight": 25.9
+        "weight": 57.1
     },
     "472": {
         "abilities": [
@@ -7534,7 +7534,7 @@
             "ground",
             "flying"
         ],
-        "weight": 42.5
+        "weight": 93.7
     },
     "473": {
         "abilities": [
@@ -7551,7 +7551,7 @@
             "ice",
             "ground"
         ],
-        "weight": 291.0
+        "weight": 641.5
     },
     "474": {
         "abilities": [
@@ -7567,7 +7567,7 @@
         "type": [
             "normal"
         ],
-        "weight": 34.0
+        "weight": 75.0
     },
     "475": {
         "abilities": [
@@ -7583,7 +7583,7 @@
             "psychic",
             "fighting"
         ],
-        "weight": 52.0
+        "weight": 114.6
     },
     "476": {
         "abilities": [
@@ -7600,7 +7600,7 @@
             "rock",
             "steel"
         ],
-        "weight": 340.0
+        "weight": 749.6
     },
     "477": {
         "abilities": [
@@ -7615,7 +7615,7 @@
         "type": [
             "ghost"
         ],
-        "weight": 106.6
+        "weight": 235.0
     },
     "478": {
         "abilities": [
@@ -7631,7 +7631,7 @@
             "ice",
             "ghost"
         ],
-        "weight": 26.6
+        "weight": 58.6
     },
     "479": {
         "abilities": [
@@ -7646,7 +7646,7 @@
             "electric",
             "ghost"
         ],
-        "weight": 0.3
+        "weight": 0.7
     },
     "480": {
         "abilities": [
@@ -7660,7 +7660,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 0.3
+        "weight": 0.7
     },
     "481": {
         "abilities": [
@@ -7674,7 +7674,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 0.3
+        "weight": 0.7
     },
     "482": {
         "abilities": [
@@ -7688,7 +7688,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 0.3
+        "weight": 0.7
     },
     "483": {
         "abilities": [
@@ -7704,7 +7704,7 @@
             "steel",
             "dragon"
         ],
-        "weight": 683.0
+        "weight": 1505.8
     },
     "484": {
         "abilities": [
@@ -7720,7 +7720,7 @@
             "water",
             "dragon"
         ],
-        "weight": 336.0
+        "weight": 740.8
     },
     "485": {
         "abilities": [
@@ -7736,7 +7736,7 @@
             "fire",
             "steel"
         ],
-        "weight": 430.0
+        "weight": 948.0
     },
     "486": {
         "abilities": [
@@ -7750,7 +7750,7 @@
         "type": [
             "normal"
         ],
-        "weight": 420.0
+        "weight": 925.9
     },
     "487": {
         "abilities": [
@@ -7766,7 +7766,7 @@
             "ghost",
             "dragon"
         ],
-        "weight": 750.0
+        "weight": 1653.5
     },
     "488": {
         "abilities": [
@@ -7780,7 +7780,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 85.6
+        "weight": 188.7
     },
     "489": {
         "abilities": [
@@ -7794,7 +7794,7 @@
         "type": [
             "water"
         ],
-        "weight": 3.1
+        "weight": 6.8
     },
     "490": {
         "abilities": [
@@ -7808,7 +7808,7 @@
         "type": [
             "water"
         ],
-        "weight": 1.4
+        "weight": 3.1
     },
     "491": {
         "abilities": [
@@ -7822,7 +7822,7 @@
         "type": [
             "dark"
         ],
-        "weight": 50.5
+        "weight": 111.3
     },
     "492": {
         "abilities": [
@@ -7836,7 +7836,7 @@
         "type": [
             "grass"
         ],
-        "weight": 2.1
+        "weight": 4.6
     },
     "493": {
         "abilities": [
@@ -7850,7 +7850,7 @@
         "type": [
             "normal"
         ],
-        "weight": 320.0
+        "weight": 705.5
     },
     "494": {
         "abilities": [
@@ -7865,7 +7865,7 @@
             "psychic",
             "fire"
         ],
-        "weight": 4.0
+        "weight": 8.8
     },
     "495": {
         "abilities": [
@@ -7880,7 +7880,7 @@
         "type": [
             "grass"
         ],
-        "weight": 8.1
+        "weight": 17.9
     },
     "496": {
         "abilities": [
@@ -7895,7 +7895,7 @@
         "type": [
             "grass"
         ],
-        "weight": 16.0
+        "weight": 35.3
     },
     "497": {
         "abilities": [
@@ -7910,7 +7910,7 @@
         "type": [
             "grass"
         ],
-        "weight": 63.0
+        "weight": 138.9
     },
     "498": {
         "abilities": [
@@ -7925,7 +7925,7 @@
         "type": [
             "fire"
         ],
-        "weight": 9.9
+        "weight": 21.8
     },
     "499": {
         "abilities": [
@@ -7941,7 +7941,7 @@
             "fire",
             "fighting"
         ],
-        "weight": 55.5
+        "weight": 122.4
     },
     "500": {
         "abilities": [
@@ -7957,7 +7957,7 @@
             "fire",
             "fighting"
         ],
-        "weight": 150.0
+        "weight": 330.7
     },
     "501": {
         "abilities": [
@@ -7972,7 +7972,7 @@
         "type": [
             "water"
         ],
-        "weight": 5.9
+        "weight": 13.0
     },
     "502": {
         "abilities": [
@@ -7987,7 +7987,7 @@
         "type": [
             "water"
         ],
-        "weight": 24.5
+        "weight": 54.0
     },
     "503": {
         "abilities": [
@@ -8002,7 +8002,7 @@
         "type": [
             "water"
         ],
-        "weight": 94.6
+        "weight": 208.6
     },
     "504": {
         "abilities": [
@@ -8018,7 +8018,7 @@
         "type": [
             "normal"
         ],
-        "weight": 11.6
+        "weight": 25.6
     },
     "505": {
         "abilities": [
@@ -8034,7 +8034,7 @@
         "type": [
             "normal"
         ],
-        "weight": 27.0
+        "weight": 59.5
     },
     "506": {
         "abilities": [
@@ -8050,7 +8050,7 @@
         "type": [
             "normal"
         ],
-        "weight": 4.1
+        "weight": 9.0
     },
     "507": {
         "abilities": [
@@ -8066,7 +8066,7 @@
         "type": [
             "normal"
         ],
-        "weight": 14.7
+        "weight": 32.4
     },
     "508": {
         "abilities": [
@@ -8082,7 +8082,7 @@
         "type": [
             "normal"
         ],
-        "weight": 61.0
+        "weight": 134.5
     },
     "509": {
         "abilities": [
@@ -8098,7 +8098,7 @@
         "type": [
             "dark"
         ],
-        "weight": 10.1
+        "weight": 22.3
     },
     "510": {
         "abilities": [
@@ -8114,7 +8114,7 @@
         "type": [
             "dark"
         ],
-        "weight": 37.5
+        "weight": 82.7
     },
     "511": {
         "abilities": [
@@ -8129,7 +8129,7 @@
         "type": [
             "grass"
         ],
-        "weight": 10.5
+        "weight": 23.1
     },
     "512": {
         "abilities": [
@@ -8144,7 +8144,7 @@
         "type": [
             "grass"
         ],
-        "weight": 30.5
+        "weight": 67.2
     },
     "513": {
         "abilities": [
@@ -8159,7 +8159,7 @@
         "type": [
             "fire"
         ],
-        "weight": 11.0
+        "weight": 24.3
     },
     "514": {
         "abilities": [
@@ -8174,7 +8174,7 @@
         "type": [
             "fire"
         ],
-        "weight": 28.0
+        "weight": 61.7
     },
     "515": {
         "abilities": [
@@ -8189,7 +8189,7 @@
         "type": [
             "water"
         ],
-        "weight": 13.5
+        "weight": 29.8
     },
     "516": {
         "abilities": [
@@ -8204,7 +8204,7 @@
         "type": [
             "water"
         ],
-        "weight": 29.0
+        "weight": 63.9
     },
     "517": {
         "abilities": [
@@ -8220,7 +8220,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 23.3
+        "weight": 51.4
     },
     "518": {
         "abilities": [
@@ -8236,7 +8236,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 60.5
+        "weight": 133.4
     },
     "519": {
         "abilities": [
@@ -8253,7 +8253,7 @@
             "normal",
             "flying"
         ],
-        "weight": 2.1
+        "weight": 4.6
     },
     "520": {
         "abilities": [
@@ -8270,7 +8270,7 @@
             "normal",
             "flying"
         ],
-        "weight": 15.0
+        "weight": 33.1
     },
     "521": {
         "abilities": [
@@ -8287,7 +8287,7 @@
             "normal",
             "flying"
         ],
-        "weight": 29.0
+        "weight": 63.9
     },
     "522": {
         "abilities": [
@@ -8303,7 +8303,7 @@
         "type": [
             "electric"
         ],
-        "weight": 29.8
+        "weight": 65.7
     },
     "523": {
         "abilities": [
@@ -8319,7 +8319,7 @@
         "type": [
             "electric"
         ],
-        "weight": 79.5
+        "weight": 175.3
     },
     "524": {
         "abilities": [
@@ -8335,7 +8335,7 @@
         "type": [
             "rock"
         ],
-        "weight": 18.0
+        "weight": 39.7
     },
     "525": {
         "abilities": [
@@ -8351,7 +8351,7 @@
         "type": [
             "rock"
         ],
-        "weight": 102.0
+        "weight": 224.9
     },
     "526": {
         "abilities": [
@@ -8367,7 +8367,7 @@
         "type": [
             "rock"
         ],
-        "weight": 260.0
+        "weight": 573.2
     },
     "527": {
         "abilities": [
@@ -8384,7 +8384,7 @@
             "psychic",
             "flying"
         ],
-        "weight": 2.1
+        "weight": 4.6
     },
     "528": {
         "abilities": [
@@ -8401,7 +8401,7 @@
             "psychic",
             "flying"
         ],
-        "weight": 10.5
+        "weight": 23.1
     },
     "529": {
         "abilities": [
@@ -8417,7 +8417,7 @@
         "type": [
             "ground"
         ],
-        "weight": 8.5
+        "weight": 18.7
     },
     "530": {
         "abilities": [
@@ -8434,7 +8434,7 @@
             "ground",
             "steel"
         ],
-        "weight": 40.4
+        "weight": 89.1
     },
     "531": {
         "abilities": [
@@ -8450,7 +8450,7 @@
         "type": [
             "normal"
         ],
-        "weight": 31.0
+        "weight": 68.3
     },
     "532": {
         "abilities": [
@@ -8466,7 +8466,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 12.5
+        "weight": 27.6
     },
     "533": {
         "abilities": [
@@ -8482,7 +8482,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 40.0
+        "weight": 88.2
     },
     "534": {
         "abilities": [
@@ -8498,7 +8498,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 87.0
+        "weight": 191.8
     },
     "535": {
         "abilities": [
@@ -8514,7 +8514,7 @@
         "type": [
             "water"
         ],
-        "weight": 4.5
+        "weight": 9.9
     },
     "536": {
         "abilities": [
@@ -8531,7 +8531,7 @@
             "water",
             "ground"
         ],
-        "weight": 17.0
+        "weight": 37.5
     },
     "537": {
         "abilities": [
@@ -8548,7 +8548,7 @@
             "water",
             "ground"
         ],
-        "weight": 62.0
+        "weight": 136.7
     },
     "538": {
         "abilities": [
@@ -8564,7 +8564,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 55.5
+        "weight": 122.4
     },
     "539": {
         "abilities": [
@@ -8580,7 +8580,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 51.0
+        "weight": 112.4
     },
     "540": {
         "abilities": [
@@ -8597,7 +8597,7 @@
             "bug",
             "grass"
         ],
-        "weight": 2.5
+        "weight": 5.5
     },
     "541": {
         "abilities": [
@@ -8614,7 +8614,7 @@
             "bug",
             "grass"
         ],
-        "weight": 7.3
+        "weight": 16.1
     },
     "542": {
         "abilities": [
@@ -8631,7 +8631,7 @@
             "bug",
             "grass"
         ],
-        "weight": 20.5
+        "weight": 45.2
     },
     "543": {
         "abilities": [
@@ -8648,7 +8648,7 @@
             "bug",
             "poison"
         ],
-        "weight": 5.3
+        "weight": 11.7
     },
     "544": {
         "abilities": [
@@ -8665,7 +8665,7 @@
             "bug",
             "poison"
         ],
-        "weight": 58.5
+        "weight": 129.0
     },
     "545": {
         "abilities": [
@@ -8682,7 +8682,7 @@
             "bug",
             "poison"
         ],
-        "weight": 200.5
+        "weight": 442.0
     },
     "546": {
         "abilities": [
@@ -8699,7 +8699,7 @@
             "grass",
             "fairy"
         ],
-        "weight": 0.6
+        "weight": 1.3
     },
     "547": {
         "abilities": [
@@ -8716,7 +8716,7 @@
             "grass",
             "fairy"
         ],
-        "weight": 6.6
+        "weight": 14.6
     },
     "548": {
         "abilities": [
@@ -8732,7 +8732,7 @@
         "type": [
             "grass"
         ],
-        "weight": 6.6
+        "weight": 14.6
     },
     "549": {
         "abilities": [
@@ -8748,7 +8748,7 @@
         "type": [
             "grass"
         ],
-        "weight": 16.3
+        "weight": 35.9
     },
     "550": {
         "abilities": [
@@ -8764,7 +8764,7 @@
         "type": [
             "water"
         ],
-        "weight": 18.0
+        "weight": 39.7
     },
     "551": {
         "abilities": [
@@ -8781,7 +8781,7 @@
             "ground",
             "dark"
         ],
-        "weight": 15.2
+        "weight": 33.5
     },
     "552": {
         "abilities": [
@@ -8798,7 +8798,7 @@
             "ground",
             "dark"
         ],
-        "weight": 33.4
+        "weight": 73.6
     },
     "553": {
         "abilities": [
@@ -8815,7 +8815,7 @@
             "ground",
             "dark"
         ],
-        "weight": 96.3
+        "weight": 212.3
     },
     "554": {
         "abilities": [
@@ -8830,7 +8830,7 @@
         "type": [
             "fire"
         ],
-        "weight": 37.5
+        "weight": 82.7
     },
     "555": {
         "abilities": [
@@ -8845,7 +8845,7 @@
         "type": [
             "fire"
         ],
-        "weight": 92.9
+        "weight": 204.8
     },
     "556": {
         "abilities": [
@@ -8861,7 +8861,7 @@
         "type": [
             "grass"
         ],
-        "weight": 28.0
+        "weight": 61.7
     },
     "557": {
         "abilities": [
@@ -8878,7 +8878,7 @@
             "bug",
             "rock"
         ],
-        "weight": 14.5
+        "weight": 32.0
     },
     "558": {
         "abilities": [
@@ -8895,7 +8895,7 @@
             "bug",
             "rock"
         ],
-        "weight": 200.0
+        "weight": 440.9
     },
     "559": {
         "abilities": [
@@ -8912,7 +8912,7 @@
             "dark",
             "fighting"
         ],
-        "weight": 11.8
+        "weight": 26.0
     },
     "560": {
         "abilities": [
@@ -8929,7 +8929,7 @@
             "dark",
             "fighting"
         ],
-        "weight": 30.0
+        "weight": 66.1
     },
     "561": {
         "abilities": [
@@ -8946,7 +8946,7 @@
             "psychic",
             "flying"
         ],
-        "weight": 14.0
+        "weight": 30.9
     },
     "562": {
         "abilities": [
@@ -8960,7 +8960,7 @@
         "type": [
             "ghost"
         ],
-        "weight": 1.5
+        "weight": 3.3
     },
     "563": {
         "abilities": [
@@ -8974,7 +8974,7 @@
         "type": [
             "ghost"
         ],
-        "weight": 76.5
+        "weight": 168.7
     },
     "564": {
         "abilities": [
@@ -8991,7 +8991,7 @@
             "water",
             "rock"
         ],
-        "weight": 16.5
+        "weight": 36.4
     },
     "565": {
         "abilities": [
@@ -9008,7 +9008,7 @@
             "water",
             "rock"
         ],
-        "weight": 81.0
+        "weight": 178.6
     },
     "566": {
         "abilities": [
@@ -9023,7 +9023,7 @@
             "rock",
             "flying"
         ],
-        "weight": 9.5
+        "weight": 20.9
     },
     "567": {
         "abilities": [
@@ -9038,7 +9038,7 @@
             "rock",
             "flying"
         ],
-        "weight": 32.0
+        "weight": 70.5
     },
     "568": {
         "abilities": [
@@ -9054,7 +9054,7 @@
         "type": [
             "poison"
         ],
-        "weight": 31.0
+        "weight": 68.3
     },
     "569": {
         "abilities": [
@@ -9070,7 +9070,7 @@
         "type": [
             "poison"
         ],
-        "weight": 107.3
+        "weight": 236.6
     },
     "570": {
         "abilities": [
@@ -9084,7 +9084,7 @@
         "type": [
             "dark"
         ],
-        "weight": 12.5
+        "weight": 27.6
     },
     "571": {
         "abilities": [
@@ -9098,7 +9098,7 @@
         "type": [
             "dark"
         ],
-        "weight": 81.1
+        "weight": 178.8
     },
     "572": {
         "abilities": [
@@ -9114,7 +9114,7 @@
         "type": [
             "normal"
         ],
-        "weight": 5.8
+        "weight": 12.8
     },
     "573": {
         "abilities": [
@@ -9130,7 +9130,7 @@
         "type": [
             "normal"
         ],
-        "weight": 7.5
+        "weight": 16.5
     },
     "574": {
         "abilities": [
@@ -9146,7 +9146,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 5.8
+        "weight": 12.8
     },
     "575": {
         "abilities": [
@@ -9162,7 +9162,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 18.0
+        "weight": 39.7
     },
     "576": {
         "abilities": [
@@ -9178,7 +9178,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 44.0
+        "weight": 97.0
     },
     "577": {
         "abilities": [
@@ -9194,7 +9194,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 1.0
+        "weight": 2.2
     },
     "578": {
         "abilities": [
@@ -9210,7 +9210,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 8.0
+        "weight": 17.6
     },
     "579": {
         "abilities": [
@@ -9226,7 +9226,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 20.1
+        "weight": 44.3
     },
     "580": {
         "abilities": [
@@ -9243,7 +9243,7 @@
             "water",
             "flying"
         ],
-        "weight": 5.5
+        "weight": 12.1
     },
     "581": {
         "abilities": [
@@ -9260,7 +9260,7 @@
             "water",
             "flying"
         ],
-        "weight": 24.2
+        "weight": 53.4
     },
     "582": {
         "abilities": [
@@ -9276,7 +9276,7 @@
         "type": [
             "ice"
         ],
-        "weight": 5.7
+        "weight": 12.6
     },
     "583": {
         "abilities": [
@@ -9292,7 +9292,7 @@
         "type": [
             "ice"
         ],
-        "weight": 41.0
+        "weight": 90.4
     },
     "584": {
         "abilities": [
@@ -9308,7 +9308,7 @@
         "type": [
             "ice"
         ],
-        "weight": 57.5
+        "weight": 126.8
     },
     "585": {
         "abilities": [
@@ -9325,7 +9325,7 @@
             "normal",
             "grass"
         ],
-        "weight": 19.5
+        "weight": 43.0
     },
     "586": {
         "abilities": [
@@ -9342,7 +9342,7 @@
             "normal",
             "grass"
         ],
-        "weight": 92.5
+        "weight": 203.9
     },
     "587": {
         "abilities": [
@@ -9358,7 +9358,7 @@
             "electric",
             "flying"
         ],
-        "weight": 5.0
+        "weight": 11.0
     },
     "588": {
         "abilities": [
@@ -9374,7 +9374,7 @@
         "type": [
             "bug"
         ],
-        "weight": 5.9
+        "weight": 13.0
     },
     "589": {
         "abilities": [
@@ -9391,7 +9391,7 @@
             "bug",
             "steel"
         ],
-        "weight": 33.0
+        "weight": 72.8
     },
     "590": {
         "abilities": [
@@ -9407,7 +9407,7 @@
             "grass",
             "poison"
         ],
-        "weight": 1.0
+        "weight": 2.2
     },
     "591": {
         "abilities": [
@@ -9423,7 +9423,7 @@
             "grass",
             "poison"
         ],
-        "weight": 10.5
+        "weight": 23.1
     },
     "592": {
         "abilities": [
@@ -9440,7 +9440,7 @@
             "water",
             "ghost"
         ],
-        "weight": 33.0
+        "weight": 72.8
     },
     "593": {
         "abilities": [
@@ -9457,7 +9457,7 @@
             "water",
             "ghost"
         ],
-        "weight": 135.0
+        "weight": 297.6
     },
     "594": {
         "abilities": [
@@ -9473,7 +9473,7 @@
         "type": [
             "water"
         ],
-        "weight": 31.6
+        "weight": 69.7
     },
     "595": {
         "abilities": [
@@ -9490,7 +9490,7 @@
             "bug",
             "electric"
         ],
-        "weight": 0.6
+        "weight": 1.3
     },
     "596": {
         "abilities": [
@@ -9507,7 +9507,7 @@
             "bug",
             "electric"
         ],
-        "weight": 14.3
+        "weight": 31.5
     },
     "597": {
         "abilities": [
@@ -9523,7 +9523,7 @@
             "grass",
             "steel"
         ],
-        "weight": 18.8
+        "weight": 41.4
     },
     "598": {
         "abilities": [
@@ -9539,7 +9539,7 @@
             "grass",
             "steel"
         ],
-        "weight": 110.0
+        "weight": 242.5
     },
     "599": {
         "abilities": [
@@ -9555,7 +9555,7 @@
         "type": [
             "steel"
         ],
-        "weight": 21.0
+        "weight": 46.3
     },
     "600": {
         "abilities": [
@@ -9571,7 +9571,7 @@
         "type": [
             "steel"
         ],
-        "weight": 51.0
+        "weight": 112.4
     },
     "601": {
         "abilities": [
@@ -9587,7 +9587,7 @@
         "type": [
             "steel"
         ],
-        "weight": 81.0
+        "weight": 178.6
     },
     "602": {
         "abilities": [
@@ -9601,7 +9601,7 @@
         "type": [
             "electric"
         ],
-        "weight": 0.3
+        "weight": 0.7
     },
     "603": {
         "abilities": [
@@ -9615,7 +9615,7 @@
         "type": [
             "electric"
         ],
-        "weight": 22.0
+        "weight": 48.5
     },
     "604": {
         "abilities": [
@@ -9629,7 +9629,7 @@
         "type": [
             "electric"
         ],
-        "weight": 80.5
+        "weight": 177.5
     },
     "605": {
         "abilities": [
@@ -9645,7 +9645,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 9.0
+        "weight": 19.8
     },
     "606": {
         "abilities": [
@@ -9661,7 +9661,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 34.5
+        "weight": 76.1
     },
     "607": {
         "abilities": [
@@ -9678,7 +9678,7 @@
             "ghost",
             "fire"
         ],
-        "weight": 3.1
+        "weight": 6.8
     },
     "608": {
         "abilities": [
@@ -9695,7 +9695,7 @@
             "ghost",
             "fire"
         ],
-        "weight": 13.0
+        "weight": 28.7
     },
     "609": {
         "abilities": [
@@ -9712,7 +9712,7 @@
             "ghost",
             "fire"
         ],
-        "weight": 34.3
+        "weight": 75.6
     },
     "610": {
         "abilities": [
@@ -9728,7 +9728,7 @@
         "type": [
             "dragon"
         ],
-        "weight": 18.0
+        "weight": 39.7
     },
     "611": {
         "abilities": [
@@ -9744,7 +9744,7 @@
         "type": [
             "dragon"
         ],
-        "weight": 36.0
+        "weight": 79.4
     },
     "612": {
         "abilities": [
@@ -9760,7 +9760,7 @@
         "type": [
             "dragon"
         ],
-        "weight": 105.5
+        "weight": 232.6
     },
     "613": {
         "abilities": [
@@ -9776,7 +9776,7 @@
         "type": [
             "ice"
         ],
-        "weight": 8.5
+        "weight": 18.7
     },
     "614": {
         "abilities": [
@@ -9792,7 +9792,7 @@
         "type": [
             "ice"
         ],
-        "weight": 260.0
+        "weight": 573.2
     },
     "615": {
         "abilities": [
@@ -9806,7 +9806,7 @@
         "type": [
             "ice"
         ],
-        "weight": 148.0
+        "weight": 326.3
     },
     "616": {
         "abilities": [
@@ -9822,7 +9822,7 @@
         "type": [
             "bug"
         ],
-        "weight": 7.7
+        "weight": 17.0
     },
     "617": {
         "abilities": [
@@ -9838,7 +9838,7 @@
         "type": [
             "bug"
         ],
-        "weight": 25.3
+        "weight": 55.8
     },
     "618": {
         "abilities": [
@@ -9855,7 +9855,7 @@
             "ground",
             "electric"
         ],
-        "weight": 11.0
+        "weight": 24.3
     },
     "619": {
         "abilities": [
@@ -9871,7 +9871,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 20.0
+        "weight": 44.1
     },
     "620": {
         "abilities": [
@@ -9887,7 +9887,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 35.5
+        "weight": 78.3
     },
     "621": {
         "abilities": [
@@ -9903,7 +9903,7 @@
         "type": [
             "dragon"
         ],
-        "weight": 139.0
+        "weight": 306.4
     },
     "622": {
         "abilities": [
@@ -9920,7 +9920,7 @@
             "ground",
             "ghost"
         ],
-        "weight": 92.0
+        "weight": 202.8
     },
     "623": {
         "abilities": [
@@ -9937,7 +9937,7 @@
             "ground",
             "ghost"
         ],
-        "weight": 330.0
+        "weight": 727.5
     },
     "624": {
         "abilities": [
@@ -9954,7 +9954,7 @@
             "dark",
             "steel"
         ],
-        "weight": 10.2
+        "weight": 22.5
     },
     "625": {
         "abilities": [
@@ -9971,7 +9971,7 @@
             "dark",
             "steel"
         ],
-        "weight": 70.0
+        "weight": 154.3
     },
     "626": {
         "abilities": [
@@ -9987,7 +9987,7 @@
         "type": [
             "normal"
         ],
-        "weight": 94.6
+        "weight": 208.6
     },
     "627": {
         "abilities": [
@@ -10004,7 +10004,7 @@
             "normal",
             "flying"
         ],
-        "weight": 10.5
+        "weight": 23.1
     },
     "628": {
         "abilities": [
@@ -10021,7 +10021,7 @@
             "normal",
             "flying"
         ],
-        "weight": 41.0
+        "weight": 90.4
     },
     "629": {
         "abilities": [
@@ -10038,7 +10038,7 @@
             "dark",
             "flying"
         ],
-        "weight": 9.0
+        "weight": 19.8
     },
     "630": {
         "abilities": [
@@ -10055,7 +10055,7 @@
             "dark",
             "flying"
         ],
-        "weight": 39.5
+        "weight": 87.1
     },
     "631": {
         "abilities": [
@@ -10071,7 +10071,7 @@
         "type": [
             "fire"
         ],
-        "weight": 58.0
+        "weight": 127.9
     },
     "632": {
         "abilities": [
@@ -10088,7 +10088,7 @@
             "bug",
             "steel"
         ],
-        "weight": 33.0
+        "weight": 72.8
     },
     "633": {
         "abilities": [
@@ -10103,7 +10103,7 @@
             "dark",
             "dragon"
         ],
-        "weight": 17.3
+        "weight": 38.1
     },
     "634": {
         "abilities": [
@@ -10118,7 +10118,7 @@
             "dark",
             "dragon"
         ],
-        "weight": 50.0
+        "weight": 110.2
     },
     "635": {
         "abilities": [
@@ -10133,7 +10133,7 @@
             "dark",
             "dragon"
         ],
-        "weight": 160.0
+        "weight": 352.7
     },
     "636": {
         "abilities": [
@@ -10149,7 +10149,7 @@
             "bug",
             "fire"
         ],
-        "weight": 28.8
+        "weight": 63.5
     },
     "637": {
         "abilities": [
@@ -10165,7 +10165,7 @@
             "bug",
             "fire"
         ],
-        "weight": 46.0
+        "weight": 101.4
     },
     "638": {
         "abilities": [
@@ -10180,7 +10180,7 @@
             "steel",
             "fighting"
         ],
-        "weight": 250.0
+        "weight": 551.2
     },
     "639": {
         "abilities": [
@@ -10195,7 +10195,7 @@
             "rock",
             "fighting"
         ],
-        "weight": 260.0
+        "weight": 573.2
     },
     "640": {
         "abilities": [
@@ -10210,7 +10210,7 @@
             "grass",
             "fighting"
         ],
-        "weight": 200.0
+        "weight": 440.9
     },
     "641": {
         "abilities": [
@@ -10225,7 +10225,7 @@
         "type": [
             "flying"
         ],
-        "weight": 63.0
+        "weight": 138.9
     },
     "642": {
         "abilities": [
@@ -10241,7 +10241,7 @@
             "electric",
             "flying"
         ],
-        "weight": 61.0
+        "weight": 134.5
     },
     "643": {
         "abilities": [
@@ -10256,7 +10256,7 @@
             "dragon",
             "fire"
         ],
-        "weight": 330.0
+        "weight": 727.5
     },
     "644": {
         "abilities": [
@@ -10271,7 +10271,7 @@
             "dragon",
             "electric"
         ],
-        "weight": 345.0
+        "weight": 760.6
     },
     "645": {
         "abilities": [
@@ -10287,7 +10287,7 @@
             "ground",
             "flying"
         ],
-        "weight": 68.0
+        "weight": 149.9
     },
     "646": {
         "abilities": [
@@ -10302,7 +10302,7 @@
             "dragon",
             "ice"
         ],
-        "weight": 325.0
+        "weight": 716.5
     },
     "647": {
         "abilities": [
@@ -10317,7 +10317,7 @@
             "water",
             "fighting"
         ],
-        "weight": 48.5
+        "weight": 106.9
     },
     "648": {
         "abilities": [
@@ -10332,7 +10332,7 @@
             "normal",
             "psychic"
         ],
-        "weight": 6.5
+        "weight": 14.3
     },
     "649": {
         "abilities": [
@@ -10347,7 +10347,7 @@
             "bug",
             "steel"
         ],
-        "weight": 82.5
+        "weight": 181.9
     },
     "650": {
         "abilities": [
@@ -10362,7 +10362,7 @@
         "type": [
             "grass"
         ],
-        "weight": 9.0
+        "weight": 19.8
     },
     "651": {
         "abilities": [
@@ -10377,7 +10377,7 @@
         "type": [
             "grass"
         ],
-        "weight": 29.0
+        "weight": 63.9
     },
     "652": {
         "abilities": [
@@ -10393,7 +10393,7 @@
             "grass",
             "fighting"
         ],
-        "weight": 90.0
+        "weight": 198.4
     },
     "653": {
         "abilities": [
@@ -10408,7 +10408,7 @@
         "type": [
             "fire"
         ],
-        "weight": 9.4
+        "weight": 20.7
     },
     "654": {
         "abilities": [
@@ -10423,7 +10423,7 @@
         "type": [
             "fire"
         ],
-        "weight": 14.5
+        "weight": 32.0
     },
     "655": {
         "abilities": [
@@ -10439,7 +10439,7 @@
             "fire",
             "psychic"
         ],
-        "weight": 39.0
+        "weight": 86.0
     },
     "656": {
         "abilities": [
@@ -10454,7 +10454,7 @@
         "type": [
             "water"
         ],
-        "weight": 7.0
+        "weight": 15.4
     },
     "657": {
         "abilities": [
@@ -10469,7 +10469,7 @@
         "type": [
             "water"
         ],
-        "weight": 10.9
+        "weight": 24.0
     },
     "658": {
         "abilities": [
@@ -10485,7 +10485,7 @@
             "water",
             "dark"
         ],
-        "weight": 40.0
+        "weight": 88.2
     },
     "659": {
         "abilities": [
@@ -10501,7 +10501,7 @@
         "type": [
             "normal"
         ],
-        "weight": 5.0
+        "weight": 11.0
     },
     "660": {
         "abilities": [
@@ -10518,7 +10518,7 @@
             "normal",
             "ground"
         ],
-        "weight": 42.4
+        "weight": 93.5
     },
     "661": {
         "abilities": [
@@ -10534,7 +10534,7 @@
             "normal",
             "flying"
         ],
-        "weight": 1.7
+        "weight": 3.7
     },
     "662": {
         "abilities": [
@@ -10550,7 +10550,7 @@
             "fire",
             "flying"
         ],
-        "weight": 16.0
+        "weight": 35.3
     },
     "663": {
         "abilities": [
@@ -10566,7 +10566,7 @@
             "fire",
             "flying"
         ],
-        "weight": 24.5
+        "weight": 54.0
     },
     "664": {
         "abilities": [
@@ -10582,7 +10582,7 @@
         "type": [
             "bug"
         ],
-        "weight": 2.5
+        "weight": 5.5
     },
     "665": {
         "abilities": [
@@ -10597,7 +10597,7 @@
         "type": [
             "bug"
         ],
-        "weight": 8.4
+        "weight": 18.5
     },
     "666": {
         "abilities": [
@@ -10614,7 +10614,7 @@
             "bug",
             "flying"
         ],
-        "weight": 17.0
+        "weight": 37.5
     },
     "667": {
         "abilities": [
@@ -10631,7 +10631,7 @@
             "fire",
             "normal"
         ],
-        "weight": 13.5
+        "weight": 29.8
     },
     "668": {
         "abilities": [
@@ -10648,7 +10648,7 @@
             "fire",
             "normal"
         ],
-        "weight": 81.5
+        "weight": 179.7
     },
     "669": {
         "abilities": [
@@ -10663,7 +10663,7 @@
         "type": [
             "fairy"
         ],
-        "weight": 0.1
+        "weight": 0.2
     },
     "670": {
         "abilities": [
@@ -10678,7 +10678,7 @@
         "type": [
             "fairy"
         ],
-        "weight": 0.9
+        "weight": 2.0
     },
     "671": {
         "abilities": [
@@ -10693,7 +10693,7 @@
         "type": [
             "fairy"
         ],
-        "weight": 10.0
+        "weight": 22.0
     },
     "672": {
         "abilities": [
@@ -10708,7 +10708,7 @@
         "type": [
             "grass"
         ],
-        "weight": 31.0
+        "weight": 68.3
     },
     "673": {
         "abilities": [
@@ -10723,7 +10723,7 @@
         "type": [
             "grass"
         ],
-        "weight": 91.0
+        "weight": 200.6
     },
     "674": {
         "abilities": [
@@ -10739,7 +10739,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 8.0
+        "weight": 17.6
     },
     "675": {
         "abilities": [
@@ -10756,7 +10756,7 @@
             "fighting",
             "dark"
         ],
-        "weight": 136.0
+        "weight": 299.8
     },
     "676": {
         "abilities": [
@@ -10770,7 +10770,7 @@
         "type": [
             "normal"
         ],
-        "weight": 28.0
+        "weight": 61.7
     },
     "677": {
         "abilities": [
@@ -10786,7 +10786,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 3.5
+        "weight": 7.7
     },
     "678": {
         "abilities": [
@@ -10802,7 +10802,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 8.5
+        "weight": 18.7
     },
     "679": {
         "abilities": [
@@ -10817,7 +10817,7 @@
             "steel",
             "ghost"
         ],
-        "weight": 2.0
+        "weight": 4.4
     },
     "680": {
         "abilities": [
@@ -10832,7 +10832,7 @@
             "steel",
             "ghost"
         ],
-        "weight": 4.5
+        "weight": 9.9
     },
     "681": {
         "abilities": [
@@ -10847,7 +10847,7 @@
             "steel",
             "ghost"
         ],
-        "weight": 53.0
+        "weight": 116.8
     },
     "682": {
         "abilities": [
@@ -10862,7 +10862,7 @@
         "type": [
             "fairy"
         ],
-        "weight": 0.5
+        "weight": 1.1
     },
     "683": {
         "abilities": [
@@ -10877,7 +10877,7 @@
         "type": [
             "fairy"
         ],
-        "weight": 15.5
+        "weight": 34.2
     },
     "684": {
         "abilities": [
@@ -10892,7 +10892,7 @@
         "type": [
             "fairy"
         ],
-        "weight": 3.5
+        "weight": 7.7
     },
     "685": {
         "abilities": [
@@ -10907,7 +10907,7 @@
         "type": [
             "fairy"
         ],
-        "weight": 5.0
+        "weight": 11.0
     },
     "686": {
         "abilities": [
@@ -10924,7 +10924,7 @@
             "dark",
             "psychic"
         ],
-        "weight": 3.5
+        "weight": 7.7
     },
     "687": {
         "abilities": [
@@ -10941,7 +10941,7 @@
             "dark",
             "psychic"
         ],
-        "weight": 47.0
+        "weight": 103.6
     },
     "688": {
         "abilities": [
@@ -10958,7 +10958,7 @@
             "rock",
             "water"
         ],
-        "weight": 31.0
+        "weight": 68.3
     },
     "689": {
         "abilities": [
@@ -10975,7 +10975,7 @@
             "rock",
             "water"
         ],
-        "weight": 96.0
+        "weight": 211.6
     },
     "690": {
         "abilities": [
@@ -10992,7 +10992,7 @@
             "poison",
             "water"
         ],
-        "weight": 7.3
+        "weight": 16.1
     },
     "691": {
         "abilities": [
@@ -11009,7 +11009,7 @@
             "poison",
             "dragon"
         ],
-        "weight": 81.5
+        "weight": 179.7
     },
     "692": {
         "abilities": [
@@ -11023,7 +11023,7 @@
         "type": [
             "water"
         ],
-        "weight": 8.3
+        "weight": 18.3
     },
     "693": {
         "abilities": [
@@ -11037,7 +11037,7 @@
         "type": [
             "water"
         ],
-        "weight": 35.3
+        "weight": 77.8
     },
     "694": {
         "abilities": [
@@ -11054,7 +11054,7 @@
             "electric",
             "normal"
         ],
-        "weight": 6.0
+        "weight": 13.2
     },
     "695": {
         "abilities": [
@@ -11071,7 +11071,7 @@
             "electric",
             "normal"
         ],
-        "weight": 21.0
+        "weight": 46.3
     },
     "696": {
         "abilities": [
@@ -11087,7 +11087,7 @@
             "rock",
             "dragon"
         ],
-        "weight": 26.0
+        "weight": 57.3
     },
     "697": {
         "abilities": [
@@ -11103,7 +11103,7 @@
             "rock",
             "dragon"
         ],
-        "weight": 270.0
+        "weight": 595.2
     },
     "698": {
         "abilities": [
@@ -11119,7 +11119,7 @@
             "rock",
             "ice"
         ],
-        "weight": 25.2
+        "weight": 55.6
     },
     "699": {
         "abilities": [
@@ -11135,7 +11135,7 @@
             "rock",
             "ice"
         ],
-        "weight": 225.0
+        "weight": 496.0
     },
     "700": {
         "abilities": [
@@ -11150,7 +11150,7 @@
         "type": [
             "fairy"
         ],
-        "weight": 23.5
+        "weight": 51.8
     },
     "701": {
         "abilities": [
@@ -11167,7 +11167,7 @@
             "fighting",
             "flying"
         ],
-        "weight": 21.5
+        "weight": 47.4
     },
     "702": {
         "abilities": [
@@ -11184,7 +11184,7 @@
             "electric",
             "fairy"
         ],
-        "weight": 2.2
+        "weight": 4.9
     },
     "703": {
         "abilities": [
@@ -11200,7 +11200,7 @@
             "rock",
             "fairy"
         ],
-        "weight": 5.7
+        "weight": 12.6
     },
     "704": {
         "abilities": [
@@ -11216,7 +11216,7 @@
         "type": [
             "dragon"
         ],
-        "weight": 2.8
+        "weight": 6.2
     },
     "705": {
         "abilities": [
@@ -11232,7 +11232,7 @@
         "type": [
             "dragon"
         ],
-        "weight": 17.5
+        "weight": 38.6
     },
     "706": {
         "abilities": [
@@ -11248,7 +11248,7 @@
         "type": [
             "dragon"
         ],
-        "weight": 150.5
+        "weight": 331.8
     },
     "707": {
         "abilities": [
@@ -11264,7 +11264,7 @@
             "steel",
             "fairy"
         ],
-        "weight": 3.0
+        "weight": 6.6
     },
     "708": {
         "abilities": [
@@ -11281,7 +11281,7 @@
             "ghost",
             "grass"
         ],
-        "weight": 7.0
+        "weight": 15.4
     },
     "709": {
         "abilities": [
@@ -11298,7 +11298,7 @@
             "ghost",
             "grass"
         ],
-        "weight": 71.0
+        "weight": 156.5
     },
     "710": {
         "abilities": [
@@ -11315,7 +11315,7 @@
             "ghost",
             "grass"
         ],
-        "weight": 5.0
+        "weight": 11.0
     },
     "711": {
         "abilities": [
@@ -11332,7 +11332,7 @@
             "ghost",
             "grass"
         ],
-        "weight": 12.5
+        "weight": 27.6
     },
     "712": {
         "abilities": [
@@ -11348,7 +11348,7 @@
         "type": [
             "ice"
         ],
-        "weight": 99.5
+        "weight": 219.4
     },
     "713": {
         "abilities": [
@@ -11364,7 +11364,7 @@
         "type": [
             "ice"
         ],
-        "weight": 505.0
+        "weight": 1113.3
     },
     "714": {
         "abilities": [
@@ -11381,7 +11381,7 @@
             "flying",
             "dragon"
         ],
-        "weight": 8.0
+        "weight": 17.6
     },
     "715": {
         "abilities": [
@@ -11398,7 +11398,7 @@
             "flying",
             "dragon"
         ],
-        "weight": 85.0
+        "weight": 187.4
     },
     "716": {
         "abilities": [
@@ -11412,7 +11412,7 @@
         "type": [
             "fairy"
         ],
-        "weight": 215.0
+        "weight": 474.0
     },
     "717": {
         "abilities": [
@@ -11427,7 +11427,7 @@
             "dark",
             "flying"
         ],
-        "weight": 203.0
+        "weight": 447.5
     },
     "718": {
         "abilities": [
@@ -11443,7 +11443,7 @@
             "dragon",
             "ground"
         ],
-        "weight": 305.0
+        "weight": 672.4
     },
     "719": {
         "abilities": [
@@ -11458,7 +11458,7 @@
             "rock",
             "fairy"
         ],
-        "weight": 8.8
+        "weight": 19.4
     },
     "720": {
         "abilities": [
@@ -11473,7 +11473,7 @@
             "psychic",
             "ghost"
         ],
-        "weight": 9.0
+        "weight": 19.8
     },
     "721": {
         "abilities": [
@@ -11488,7 +11488,7 @@
             "fire",
             "water"
         ],
-        "weight": 195.0
+        "weight": 429.9
     },
     "722": {
         "abilities": [
@@ -11504,7 +11504,7 @@
             "grass",
             "flying"
         ],
-        "weight": 1.5
+        "weight": 3.3
     },
     "723": {
         "abilities": [
@@ -11520,7 +11520,7 @@
             "grass",
             "flying"
         ],
-        "weight": 16.0
+        "weight": 35.3
     },
     "724": {
         "abilities": [
@@ -11536,7 +11536,7 @@
             "grass",
             "ghost"
         ],
-        "weight": 36.6
+        "weight": 80.7
     },
     "725": {
         "abilities": [
@@ -11551,7 +11551,7 @@
         "type": [
             "fire"
         ],
-        "weight": 4.3
+        "weight": 9.5
     },
     "726": {
         "abilities": [
@@ -11566,7 +11566,7 @@
         "type": [
             "fire"
         ],
-        "weight": 25.0
+        "weight": 55.1
     },
     "727": {
         "abilities": [
@@ -11582,7 +11582,7 @@
             "fire",
             "dark"
         ],
-        "weight": 83.0
+        "weight": 183.0
     },
     "728": {
         "abilities": [
@@ -11597,7 +11597,7 @@
         "type": [
             "water"
         ],
-        "weight": 7.5
+        "weight": 16.5
     },
     "729": {
         "abilities": [
@@ -11612,7 +11612,7 @@
         "type": [
             "water"
         ],
-        "weight": 17.5
+        "weight": 38.6
     },
     "730": {
         "abilities": [
@@ -11628,7 +11628,7 @@
             "water",
             "fairy"
         ],
-        "weight": 44.0
+        "weight": 97.0
     },
     "731": {
         "abilities": [
@@ -11645,7 +11645,7 @@
             "normal",
             "flying"
         ],
-        "weight": 1.2
+        "weight": 2.6
     },
     "732": {
         "abilities": [
@@ -11662,7 +11662,7 @@
             "normal",
             "flying"
         ],
-        "weight": 14.8
+        "weight": 32.6
     },
     "733": {
         "abilities": [
@@ -11679,7 +11679,7 @@
             "normal",
             "flying"
         ],
-        "weight": 26.0
+        "weight": 57.3
     },
     "734": {
         "abilities": [
@@ -11695,7 +11695,7 @@
         "type": [
             "normal"
         ],
-        "weight": 6.0
+        "weight": 13.2
     },
     "735": {
         "abilities": [
@@ -11711,7 +11711,7 @@
         "type": [
             "normal"
         ],
-        "weight": 14.2
+        "weight": 31.3
     },
     "736": {
         "abilities": [
@@ -11725,7 +11725,7 @@
         "type": [
             "bug"
         ],
-        "weight": 4.4
+        "weight": 9.7
     },
     "737": {
         "abilities": [
@@ -11740,7 +11740,7 @@
             "bug",
             "electric"
         ],
-        "weight": 10.5
+        "weight": 23.1
     },
     "738": {
         "abilities": [
@@ -11755,7 +11755,7 @@
             "bug",
             "electric"
         ],
-        "weight": 45.0
+        "weight": 99.2
     },
     "739": {
         "abilities": [
@@ -11771,7 +11771,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 7.0
+        "weight": 15.4
     },
     "740": {
         "abilities": [
@@ -11788,7 +11788,7 @@
             "fighting",
             "ice"
         ],
-        "weight": 180.0
+        "weight": 396.8
     },
     "741": {
         "abilities": [
@@ -11803,7 +11803,7 @@
             "fire",
             "flying"
         ],
-        "weight": 3.4
+        "weight": 7.5
     },
     "742": {
         "abilities": [
@@ -11820,7 +11820,7 @@
             "bug",
             "fairy"
         ],
-        "weight": 0.2
+        "weight": 0.4
     },
     "743": {
         "abilities": [
@@ -11837,7 +11837,7 @@
             "bug",
             "fairy"
         ],
-        "weight": 0.5
+        "weight": 1.1
     },
     "744": {
         "abilities": [
@@ -11853,7 +11853,7 @@
         "type": [
             "rock"
         ],
-        "weight": 9.2
+        "weight": 20.3
     },
     "745": {
         "abilities": [
@@ -11869,7 +11869,7 @@
         "type": [
             "rock"
         ],
-        "weight": 25.0
+        "weight": 55.1
     },
     "746": {
         "abilities": [
@@ -11883,7 +11883,7 @@
         "type": [
             "water"
         ],
-        "weight": 0.3
+        "weight": 0.7
     },
     "747": {
         "abilities": [
@@ -11900,7 +11900,7 @@
             "poison",
             "water"
         ],
-        "weight": 8.0
+        "weight": 17.6
     },
     "748": {
         "abilities": [
@@ -11917,7 +11917,7 @@
             "poison",
             "water"
         ],
-        "weight": 14.5
+        "weight": 32.0
     },
     "749": {
         "abilities": [
@@ -11933,7 +11933,7 @@
         "type": [
             "ground"
         ],
-        "weight": 110.0
+        "weight": 242.5
     },
     "750": {
         "abilities": [
@@ -11949,7 +11949,7 @@
         "type": [
             "ground"
         ],
-        "weight": 920.0
+        "weight": 2028.3
     },
     "751": {
         "abilities": [
@@ -11965,7 +11965,7 @@
             "water",
             "bug"
         ],
-        "weight": 4.0
+        "weight": 8.8
     },
     "752": {
         "abilities": [
@@ -11981,7 +11981,7 @@
             "water",
             "bug"
         ],
-        "weight": 82.0
+        "weight": 180.8
     },
     "753": {
         "abilities": [
@@ -11996,7 +11996,7 @@
         "type": [
             "grass"
         ],
-        "weight": 1.5
+        "weight": 3.3
     },
     "754": {
         "abilities": [
@@ -12011,7 +12011,7 @@
         "type": [
             "grass"
         ],
-        "weight": 18.5
+        "weight": 40.8
     },
     "755": {
         "abilities": [
@@ -12028,7 +12028,7 @@
             "grass",
             "fairy"
         ],
-        "weight": 1.5
+        "weight": 3.3
     },
     "756": {
         "abilities": [
@@ -12045,7 +12045,7 @@
             "grass",
             "fairy"
         ],
-        "weight": 11.5
+        "weight": 25.4
     },
     "757": {
         "abilities": [
@@ -12061,7 +12061,7 @@
             "poison",
             "fire"
         ],
-        "weight": 4.8
+        "weight": 10.6
     },
     "758": {
         "abilities": [
@@ -12077,7 +12077,7 @@
             "poison",
             "fire"
         ],
-        "weight": 22.2
+        "weight": 48.9
     },
     "759": {
         "abilities": [
@@ -12094,7 +12094,7 @@
             "normal",
             "fighting"
         ],
-        "weight": 6.8
+        "weight": 15.0
     },
     "760": {
         "abilities": [
@@ -12111,7 +12111,7 @@
             "normal",
             "fighting"
         ],
-        "weight": 135.0
+        "weight": 297.6
     },
     "761": {
         "abilities": [
@@ -12127,7 +12127,7 @@
         "type": [
             "grass"
         ],
-        "weight": 3.2
+        "weight": 7.1
     },
     "762": {
         "abilities": [
@@ -12143,7 +12143,7 @@
         "type": [
             "grass"
         ],
-        "weight": 8.2
+        "weight": 18.1
     },
     "763": {
         "abilities": [
@@ -12159,7 +12159,7 @@
         "type": [
             "grass"
         ],
-        "weight": 21.4
+        "weight": 47.2
     },
     "764": {
         "abilities": [
@@ -12175,7 +12175,7 @@
         "type": [
             "fairy"
         ],
-        "weight": 0.3
+        "weight": 0.7
     },
     "765": {
         "abilities": [
@@ -12192,7 +12192,7 @@
             "normal",
             "psychic"
         ],
-        "weight": 76.0
+        "weight": 167.6
     },
     "766": {
         "abilities": [
@@ -12207,7 +12207,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 82.8
+        "weight": 182.5
     },
     "767": {
         "abilities": [
@@ -12222,7 +12222,7 @@
             "bug",
             "water"
         ],
-        "weight": 12.0
+        "weight": 26.5
     },
     "768": {
         "abilities": [
@@ -12237,7 +12237,7 @@
             "bug",
             "water"
         ],
-        "weight": 108.0
+        "weight": 238.1
     },
     "769": {
         "abilities": [
@@ -12253,7 +12253,7 @@
             "ghost",
             "ground"
         ],
-        "weight": 70.0
+        "weight": 154.3
     },
     "770": {
         "abilities": [
@@ -12269,7 +12269,7 @@
             "ghost",
             "ground"
         ],
-        "weight": 250.0
+        "weight": 551.2
     },
     "771": {
         "abilities": [
@@ -12284,7 +12284,7 @@
         "type": [
             "water"
         ],
-        "weight": 1.2
+        "weight": 2.6
     },
     "772": {
         "abilities": [
@@ -12298,7 +12298,7 @@
         "type": [
             "normal"
         ],
-        "weight": 120.5
+        "weight": 265.7
     },
     "773": {
         "abilities": [
@@ -12312,7 +12312,7 @@
         "type": [
             "normal"
         ],
-        "weight": 100.5
+        "weight": 221.6
     },
     "774": {
         "abilities": [
@@ -12327,7 +12327,7 @@
             "rock",
             "flying"
         ],
-        "weight": 40.0
+        "weight": 88.2
     },
     "775": {
         "abilities": [
@@ -12341,7 +12341,7 @@
         "type": [
             "normal"
         ],
-        "weight": 19.9
+        "weight": 43.9
     },
     "776": {
         "abilities": [
@@ -12356,7 +12356,7 @@
             "fire",
             "dragon"
         ],
-        "weight": 212.0
+        "weight": 467.4
     },
     "777": {
         "abilities": [
@@ -12373,7 +12373,7 @@
             "electric",
             "steel"
         ],
-        "weight": 3.3
+        "weight": 7.3
     },
     "778": {
         "abilities": [
@@ -12388,7 +12388,7 @@
             "ghost",
             "fairy"
         ],
-        "weight": 0.7
+        "weight": 1.5
     },
     "779": {
         "abilities": [
@@ -12405,7 +12405,7 @@
             "water",
             "psychic"
         ],
-        "weight": 19.0
+        "weight": 41.9
     },
     "780": {
         "abilities": [
@@ -12422,7 +12422,7 @@
             "normal",
             "dragon"
         ],
-        "weight": 185.0
+        "weight": 407.9
     },
     "781": {
         "abilities": [
@@ -12437,7 +12437,7 @@
             "ghost",
             "grass"
         ],
-        "weight": 210.0
+        "weight": 463.0
     },
     "782": {
         "abilities": [
@@ -12453,7 +12453,7 @@
         "type": [
             "dragon"
         ],
-        "weight": 29.7
+        "weight": 65.5
     },
     "783": {
         "abilities": [
@@ -12470,7 +12470,7 @@
             "dragon",
             "fighting"
         ],
-        "weight": 47.0
+        "weight": 103.6
     },
     "784": {
         "abilities": [
@@ -12487,7 +12487,7 @@
             "dragon",
             "fighting"
         ],
-        "weight": 78.2
+        "weight": 172.4
     },
     "785": {
         "abilities": [
@@ -12503,7 +12503,7 @@
             "electric",
             "fairy"
         ],
-        "weight": 20.5
+        "weight": 45.2
     },
     "786": {
         "abilities": [
@@ -12519,7 +12519,7 @@
             "psychic",
             "fairy"
         ],
-        "weight": 18.6
+        "weight": 41.0
     },
     "787": {
         "abilities": [
@@ -12535,7 +12535,7 @@
             "grass",
             "fairy"
         ],
-        "weight": 45.5
+        "weight": 100.3
     },
     "788": {
         "abilities": [
@@ -12551,7 +12551,7 @@
             "water",
             "fairy"
         ],
-        "weight": 21.2
+        "weight": 46.7
     },
     "789": {
         "abilities": [
@@ -12565,7 +12565,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 0.1
+        "weight": 0.2
     },
     "790": {
         "abilities": [
@@ -12579,7 +12579,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 999.9
+        "weight": 2204.4
     },
     "791": {
         "abilities": [
@@ -12594,7 +12594,7 @@
             "psychic",
             "steel"
         ],
-        "weight": 230.0
+        "weight": 507.1
     },
     "792": {
         "abilities": [
@@ -12609,7 +12609,7 @@
             "psychic",
             "ghost"
         ],
-        "weight": 120.0
+        "weight": 264.6
     },
     "793": {
         "abilities": [
@@ -12624,7 +12624,7 @@
             "rock",
             "poison"
         ],
-        "weight": 55.5
+        "weight": 122.4
     },
     "794": {
         "abilities": [
@@ -12639,7 +12639,7 @@
             "bug",
             "fighting"
         ],
-        "weight": 333.6
+        "weight": 735.5
     },
     "795": {
         "abilities": [
@@ -12654,7 +12654,7 @@
             "bug",
             "fighting"
         ],
-        "weight": 25.0
+        "weight": 55.1
     },
     "796": {
         "abilities": [
@@ -12668,7 +12668,7 @@
         "type": [
             "electric"
         ],
-        "weight": 100.0
+        "weight": 220.5
     },
     "797": {
         "abilities": [
@@ -12683,7 +12683,7 @@
             "steel",
             "flying"
         ],
-        "weight": 999.9
+        "weight": 2204.4
     },
     "798": {
         "abilities": [
@@ -12698,7 +12698,7 @@
             "grass",
             "steel"
         ],
-        "weight": 0.1
+        "weight": 0.2
     },
     "799": {
         "abilities": [
@@ -12713,7 +12713,7 @@
             "dark",
             "dragon"
         ],
-        "weight": 888.0
+        "weight": 1957.7
     },
     "800": {
         "abilities": [
@@ -12727,7 +12727,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 230.0
+        "weight": 507.1
     },
     "801": {
         "abilities": [
@@ -12742,7 +12742,7 @@
             "steel",
             "fairy"
         ],
-        "weight": 80.5
+        "weight": 177.5
     },
     "802": {
         "abilities": [
@@ -12757,7 +12757,7 @@
             "fighting",
             "ghost"
         ],
-        "weight": 22.2
+        "weight": 48.9
     },
     "803": {
         "abilities": [
@@ -12771,7 +12771,7 @@
         "type": [
             "poison"
         ],
-        "weight": 1.8
+        "weight": 4.0
     },
     "804": {
         "abilities": [
@@ -12786,7 +12786,7 @@
             "poison",
             "dragon"
         ],
-        "weight": 150.0
+        "weight": 330.7
     },
     "805": {
         "abilities": [
@@ -12801,7 +12801,7 @@
             "rock",
             "steel"
         ],
-        "weight": 820.0
+        "weight": 1807.8
     },
     "806": {
         "abilities": [
@@ -12816,7 +12816,7 @@
             "fire",
             "ghost"
         ],
-        "weight": 13.0
+        "weight": 28.7
     },
     "807": {
         "abilities": [
@@ -12830,7 +12830,7 @@
         "type": [
             "electric"
         ],
-        "weight": 44.5
+        "weight": 98.1
     },
     "808": {
         "abilities": [
@@ -12844,7 +12844,7 @@
         "type": [
             "steel"
         ],
-        "weight": 8.0
+        "weight": 17.6
     },
     "809": {
         "abilities": [
@@ -12858,7 +12858,7 @@
         "type": [
             "steel"
         ],
-        "weight": 800.0
+        "weight": 1763.7
     },
     "810": {
         "abilities": [
@@ -12873,7 +12873,7 @@
         "type": [
             "grass"
         ],
-        "weight": 5.0
+        "weight": 11.0
     },
     "811": {
         "abilities": [
@@ -12888,7 +12888,7 @@
         "type": [
             "grass"
         ],
-        "weight": 14.0
+        "weight": 30.9
     },
     "812": {
         "abilities": [
@@ -12903,7 +12903,7 @@
         "type": [
             "grass"
         ],
-        "weight": 90.0
+        "weight": 198.4
     },
     "813": {
         "abilities": [
@@ -12918,7 +12918,7 @@
         "type": [
             "fire"
         ],
-        "weight": 4.5
+        "weight": 9.9
     },
     "814": {
         "abilities": [
@@ -12933,7 +12933,7 @@
         "type": [
             "fire"
         ],
-        "weight": 9.0
+        "weight": 19.8
     },
     "815": {
         "abilities": [
@@ -12948,7 +12948,7 @@
         "type": [
             "fire"
         ],
-        "weight": 33.0
+        "weight": 72.8
     },
     "816": {
         "abilities": [
@@ -12963,7 +12963,7 @@
         "type": [
             "water"
         ],
-        "weight": 4.0
+        "weight": 8.8
     },
     "817": {
         "abilities": [
@@ -12978,7 +12978,7 @@
         "type": [
             "water"
         ],
-        "weight": 11.5
+        "weight": 25.4
     },
     "818": {
         "abilities": [
@@ -12993,7 +12993,7 @@
         "type": [
             "water"
         ],
-        "weight": 45.2
+        "weight": 99.6
     },
     "819": {
         "abilities": [
@@ -13008,7 +13008,7 @@
         "type": [
             "normal"
         ],
-        "weight": 2.5
+        "weight": 5.5
     },
     "820": {
         "abilities": [
@@ -13023,7 +13023,7 @@
         "type": [
             "normal"
         ],
-        "weight": 6.0
+        "weight": 13.2
     },
     "821": {
         "abilities": [
@@ -13039,7 +13039,7 @@
         "type": [
             "flying"
         ],
-        "weight": 1.8
+        "weight": 4.0
     },
     "822": {
         "abilities": [
@@ -13055,7 +13055,7 @@
         "type": [
             "flying"
         ],
-        "weight": 16.0
+        "weight": 35.3
     },
     "823": {
         "abilities": [
@@ -13072,7 +13072,7 @@
             "flying",
             "steel"
         ],
-        "weight": 75.0
+        "weight": 165.3
     },
     "824": {
         "abilities": [
@@ -13088,7 +13088,7 @@
         "type": [
             "bug"
         ],
-        "weight": 8.0
+        "weight": 17.6
     },
     "825": {
         "abilities": [
@@ -13105,7 +13105,7 @@
             "bug",
             "psychic"
         ],
-        "weight": 19.5
+        "weight": 43.0
     },
     "826": {
         "abilities": [
@@ -13122,7 +13122,7 @@
             "bug",
             "psychic"
         ],
-        "weight": 40.8
+        "weight": 89.9
     },
     "827": {
         "abilities": [
@@ -13138,7 +13138,7 @@
         "type": [
             "dark"
         ],
-        "weight": 8.9
+        "weight": 19.6
     },
     "828": {
         "abilities": [
@@ -13154,7 +13154,7 @@
         "type": [
             "dark"
         ],
-        "weight": 19.9
+        "weight": 43.9
     },
     "829": {
         "abilities": [
@@ -13170,7 +13170,7 @@
         "type": [
             "grass"
         ],
-        "weight": 2.2
+        "weight": 4.9
     },
     "830": {
         "abilities": [
@@ -13186,7 +13186,7 @@
         "type": [
             "grass"
         ],
-        "weight": 2.5
+        "weight": 5.5
     },
     "831": {
         "abilities": [
@@ -13202,7 +13202,7 @@
         "type": [
             "normal"
         ],
-        "weight": 6.0
+        "weight": 13.2
     },
     "832": {
         "abilities": [
@@ -13218,7 +13218,7 @@
         "type": [
             "normal"
         ],
-        "weight": 43.0
+        "weight": 94.8
     },
     "833": {
         "abilities": [
@@ -13234,7 +13234,7 @@
         "type": [
             "water"
         ],
-        "weight": 8.5
+        "weight": 18.7
     },
     "834": {
         "abilities": [
@@ -13251,7 +13251,7 @@
             "water",
             "rock"
         ],
-        "weight": 115.5
+        "weight": 254.6
     },
     "835": {
         "abilities": [
@@ -13266,7 +13266,7 @@
         "type": [
             "electric"
         ],
-        "weight": 13.5
+        "weight": 29.8
     },
     "836": {
         "abilities": [
@@ -13281,7 +13281,7 @@
         "type": [
             "electric"
         ],
-        "weight": 34.0
+        "weight": 75.0
     },
     "837": {
         "abilities": [
@@ -13297,7 +13297,7 @@
         "type": [
             "rock"
         ],
-        "weight": 12.0
+        "weight": 26.5
     },
     "838": {
         "abilities": [
@@ -13314,7 +13314,7 @@
             "rock",
             "fire"
         ],
-        "weight": 78.0
+        "weight": 172.0
     },
     "839": {
         "abilities": [
@@ -13331,7 +13331,7 @@
             "rock",
             "fire"
         ],
-        "weight": 310.5
+        "weight": 684.5
     },
     "840": {
         "abilities": [
@@ -13348,7 +13348,7 @@
             "grass",
             "dragon"
         ],
-        "weight": 0.5
+        "weight": 1.1
     },
     "841": {
         "abilities": [
@@ -13365,7 +13365,7 @@
             "grass",
             "dragon"
         ],
-        "weight": 1.0
+        "weight": 2.2
     },
     "842": {
         "abilities": [
@@ -13382,7 +13382,7 @@
             "grass",
             "dragon"
         ],
-        "weight": 13.0
+        "weight": 28.7
     },
     "843": {
         "abilities": [
@@ -13398,7 +13398,7 @@
         "type": [
             "ground"
         ],
-        "weight": 7.6
+        "weight": 16.8
     },
     "844": {
         "abilities": [
@@ -13414,7 +13414,7 @@
         "type": [
             "ground"
         ],
-        "weight": 65.5
+        "weight": 144.4
     },
     "845": {
         "abilities": [
@@ -13429,7 +13429,7 @@
             "flying",
             "water"
         ],
-        "weight": 18.0
+        "weight": 39.7
     },
     "846": {
         "abilities": [
@@ -13444,7 +13444,7 @@
         "type": [
             "water"
         ],
-        "weight": 1.0
+        "weight": 2.2
     },
     "847": {
         "abilities": [
@@ -13459,7 +13459,7 @@
         "type": [
             "water"
         ],
-        "weight": 30.0
+        "weight": 66.1
     },
     "848": {
         "abilities": [
@@ -13476,7 +13476,7 @@
             "electric",
             "poison"
         ],
-        "weight": 11.0
+        "weight": 24.3
     },
     "849": {
         "abilities": [
@@ -13493,7 +13493,7 @@
             "electric",
             "poison"
         ],
-        "weight": 40.0
+        "weight": 88.2
     },
     "850": {
         "abilities": [
@@ -13510,7 +13510,7 @@
             "fire",
             "bug"
         ],
-        "weight": 1.0
+        "weight": 2.2
     },
     "851": {
         "abilities": [
@@ -13527,7 +13527,7 @@
             "fire",
             "bug"
         ],
-        "weight": 120.0
+        "weight": 264.6
     },
     "852": {
         "abilities": [
@@ -13542,7 +13542,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 4.0
+        "weight": 8.8
     },
     "853": {
         "abilities": [
@@ -13557,7 +13557,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 39.0
+        "weight": 86.0
     },
     "854": {
         "abilities": [
@@ -13572,7 +13572,7 @@
         "type": [
             "ghost"
         ],
-        "weight": 0.2
+        "weight": 0.4
     },
     "855": {
         "abilities": [
@@ -13587,7 +13587,7 @@
         "type": [
             "ghost"
         ],
-        "weight": 0.4
+        "weight": 0.9
     },
     "856": {
         "abilities": [
@@ -13603,7 +13603,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 3.4
+        "weight": 7.5
     },
     "857": {
         "abilities": [
@@ -13619,7 +13619,7 @@
         "type": [
             "psychic"
         ],
-        "weight": 4.8
+        "weight": 10.6
     },
     "858": {
         "abilities": [
@@ -13636,7 +13636,7 @@
             "psychic",
             "fairy"
         ],
-        "weight": 5.0
+        "weight": 11.0
     },
     "859": {
         "abilities": [
@@ -13653,7 +13653,7 @@
             "dark",
             "fairy"
         ],
-        "weight": 5.5
+        "weight": 12.1
     },
     "860": {
         "abilities": [
@@ -13670,7 +13670,7 @@
             "dark",
             "fairy"
         ],
-        "weight": 12.5
+        "weight": 27.6
     },
     "861": {
         "abilities": [
@@ -13687,7 +13687,7 @@
             "dark",
             "fairy"
         ],
-        "weight": 61.0
+        "weight": 134.5
     },
     "862": {
         "abilities": [
@@ -13704,7 +13704,7 @@
             "dark",
             "normal"
         ],
-        "weight": 46.0
+        "weight": 101.4
     },
     "863": {
         "abilities": [
@@ -13720,7 +13720,7 @@
         "type": [
             "steel"
         ],
-        "weight": 28.0
+        "weight": 61.7
     },
     "864": {
         "abilities": [
@@ -13735,7 +13735,7 @@
         "type": [
             "ghost"
         ],
-        "weight": 0.4
+        "weight": 0.9
     },
     "865": {
         "abilities": [
@@ -13750,7 +13750,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 117.0
+        "weight": 257.9
     },
     "866": {
         "abilities": [
@@ -13767,7 +13767,7 @@
             "psychic",
             "ice"
         ],
-        "weight": 58.2
+        "weight": 128.3
     },
     "867": {
         "abilities": [
@@ -13782,7 +13782,7 @@
             "ground",
             "ghost"
         ],
-        "weight": 66.6
+        "weight": 146.8
     },
     "868": {
         "abilities": [
@@ -13797,7 +13797,7 @@
         "type": [
             "fairy"
         ],
-        "weight": 0.3
+        "weight": 0.7
     },
     "869": {
         "abilities": [
@@ -13812,7 +13812,7 @@
         "type": [
             "fairy"
         ],
-        "weight": 0.5
+        "weight": 1.1
     },
     "870": {
         "abilities": [
@@ -13827,7 +13827,7 @@
         "type": [
             "fighting"
         ],
-        "weight": 62.0
+        "weight": 136.7
     },
     "871": {
         "abilities": [
@@ -13842,7 +13842,7 @@
         "type": [
             "electric"
         ],
-        "weight": 1.0
+        "weight": 2.2
     },
     "872": {
         "abilities": [
@@ -13858,7 +13858,7 @@
             "ice",
             "bug"
         ],
-        "weight": 3.8
+        "weight": 8.4
     },
     "873": {
         "abilities": [
@@ -13874,7 +13874,7 @@
             "ice",
             "bug"
         ],
-        "weight": 42.0
+        "weight": 92.6
     },
     "874": {
         "abilities": [
@@ -13888,7 +13888,7 @@
         "type": [
             "rock"
         ],
-        "weight": 520.0
+        "weight": 1146.4
     },
     "875": {
         "abilities": [
@@ -13902,7 +13902,7 @@
         "type": [
             "ice"
         ],
-        "weight": 89.0
+        "weight": 196.2
     },
     "876": {
         "abilities": [
@@ -13919,7 +13919,7 @@
             "psychic",
             "normal"
         ],
-        "weight": 28.0
+        "weight": 61.7
     },
     "877": {
         "abilities": [
@@ -13934,7 +13934,7 @@
             "electric",
             "dark"
         ],
-        "weight": 3.0
+        "weight": 6.6
     },
     "878": {
         "abilities": [
@@ -13949,7 +13949,7 @@
         "type": [
             "steel"
         ],
-        "weight": 100.0
+        "weight": 220.5
     },
     "879": {
         "abilities": [
@@ -13964,7 +13964,7 @@
         "type": [
             "steel"
         ],
-        "weight": 650.0
+        "weight": 1433.0
     },
     "880": {
         "abilities": [
@@ -13981,7 +13981,7 @@
             "electric",
             "dragon"
         ],
-        "weight": 190.0
+        "weight": 418.9
     },
     "881": {
         "abilities": [
@@ -13998,7 +13998,7 @@
             "electric",
             "ice"
         ],
-        "weight": 150.0
+        "weight": 330.7
     },
     "882": {
         "abilities": [
@@ -14015,7 +14015,7 @@
             "water",
             "dragon"
         ],
-        "weight": 215.0
+        "weight": 474.0
     },
     "883": {
         "abilities": [
@@ -14032,7 +14032,7 @@
             "water",
             "ice"
         ],
-        "weight": 175.0
+        "weight": 385.8
     },
     "884": {
         "abilities": [
@@ -14049,7 +14049,7 @@
             "steel",
             "dragon"
         ],
-        "weight": 40.0
+        "weight": 88.2
     },
     "885": {
         "abilities": [
@@ -14066,7 +14066,7 @@
             "dragon",
             "ghost"
         ],
-        "weight": 2.0
+        "weight": 4.4
     },
     "886": {
         "abilities": [
@@ -14083,7 +14083,7 @@
             "dragon",
             "ghost"
         ],
-        "weight": 11.0
+        "weight": 24.3
     },
     "887": {
         "abilities": [
@@ -14100,7 +14100,7 @@
             "dragon",
             "ghost"
         ],
-        "weight": 50.0
+        "weight": 110.2
     },
     "888": {
         "abilities": [
@@ -14115,7 +14115,7 @@
             "fairy",
             "steel"
         ],
-        "weight": 355.0
+        "weight": 782.6
     },
     "889": {
         "abilities": [
@@ -14130,7 +14130,7 @@
             "fighting",
             "steel"
         ],
-        "weight": 785.0
+        "weight": 1730.6
     },
     "890": {
         "abilities": [
@@ -14145,6 +14145,6 @@
             "poison",
             "dragon"
         ],
-        "weight": 950.0
+        "weight": 2094.4
     }
 }

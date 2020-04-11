@@ -60,7 +60,7 @@ def convert_image_to_ascii(image, new_width):
             range(0, len_pixels_to_chars, new_width*2)]
     return "\n".join(image_ascii)
 
-def handle_image_conversion(image_filepath,new_width):
+def handle_image_conversion(image_filepath,new_width=100):
     image = None
     try:
         image = Image.open(image_filepath)
@@ -69,6 +69,7 @@ def handle_image_conversion(image_filepath,new_width):
         print(e)
         return
     image_ascii = convert_image_to_ascii(image,new_width)
+    print(image_ascii)
     return image_ascii
 
 
