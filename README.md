@@ -6,8 +6,8 @@ Watch the pokemon ascii being born!
 
 This is a module for generating ascii art for any of the 890 pokemon, across 8 generations, in the Pokedex. The package includes functions for generating "gravatars" (pokemon associated with an identifier like an email address), and functions for searching and exploring the database. The library includes a [version of the database](pokemon/database/db.json) generated with [pokemon/make_db.py](pokemon/make_db.py) that can be updated by re-running the script. The choice of ascii art is to produce pokemon images or avatars that are suited for command line tools.
 
-```
-pokemon
+```bash
+$ pokemon
 usage: pokemon [-h] [--avatar AVATAR] [--pokemon POKEMON] [--message MESSAGE]
                [--catch] [--list]
 
@@ -26,16 +26,16 @@ optional arguments:
 
 You can install directly from pip:
 
-```
-      pip install pokemon
+```bash
+$ pip install pokemon
 ```
 
 or for the development version, clone the repo and install manually:
 
-```
-      git clone https://github.com/vsoch/pokemon
-      cd pokemon-ascii
-      python setup.py install
+```bash
+git clone https://github.com/vsoch/pokemon
+cd pokemon
+python setup.py install
 ```
 
 ## Produce an avatar
@@ -46,8 +46,12 @@ An "avatar" is an image that is consistently associated with some unique ID. In 
 
 To do this, I take the hash of a string, and then use modulus to get the remainder of that hash divided by the number of pokemon in the database. This means that, given that the database doesn't change, and given that the pokemon have unique IDs in the range of 1 to 721, you should always get the same image for some unique id (like an email).
 
-```
-pokemon --avatar vsoch
+**Note** the database was updated between version 0.35 and version 0.36, so you will
+get different avatars depending on the version you are using. There are Docker tags
+and pip installs available for each, and version 0.36 is suggested to use with Python 3.
+
+```bash
+$ pokemon --avatar vsoch
 
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@?:::::::::::::::+.+.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -90,21 +94,21 @@ vsoch
 
 You can also use the functions on command line:
 
-```
-      from pokemon.skills import get_avatar
+```python
+from pokemon.skills import get_avatar
  
-      # Just get the string!
-      avatar = get_avatar("vsoch", print_screen=False)
-      print(avatar)
+# Just get the string!
+avatar = get_avatar("vsoch", print_screen=False)
+print(avatar)
 
-      # Remove the name at the bottom, print to screen (default)
-      avatar = get_avatar("vsoch", include_name=False)
+# Remove the name at the bottom, print to screen (default)
+avatar = get_avatar("vsoch", include_name=False)
 ```
 
 ## List Pokemon
 Want a complete listing of your Pokemon choices in the database?
 
-```
+```bash
 pokemon --list
 
 Slugma
@@ -144,7 +148,7 @@ Chingling
 
 You could use this to parse through a function. Here we show a simple loop to print the name of the Pokemon, but you would be more creative!
 
-```
+```bash
 for gotcha in $(pokemon --list)
     do
     echo $gotcha
@@ -155,7 +159,7 @@ done
 
 You might want to just randomly get a pokemon! Do this with the `--catch` command line argument!
 
-```
+```bash
       pokemon --catch
 
       @%,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -196,8 +200,9 @@ You might want to just randomly get a pokemon! Do this with the `--catch` comman
       Pichu
 ```
 You can equivalently use the `--message` argument to add a custom message to your catch!
-```
-      pokemon --catch --message You got me!
+
+```bash
+      pokemon --catch --message "You got me!"
 
       @@@@@@@@@*.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
       @@@@@@@@...+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -227,13 +232,14 @@ You can equivalently use the `--message` argument to add a custom message to you
 
       You got me!
 ```
+
 You can also catch pokemon in your python applications. If you are going to be generating many, it is recommended to load the database once and provide it to the function, otherwise it will be loaded each time.
 
-```
-      from pokemon.master import catch_em_all, get_pokemon
+```bash
+from pokemon.master import catch_em_all, get_pokemon
 
-      pokemons = catch_em_all()
-      catch = get_pokemon(pokemons=pokemons)
+pokemons = catch_em_all()
+catch = get_pokemon(pokemons=pokemons)
 ```
 
 The catch is a dictionary, with keys as the pokemon ID, and the value being another dictionary with various meta data (height, weight, japanese, link, ascii, etc).
@@ -257,11 +263,14 @@ python setup.py install
 ```
 
 ## Docker
-You can also use the [Docker image](https://hub.docker.com/r/vanessa/pokemon/), which provides the various functions and [Scientific Filesystem](https://sci-f.github.io) apps.
+You can also use the [Docker image](https://hub.docker.com/r/vanessa/pokemon/), 
+which provides the various functions and [Scientific Filesystem](https://sci-f.github.io) apps.
+The 0.35 tag was developed with Python 2, and the 0.35 tag is Python 3 and later
+(with an updated database).
 
 What can I do?
 
-```
+```bash
 docker run vanessa/pokemon apps
       list
      catch
@@ -270,39 +279,46 @@ docker run vanessa/pokemon apps
 
 Give me my avatar!
 
-```
+```bash
 docker run vanessa/pokemon run avatar vsoch
 ```
 
 Catch a random Pokemon
 
-```
+```bash
 docker run vanessa/pokemon run catch
 ```
 
 What Pokemon can I catch?
 
-```
+```bash
 docker run vanessa/pokemon run list
 ```
 
 Catch me Venusaur!
 
-```
+```bash
 docker run vanessa/pokemon run catch Venusaur
 ```
 
+You can also build the image locally:
+
+```bash
+docker build -t vanessa/pokemon .
+```
+
 ## Singularity
+
 We can do the same with Singularity containers!
 
 
-```
+```bash
 sudo singularity build pokemons Singularity
 ```
 
 What can I do?
 
-```
+```bash
 ./pokemons apps
     avatar
      catch
@@ -311,19 +327,19 @@ What can I do?
 
 Give me my avatar!
 
-```
+```bash
 ./pokemons run avatar vsoch
 ```
 
 Catch a random Pokemon
 
-```
+```bash
 ./pokemons run catch
 ```
 
 What Pokemons can I catch?
 
-```
+```bash
 ./pokemons list
 ...
 Phantump
@@ -344,7 +360,7 @@ Volcanion
 
 Catch a specific Pokemon
 
-```
+```bash
 ./pokemons run catch Pikachu
 [catch] executing /bin/bash /scif/apps/catch/scif/runscript Pikachu
 @@@@@@@@@@@@@.@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -379,4 +395,8 @@ Catch a specific Pokemon
 
 
 ## Issues and updates
-Would you like different or updated functionality? Please ping me by adding an [issue](https://github.com/vsoch/pokemon)! I did this for fun, might sneak it into a few command line applications, and it's pretty simple so far! I hope you have fun with it! :D
+
+Would you like different or updated functionality? 
+Please ping me by adding an [issue](https://github.com/vsoch/pokemon/issues)! 
+I did this for fun, might sneak it into a few command line applications, 
+and it's pretty simple so far! I hope you have fun with it! :D

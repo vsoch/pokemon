@@ -1,10 +1,8 @@
 #!/usr/bin/env python
 
-'''
+"""
 
-script.py: part of pokemon-ascii package
-
-Copyright (c) 2016-2018 Vanessa Sochat
+Copyright (c) 2016-2020 Vanessa Sochat
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -24,7 +22,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-'''
+"""
 
 from pokemon.skills import get_ascii, get_avatar
 from pokemon.master import get_pokemon, catch_em_all
@@ -33,14 +31,46 @@ import argparse
 import sys
 import os
 
+
 def main():
     parser = argparse.ArgumentParser(
-    description="generate pokemon ascii art and avatars")
-    parser.add_argument("--avatar", dest='avatar', help="generate a pokemon avatar.", type=str, default=None)
-    parser.add_argument("--pokemon", dest='pokemon', help="generate ascii for a particular pokemon (by name)", type=str, default=None)
-    parser.add_argument("--message", dest='message', help="add a custom message to your ascii!", type=str, default=None)
-    parser.add_argument('--catch', help="catch a random pokemon!", dest='catch', default=False, action='store_true')
-    parser.add_argument('--list', help="list pokemon available", dest='list', default=False, action='store_true')
+        description="generate pokemon ascii art and avatars"
+    )
+    parser.add_argument(
+        "--avatar",
+        dest="avatar",
+        help="generate a pokemon avatar.",
+        type=str,
+        default=None,
+    )
+    parser.add_argument(
+        "--pokemon",
+        dest="pokemon",
+        help="generate ascii for a particular pokemon (by name)",
+        type=str,
+        default=None,
+    )
+    parser.add_argument(
+        "--message",
+        dest="message",
+        help="add a custom message to your ascii!",
+        type=str,
+        default=None,
+    )
+    parser.add_argument(
+        "--catch",
+        help="catch a random pokemon!",
+        dest="catch",
+        default=False,
+        action="store_true",
+    )
+    parser.add_argument(
+        "--list",
+        help="list pokemon available",
+        dest="list",
+        default=False,
+        action="store_true",
+    )
     try:
         args = parser.parse_args()
     except:
@@ -56,7 +86,7 @@ def main():
 
     # If the user wants to create an avatar
     elif args.avatar != None:
-        get_avatar(args.avatar)    
+        get_avatar(args.avatar)
 
     elif args.catch == True:
         catch = get_pokemon()
@@ -65,5 +95,6 @@ def main():
     else:
         parser.print_help()
 
-if __name__ == '__main__':
+
+if __name__ == "__main__":
     main()

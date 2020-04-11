@@ -21,15 +21,8 @@ setup(
 
     # Details
     url="http://www.github.com/vsoch/pokemon",
-
     license="LICENSE",
     description="ascii database of pokemon... in python!",
-    keywords='pokemon, avatar, ascii, gravatar',
-
-    entry_points = {
-        'console_scripts': [
-            'pokemon=pokemon.scripts:main',
-        ],
-    },
-
+    keywords="pokemon, avatar, ascii, gravatar",
+    entry_points={"console_scripts": ["pokemon=pokemon.scripts:main",],},
 )
