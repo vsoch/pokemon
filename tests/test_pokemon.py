@@ -31,9 +31,9 @@ def test_get_avatar(tmp_path):
     from pokemon.skills import get_avatar
 
     avatar = get_avatar("vsoch", print_screen=False)
-    assert(avatar.endswith("vsoch"))
+    assert avatar.endswith("vsoch")
     avatar = get_avatar("vsoch", include_name=False)
-    assert(not avatar.endswith("vsoch"))
+    assert not avatar.endswith("vsoch")
 
 
 def test_get_pokemon(tmp_path):
