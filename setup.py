@@ -1,6 +1,9 @@
 from setuptools import setup, find_packages
 import os
 
+with open('README.md') as filey:
+    LONG_DESCRIPTION = filey.read()
+
 setup(
     # Application name:
     name="pokemon",
@@ -14,6 +17,9 @@ setup(
 
     # Packages
     packages=find_packages(),
+
+    long_description=LONG_DESCRIPTION,
+    long_description_content_type="text/markdown",
 
     # Data files
     include_package_data=True,

@@ -1,7 +1,5 @@
 # pokemon
 
-![](https://github.com/vsoch/pokemon/workflows/.github/workflows/main.yml/badge.svg)
-
 Watch the pokemon ascii being born!
 
 ![img/generation.gif](img/generation.gif)
