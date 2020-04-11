@@ -6,7 +6,7 @@ setup(
     name="pokemon",
 
     # Version number:
-    version="0.34",
+    version="0.35",
 
     # Application author details:
     author="Vanessa Sochat",
