@@ -46,9 +46,9 @@ An "avatar" is an image that is consistently associated with some unique ID. In 
 
 To do this, I take the hash of a string, and then use modulus to get the remainder of that hash divided by the number of pokemon in the database. This means that, given that the database doesn't change, and given that the pokemon have unique IDs in the range of 1 to 721, you should always get the same image for some unique id (like an email).
 
-**Note** the database was updated between version 0.35 and version 0.36, so you will
+**Note** the database was updated between version 0.34 and version 0.35, so you will
 get different avatars depending on the version you are using. There are Docker tags
-and pip installs available for each, and version 0.36 is suggested to use with Python 3.
+and pip installs available for each, and version 0.35 is suggested to use with Python 3.
 
 ```bash
 $ pokemon --avatar vsoch
