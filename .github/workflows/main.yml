@@ -1,0 +1,36 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches_ignore: []
+
+jobs:
+  formatting:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup black environment
+        run: conda create --quiet --name black black
+      - name: Check formatting
+        run: |
+          export PATH="/usr/share/miniconda/bin:$PATH"
+          source activate black
+          black --check pokemon tests/*.py
+
+  testing:
+    runs-on: ubuntu-latest
+    needs: formatting
+    steps:
+      - uses: actions/checkout@v2      
+      - name: Setup Snakemake environment
+        run: conda create --quiet --name pokemon 
+
+      - name: Run tests
+        run: |
+          export PATH="/usr/share/miniconda/bin:$PATH"
+          source activate pokemon
+          pip install -e .         
+          pytest -v -x tests/*.py
