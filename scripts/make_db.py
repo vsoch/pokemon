@@ -6,7 +6,7 @@ import urllib
 import os
 import re
 import pickle
-import time
+
 '''
 Copyright (c) 2016-2018 Vanessa Sochat
 Permission is hereby granted, free of charge, to any person obtaining a copy
