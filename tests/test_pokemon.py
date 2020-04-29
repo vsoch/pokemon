@@ -91,23 +91,28 @@ def test_lookup_pokemon_and_formes(tmp_path):
     rotom = lookup_pokemon(field="name", value="Rotom")
     assert rotom["566"]["type"][0] == "electric"
     assert rotom["566"]["type"][1] == "ghost"
-    
+
+    # heat rotom is fire instead of ghost
     heat_rotom = lookup_pokemon(field="name", value="Rotom (Heat Rotom)")
     assert heat_rotom["567"]["type"][0] == "electric"
     assert heat_rotom["567"]["type"][1] == "fire"
 
+    # wash rotom is water instead of ghost
     wash_rotom = lookup_pokemon(field="name", value="Rotom (Wash Rotom)")
     assert wash_rotom["568"]["type"][0] == "electric"
     assert wash_rotom["568"]["type"][1] == "water"
 
+    # frost rotom is ice instead of ghost
     frost_rotom = lookup_pokemon(field="name", value="Rotom (Frost Rotom)")
     assert frost_rotom["569"]["type"][0] == "electric"
     assert frost_rotom["569"]["type"][1] == "ice"
 
+    # fan rotom is flying instead of ghost
     fan_rotom = lookup_pokemon(field="name", value="Rotom (Fan Rotom)")
     assert fan_rotom["570"]["type"][0] == "electric"
     assert fan_rotom["570"]["type"][1] == "flying"
 
+    # mow rotom is grass instead of ghost
     mow_rotom = lookup_pokemon(field="name", value="Rotom (Mow Rotom)")
     assert mow_rotom["571"]["type"][0] == "electric"
     assert mow_rotom["571"]["type"][1] == "grass"
