@@ -68,7 +68,7 @@ def test_get_pokemon(tmp_path):
     from pokemon.master import catch_em_all
 
     catch = catch_em_all()
-    assert len(catch) == 890
+    assert len(catch) == 1030
 
 
 def test_lookup_pokemon(tmp_path):
@@ -83,3 +83,29 @@ def test_get_trained(tmp_path):
 
     trainer = get_trainer("vsoch")
     assert trainer == 43492090
+
+def test_lookup_pokemon_and_formes(tmp_path):
+    from pokemon.master import lookup_pokemon
+    rotom = lookup_pokemon(field="name", value="Rotom")
+    assert rotom['566']['type'][0] == 'electric'
+    assert rotom['566']['type'][1] == 'ghost'
+
+    heat_rotom = lookup_pokemon(field="name", value="Rotom (Heat Rotom)")
+    assert heat_rotom['567']['type'][0] == 'electric'
+    assert heat_rotom['567']['type'][1] == 'fire'
+    
+    wash_rotom = lookup_pokemon(field="name", value="Rotom (Wash Rotom)")
+    assert wash_rotom['568']['type'][0] == 'electric'
+    assert wash_rotom['568']['type'][1] == 'water'
+
+    frost_rotom = lookup_pokemon(field="name", value="Rotom (Frost Rotom)")
+    assert frost_rotom['569']['type'][0] == 'electric'
+    assert frost_rotom['569']['type'][1] == 'ice'
+
+    fan_rotom = lookup_pokemon(field="name", value="Rotom (Fan Rotom)")
+    assert fan_rotom['570']['type'][0] == 'electric'
+    assert fan_rotom['570']['type'][1] == 'flying'
+
+    mow_rotom = lookup_pokemon(field="name", value="Rotom (Mow Rotom)")
+    assert mow_rotom['571']['type'][0] == 'electric'
+    assert mow_rotom['571']['type'][1] == 'grass'
