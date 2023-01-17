@@ -9,11 +9,11 @@ setup(
     name="pokemon",
 
     # Version number:
-    version="0.35",
+    version="0.36",
 
     # Application author details:
     author="Vanessa Sochat",
-    author_email="vsochat@stanford.edu",
+    author_email="vsoch@noreply.github.users.com",
 
     # Packages
     packages=find_packages(),
@@ -28,6 +28,7 @@ setup(
     # Details
     url="http://www.github.com/vsoch/pokemon",
     license="LICENSE",
+    install_requires=['Pillow'],
     description="ascii database of pokemon... in python!",
     keywords="pokemon, avatar, ascii, gravatar",
     entry_points={"console_scripts": ["pokemon=pokemon.scripts:main",],},

@@ -61,10 +61,9 @@ def get_pokemon(pid=None, name=None, pokemons=None):
 
 
 def get_trainer(name):
-    """return the unique id for a trainer, determined by the md5 sum
-    """
+    """return the unique id for a trainer, determined by the md5 sum"""
     name = name.lower()
-    return int(hashlib.md5(name.encode("utf-8")).hexdigest(), 16) % 10 ** 8
+    return int(hashlib.md5(name.encode("utf-8")).hexdigest(), 16) % 10**8
 
 
 def catch_em_all(data_file=None, return_names=False):

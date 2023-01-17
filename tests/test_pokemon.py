@@ -26,8 +26,7 @@ import pytest
 
 
 def test_get_avatar(tmp_path):
-    """test_write_read_files will test the functions write_file and read_file
-    """
+    """test_write_read_files will test the functions write_file and read_file"""
     from pokemon.skills import get_avatar
 
     avatar = get_avatar("vsoch", print_screen=False)
@@ -67,8 +66,9 @@ def test_get_pokemon(tmp_path):
 def test_get_pokemon(tmp_path):
     from pokemon.master import catch_em_all
 
+    # Updated at Gen9
     catch = catch_em_all()
-    assert len(catch) == 890
+    assert len(catch) == 1008
 
 
 def test_lookup_pokemon(tmp_path):
