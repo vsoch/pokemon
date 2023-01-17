@@ -24,14 +24,13 @@ SOFTWARE.
 
 from PIL import Image
 
-"""
-Credit goes to https://www.hackerearth.com/notes/beautiful-python-a-simple-ascii-art-generator-from-images/
-The one modification I added was to scale the new_width by 2, because text characters tend to be thinner than they
-are wide, and the current method produced images that were (generally) too tall!
+# Credit goes to https://www.hackerearth.com/notes/beautiful-python-a-simple-ascii-art-generator-from-images/
+# The one modification I added was to scale the new_width by 2, because text characters tend to be thinner than they
+# are wide, and the current method produced images that were (generally) too tall!
 
-This module is only needed to update the database (and not running pokemon)
-so PIL (Pillow) is not added as a dependency.
-"""
+# This module is only needed to update the database (and not running pokemon)
+# so PIL (Pillow) is not added as a dependency.
+
 ASCII_CHARS = ["#", "?", "%", ".", "S", "+", ".", "*", ":", ",", "@"]
 
 
