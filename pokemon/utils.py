@@ -28,7 +28,7 @@ import os
 
 def get_installdir():
     """get_installdir
-       returns installation directory of pokemon
+    returns installation directory of pokemon
     """
     return os.path.dirname(os.path.abspath(__file__))
 

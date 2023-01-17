@@ -32,8 +32,7 @@ ASCII_CHARS = ["#", "?", "%", ".", "S", "+", ".", "*", ":", ",", "@"]
 
 
 def scale_image(image, new_width):
-    """Resizes an image preserving the aspect ratio.
-    """
+    """Resizes an image preserving the aspect ratio."""
     (original_width, original_height) = image.size
     aspect_ratio = original_height / float(original_width)
     new_height = int(aspect_ratio * new_width)
