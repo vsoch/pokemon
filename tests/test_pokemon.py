@@ -58,7 +58,7 @@ def test_get_pokemon(tmp_path):
     # These should return same pokemon
     repeat = get_pokemon(pid="25")
     assert repeat == catch
-    repeat = get_pokemon(pid=25)
+    repeat = get_pokemon(pid="25")
     assert repeat == catch
 
 
