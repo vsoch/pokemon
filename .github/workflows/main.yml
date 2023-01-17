@@ -24,10 +24,9 @@ jobs:
 
   testing:
     runs-on: ubuntu-latest
-    needs: formatting
     steps:
-      - uses: actions/checkout@v2
-      - name: Setup Snakemake environment
+      - uses: actions/checkout@v3
+      - name: Setup Pokemon environment
         run: conda create --quiet --name pokemon pytest
 
       - name: Run tests
