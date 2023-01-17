@@ -1,6 +1,6 @@
 """
 
-Copyright (c) 2016-2020 Vanessa Sochat
+Copyright (c) 2016-2023 Vanessa Sochat
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,21 +22,25 @@ SOFTWARE.
 
 """
 
-from pokemon.utils import get_installdir, load_json
-from random import choice
 import hashlib
 import sys
+from random import choice
+
+from pokemon.utils import get_installdir, load_json
 
 base = get_installdir()
 
 
 def get_pokemon(pid=None, name=None, pokemons=None):
-    """get_pokemon will return a pokemon with a specific ID, or if none is given,
-    will select randomly. First the pid will be used, then the name, then any filters.
+    """
+    get_pokemon will return a pokemon with a specific ID.
+
+    If none is given, will select randomly. First the pid will be used,
+    then the name, then any filters.
     :param pid: the pokemon ID to return
     :param pokemons: the pokemons data structure
     """
-    if pokemons == None:
+    if pokemons is None:
         pokemons = catch_em_all()
 
     # First see if we want to find a pokemon by name
@@ -61,16 +65,21 @@ def get_pokemon(pid=None, name=None, pokemons=None):
 
 
 def get_trainer(name):
-    """return the unique id for a trainer, determined by the md5 sum"""
+    """
+    return the unique id for a trainer, determined by the md5 sum
+    """
     name = name.lower()
     return int(hashlib.md5(name.encode("utf-8")).hexdigest(), 16) % 10**8
 
 
 def catch_em_all(data_file=None, return_names=False):
-    """catch_em_all returns the entire database of pokemon, a base function for starting
+    """
+    catch_em_all returns the entire database of pokemon
+
+    a base function for starting
     :param data_file: location of pokemons.json data file (not required)
     """
-    if data_file == None:
+    if data_file is None:
         data_file = "%s/database/pokemons.json" % (base)
 
     pokemons = load_json(data_file)
@@ -84,12 +93,14 @@ def catch_em_all(data_file=None, return_names=False):
 
 
 def lookup_pokemon(field, value, pokemons=None):
-    """lookup_pokemon will search a particular field (name) for a value. If no pokemons
-    data structure is provided, all will be used.
+    """
+    lookup_pokemon will search a particular field (name) for a value.
+
+    If no pokemons data structure is provided, all will be used.
     :param field: the field to look up.
     :param pokemons: the pokemons data structure
     """
-    if pokemons == None:
+    if pokemons is None:
         pokemons = catch_em_all()
 
     catches = {}
@@ -97,11 +108,11 @@ def lookup_pokemon(field, value, pokemons=None):
         if isinstance(data[field], list):
             for entry in data[field]:
                 found = search_entry(entry, value)
-                if found == True:
+                if found is True:
                     catches[pid] = data
         else:
             found = search_entry(data[field], value)
-            if found == True:
+            if found is True:
                 catches[pid] = data
 
     if len(catches) > 0:
@@ -110,10 +121,10 @@ def lookup_pokemon(field, value, pokemons=None):
 
 
 def search_entry(field, value):
-    if isinstance(field, float) or isinstance(field, int):
-        if field == value:
+    if isinstance(field, (float, int)):
+        if field is value:
             return True
-    elif isinstance(field, str) or isinstance(field, unicode):
+    elif isinstance(field, str):
         if field.lower() == value.lower():
             return True
     return False

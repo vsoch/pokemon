@@ -11,20 +11,22 @@ jobs:
   formatting:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Setup black environment
         run: conda create --quiet --name black black
-      - name: Check formatting
+
+      - name: Lint and format Python code
         run: |
           export PATH="/usr/share/miniconda/bin:$PATH"
           source activate black
-          black --check pokemon tests/*.py
+          pip install -r .github/dev-requirements.txt
+          pre-commit run --all-files
 
   testing:
     runs-on: ubuntu-latest
     needs: formatting
     steps:
-      - uses: actions/checkout@v2      
+      - uses: actions/checkout@v2
       - name: Setup Snakemake environment
         run: conda create --quiet --name pokemon pytest
 
@@ -32,5 +34,5 @@ jobs:
         run: |
           export PATH="/usr/share/miniconda/bin:$PATH"
           source activate pokemon
-          pip install -e .         
+          pip install -e .
           pytest -v -x tests/*.py

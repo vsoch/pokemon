@@ -16,7 +16,7 @@ From: continuumio/miniconda3
 
 %files
     pokemon.scif
-    
+
 %post
     apt-get update
 
