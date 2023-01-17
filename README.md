@@ -2,7 +2,7 @@
 
 Watch the pokemon ascii being born!
 
-![img/generation.gif](img/generation.gif)
+![img/generation.gif](https://github.com/vsoch/pokemon/raw/master/img/generation.gif)
 
 This is a module for generating ascii art for any of the 890 pokemon, across 8 generations, in the Pokedex. The package includes functions for generating "gravatars" (pokemon associated with an identifier like an email address), and functions for searching and exploring the database. The library includes a [version of the database](pokemon/database/db.json) generated with [pokemon/make_db.py](pokemon/make_db.py) that can be updated by re-running the script. The choice of ascii art is to produce pokemon images or avatars that are suited for command line tools.
 
@@ -96,7 +96,7 @@ You can also use the functions on command line:
 
 ```python
 from pokemon.skills import get_avatar
- 
+
 # Just get the string!
 avatar = get_avatar("vsoch", print_screen=False)
 print(avatar)
@@ -271,7 +271,7 @@ python setup.py install
 ```
 
 ## Docker
-You can also use the [Docker image](https://hub.docker.com/r/vanessa/pokemon/), 
+You can also use the [Docker image](https://hub.docker.com/r/vanessa/pokemon/),
 which provides the various functions and [Scientific Filesystem](https://sci-f.github.io) apps.
 The 0.35 tag was developed with Python 2, and the 0.35 tag is Python 3 and later
 (with an updated database).
@@ -404,7 +404,7 @@ Catch a specific Pokemon
 
 ## Issues and updates
 
-Would you like different or updated functionality? 
-Please ping me by adding an [issue](https://github.com/vsoch/pokemon/issues)! 
-I did this for fun, might sneak it into a few command line applications, 
+Would you like different or updated functionality?
+Please ping me by adding an [issue](https://github.com/vsoch/pokemon/issues)!
+I did this for fun, might sneak it into a few command line applications,
 and it's pretty simple so far! I hope you have fun with it! :D

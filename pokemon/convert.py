@@ -1,6 +1,6 @@
 """
 
-Copyright (c) 2016-2020 Vanessa Sochat
+Copyright (c) 2016-2023 Vanessa Sochat
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -24,15 +24,20 @@ SOFTWARE.
 
 from PIL import Image
 
-"""Credit goes to https://www.hackerearth.com/notes/beautiful-python-a-simple-ascii-art-generator-from-images/
-The one modification I added was to scale the new_width by 2, because text characters tend to be thinner than they
-are wide, and the current method produced images that were (generally) too tall!
-"""
+# Credit goes to https://www.hackerearth.com/notes/beautiful-python-a-simple-ascii-art-generator-from-images/
+# The one modification I added was to scale the new_width by 2, because text characters tend to be thinner than they
+# are wide, and the current method produced images that were (generally) too tall!
+
+# This module is only needed to update the database (and not running pokemon)
+# so PIL (Pillow) is not added as a dependency.
+
 ASCII_CHARS = ["#", "?", "%", ".", "S", "+", ".", "*", ":", ",", "@"]
 
 
 def scale_image(image, new_width):
-    """Resizes an image preserving the aspect ratio."""
+    """
+    Resizes an image preserving the aspect ratio.
+    """
     (original_width, original_height) = image.size
     aspect_ratio = original_height / float(original_width)
     new_height = int(aspect_ratio * new_width)
@@ -75,7 +80,7 @@ def handle_image_conversion(image_filepath, new_width=100):
     image = None
     try:
         image = Image.open(image_filepath)
-    except:
+    except Exception as e:
         print(
             "Unable to open image file {image_filepath}.".format(
                 image_filepath=image_filepath
